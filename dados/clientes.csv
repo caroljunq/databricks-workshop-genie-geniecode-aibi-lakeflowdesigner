@@ -1,0 +1,251 @@
+cliente_id,nome,cpf_mascarado,idade,renda_mensal,score_credito,cidade,estado,segmento,canal_aquisicao,data_cadastro,ativo
+1,Gustavo Barbosa,***.132.***-**,45,5266.05,682,Curitiba,PR,PF,Telefone,2019-12-23,false
+2,Fernanda Ribeiro,***.703.***-**,54,5330.38,768,Porto Alegre,RS,PF,Digital,2023-09-15,true
+3,Maria Melo,***.199.***-**,38,3554.93,600,São Paulo,SP,PF,Digital,2020-02-23,true
+4,Maria Gomes,***.400.***-**,41,2500,566,Goiânia,GO,PJ Frota,Concessionária,2023-03-31,true
+5,Carla Almeida,***.987.***-**,45,3485.96,667,Vitória,ES,PF,Digital,2019-11-23,true
+6,André Oliveira,***.723.***-**,41,2500,698,Salvador,BA,PF,Concessionária,2021-12-29,true
+7,Eduardo Santos,***.334.***-**,37,3548.5,481,Sorocaba,SP,PF,Digital,2022-08-21,true
+8,Roberto Pereira,***.505.***-**,58,4164.94,675,Recife,PE,Consorciado,Digital,2022-07-12,true
+9,Juliana Almeida,***.241.***-**,41,6222.02,659,Londrina,PR,PJ Frota,Concessionária,2023-06-24,true
+10,Aline Oliveira,***.494.***-**,25,5113.78,501,Belo Horizonte,MG,PF,Concessionária,2023-09-26,true
+11,Lucas Nascimento,***.887.***-**,21,3765.59,665,Londrina,PR,PJ Frota,Digital,2025-01-08,true
+12,Felipe Ferreira,***.619.***-**,36,4504.73,704,Curitiba,PR,PF,Digital,2021-12-14,true
+13,Ana Rocha,***.431.***-**,44,2838.09,680,Fortaleza,CE,PF,Parceiro,2024-12-12,true
+14,Fernanda Martins,***.180.***-**,47,13622.71,606,Curitiba,PR,Consorciado,Concessionária,2019-08-26,true
+15,Marcelo Lopes,***.993.***-**,49,2500,614,Joinville,SC,PF,Parceiro,2020-11-07,true
+16,Beatriz Carvalho,***.548.***-**,36,11296.92,614,Porto Alegre,RS,PF,Digital,2023-06-23,true
+17,André Santos,***.334.***-**,43,6440.83,606,Londrina,PR,PF,Concessionária,2019-10-18,false
+18,Larissa Costa,***.840.***-**,49,5619.72,637,Rio de Janeiro,RJ,PF,Digital,2021-05-27,true
+19,Camila Barbosa,***.578.***-**,31,4068.0,577,Niterói,RJ,PF,Digital,2022-12-22,true
+20,Renata Souza,***.354.***-**,39,2500,450,Rio de Janeiro,RJ,PF,Concessionária,2022-10-21,true
+21,Carlos Gomes,***.956.***-**,28,5899.9,650,Sorocaba,SP,Consorciado,Concessionária,2020-02-06,false
+22,Carla Melo,***.160.***-**,45,12791.27,606,Belo Horizonte,MG,PF,Concessionária,2021-05-25,true
+23,Pedro Rodrigues,***.403.***-**,45,4723.0,678,São Paulo,SP,PF,Parceiro,2024-06-16,true
+24,Felipe Lopes,***.261.***-**,27,2686.02,607,Rio de Janeiro,RJ,PJ Frota,Concessionária,2024-05-06,false
+25,Gustavo Rocha,***.140.***-**,43,5826.18,562,Uberlândia,MG,PF,Concessionária,2021-10-05,true
+26,Fernanda Nascimento,***.505.***-**,29,3326.88,570,Ribeirão Preto,SP,PF,Concessionária,2022-07-10,true
+27,Maria Gomes,***.318.***-**,21,6876.96,673,Fortaleza,CE,PF,Digital,2020-02-14,true
+28,Diego Gomes,***.820.***-**,37,13852.48,610,Campinas,SP,Consorciado,Concessionária,2020-10-08,true
+29,João Gomes,***.259.***-**,56,5165.79,624,Uberlândia,MG,Consorciado,Concessionária,2020-04-17,true
+30,Vanessa Nascimento,***.966.***-**,52,5560.32,732,Vitória,ES,PF,Telefone,2024-09-01,false
+31,Larissa Barbosa,***.674.***-**,39,4251.14,637,Ribeirão Preto,SP,Consorciado,Concessionária,2023-12-15,false
+32,Gustavo Gomes,***.251.***-**,42,10863.93,630,Belo Horizonte,MG,PF,Concessionária,2023-02-21,true
+33,Beatriz Souza,***.462.***-**,30,14759.75,724,Rio de Janeiro,RJ,Consorciado,Concessionária,2021-10-19,true
+34,Renata Ferreira,***.522.***-**,21,12122.08,652,Ribeirão Preto,SP,Consorciado,Concessionária,2020-10-27,false
+35,Bruno Santos,***.979.***-**,40,2821.83,592,Recife,PE,PF,Concessionária,2020-03-18,true
+36,Fernanda Silva,***.775.***-**,23,6299.17,581,Porto Alegre,RS,PF,Digital,2021-07-21,true
+37,Rafael Silva,***.218.***-**,37,6034.66,672,Recife,PE,PF,Digital,2025-01-05,true
+38,Juliana Araújo,***.546.***-**,28,9060.13,852,Salvador,BA,PF,Concessionária,2023-11-15,true
+39,Juliana Barbosa,***.171.***-**,54,10756.64,680,Uberlândia,MG,PF,Concessionária,2021-03-18,true
+40,Patricia Barbosa,***.434.***-**,40,2750.34,572,Recife,PE,PF,Telefone,2024-09-08,true
+41,Bruno Gomes,***.953.***-**,31,4357.48,618,Fortaleza,CE,PJ Frota,Concessionária,2022-05-17,false
+42,Diego Rodrigues,***.623.***-**,29,6241.8,798,Fortaleza,CE,PF,Concessionária,2023-12-15,true
+43,Beatriz Lima,***.330.***-**,33,3368.87,599,Santos,SP,PF,Parceiro,2021-08-20,true
+44,Diego Barbosa,***.744.***-**,26,7386.04,673,Campinas,SP,PF,Telefone,2019-10-26,true
+45,Lucas Barbosa,***.324.***-**,30,4986.7,655,Florianópolis,SC,PJ Frota,Digital,2020-03-12,true
+46,Renata Ribeiro,***.783.***-**,37,2500,677,Uberlândia,MG,Consorciado,Concessionária,2020-06-30,true
+47,Luciana Pereira,***.560.***-**,21,2500,740,Sorocaba,SP,PF,Concessionária,2024-01-01,true
+48,Marcelo Ribeiro,***.179.***-**,29,6230.39,607,Brasília,DF,PJ Frota,Concessionária,2021-09-06,true
+49,Maria Barbosa,***.517.***-**,36,7929.01,623,Brasília,DF,PF,Digital,2021-05-26,true
+50,Carla Martins,***.489.***-**,36,3557.43,684,Londrina,PR,PF,Telefone,2019-03-22,true
+51,Vanessa Almeida,***.379.***-**,35,8279.44,784,Goiânia,GO,PF,Digital,2021-06-22,true
+52,Pedro Rocha,***.646.***-**,26,2627.24,731,São Paulo,SP,PJ Frota,Digital,2024-03-29,false
+53,Bruno Araújo,***.316.***-**,25,3156.52,729,Florianópolis,SC,Consorciado,Concessionária,2021-12-01,true
+54,Eduardo Oliveira,***.581.***-**,43,5104.4,582,Recife,PE,PJ Frota,Telefone,2021-10-30,false
+55,Fernanda Rodrigues,***.959.***-**,61,7597.53,670,Sorocaba,SP,Consorciado,Concessionária,2019-05-08,false
+56,André Nascimento,***.885.***-**,41,5139.98,750,Campinas,SP,PF,Parceiro,2024-03-19,true
+57,Patricia Martins,***.793.***-**,25,2780.09,766,Vitória,ES,Consorciado,Concessionária,2019-04-16,true
+58,João Lima,***.970.***-**,50,2500,731,Florianópolis,SC,PF,Digital,2021-09-21,true
+59,Ana Barbosa,***.942.***-**,41,2500,750,Curitiba,PR,PF,Concessionária,2022-10-29,true
+60,Luciana Lopes,***.766.***-**,41,10486.97,643,Ribeirão Preto,SP,Consorciado,Digital,2023-11-19,true
+61,Marcelo Ribeiro,***.349.***-**,39,2676.63,704,Sorocaba,SP,PF,Concessionária,2019-12-21,true
+62,Vanessa Rodrigues,***.463.***-**,26,3252.08,606,Niterói,RJ,PF,Telefone,2021-01-14,true
+63,Paula Barbosa,***.600.***-**,35,10176.44,744,Recife,PE,PF,Concessionária,2021-09-15,true
+64,Patricia Almeida,***.514.***-**,29,3681.49,550,Brasília,DF,PF,Digital,2020-01-17,true
+65,André Ribeiro,***.377.***-**,33,3125.82,586,Fortaleza,CE,Consorciado,Digital,2022-12-12,true
+66,Roberto Rodrigues,***.856.***-**,34,6381.95,698,Brasília,DF,PF,Concessionária,2021-01-28,true
+67,Patricia Silva,***.825.***-**,50,4454.92,651,Niterói,RJ,PF,Concessionária,2021-01-04,true
+68,João Silva,***.687.***-**,42,5864.65,669,Salvador,BA,PF,Parceiro,2024-07-03,true
+69,Vanessa Oliveira,***.690.***-**,32,5587.55,841,Joinville,SC,PF,Telefone,2023-06-30,true
+70,João Gomes,***.882.***-**,45,8790.23,786,Rio de Janeiro,RJ,Consorciado,Concessionária,2021-10-13,true
+71,Patricia Martins,***.735.***-**,39,3359.14,570,Vitória,ES,PF,Telefone,2023-10-23,false
+72,Fernanda Ferreira,***.665.***-**,36,7010.91,646,Curitiba,PR,PF,Digital,2020-10-05,false
+73,Maria Almeida,***.370.***-**,25,7763.93,645,São Paulo,SP,PF,Concessionária,2024-02-03,true
+74,Marcelo Costa,***.173.***-**,38,2500,496,Niterói,RJ,PF,Concessionária,2020-09-02,false
+75,Marcelo Lopes,***.652.***-**,22,2760.83,731,Fortaleza,CE,PF,Concessionária,2023-07-07,true
+76,Maria Almeida,***.790.***-**,32,2500,558,Belo Horizonte,MG,PJ Frota,Digital,2019-04-16,true
+77,Vanessa Lopes,***.767.***-**,36,4634.97,673,Niterói,RJ,PF,Digital,2020-12-18,true
+78,Vanessa Carvalho,***.518.***-**,21,6664.36,759,Salvador,BA,PF,Concessionária,2020-01-09,true
+79,Diego Oliveira,***.422.***-**,43,3349.08,633,Curitiba,PR,Consorciado,Telefone,2019-05-31,true
+80,Camila Santos,***.292.***-**,30,8517.82,651,Curitiba,PR,PF,Parceiro,2024-03-07,true
+81,André Pereira,***.224.***-**,38,2500,658,Vitória,ES,PF,Parceiro,2023-11-30,false
+82,Maria Almeida,***.961.***-**,31,6398.33,542,Vitória,ES,PF,Concessionária,2023-07-30,true
+83,Eduardo Pereira,***.583.***-**,51,3791.74,763,Londrina,PR,PF,Digital,2023-08-29,true
+84,Carla Oliveira,***.382.***-**,57,6123.36,703,Sorocaba,SP,PF,Digital,2020-07-13,true
+85,Carla Costa,***.557.***-**,28,11136.57,671,Ribeirão Preto,SP,PJ Frota,Telefone,2024-06-28,true
+86,André Almeida,***.685.***-**,38,3096.38,774,Goiânia,GO,PF,Parceiro,2021-02-11,true
+87,Vanessa Santos,***.229.***-**,53,6286.36,622,Ribeirão Preto,SP,PF,Digital,2020-09-15,true
+88,Ana Costa,***.519.***-**,21,4338.86,690,Niterói,RJ,Consorciado,Concessionária,2024-02-15,true
+89,Carla Gomes,***.489.***-**,53,7590.03,654,Campinas,SP,PF,Concessionária,2022-09-07,true
+90,Fernanda Oliveira,***.544.***-**,51,5450.26,645,Joinville,SC,PF,Digital,2022-03-23,true
+91,Camila Costa,***.350.***-**,23,6590.05,683,Curitiba,PR,PJ Frota,Concessionária,2023-03-16,true
+92,Aline Almeida,***.609.***-**,36,4255.63,612,Niterói,RJ,PF,Digital,2023-04-16,true
+93,Beatriz Gomes,***.261.***-**,39,10711.28,556,Campinas,SP,Consorciado,Concessionária,2022-03-24,false
+94,Carla Lima,***.303.***-**,41,7803.66,660,Goiânia,GO,Consorciado,Digital,2024-02-15,true
+95,Marcelo Silva,***.679.***-**,45,6869.02,621,Joinville,SC,PF,Concessionária,2023-06-10,true
+96,Aline Carvalho,***.324.***-**,44,10612.36,600,Rio de Janeiro,RJ,Consorciado,Telefone,2021-07-31,true
+97,Patricia Ribeiro,***.134.***-**,37,12372.42,687,Vitória,ES,PF,Concessionária,2019-06-11,true
+98,Renata Gomes,***.997.***-**,22,7245.7,700,Campinas,SP,PJ Frota,Concessionária,2020-06-25,true
+99,Paula Araújo,***.923.***-**,30,4890.51,750,Uberlândia,MG,Consorciado,Parceiro,2022-04-23,true
+100,Carla Gomes,***.474.***-**,57,12190.8,835,Belo Horizonte,MG,Consorciado,Digital,2023-06-16,true
+101,João Almeida,***.582.***-**,50,5216.49,545,Florianópolis,SC,PF,Digital,2023-03-02,false
+102,André Lima,***.764.***-**,42,3444.94,753,Sorocaba,SP,PF,Digital,2024-03-16,true
+103,Diego Carvalho,***.786.***-**,40,5128.54,699,Campinas,SP,PF,Concessionária,2023-05-11,true
+104,Eduardo Pereira,***.730.***-**,37,2500,719,Sorocaba,SP,PF,Concessionária,2020-02-10,true
+105,Larissa Carvalho,***.162.***-**,47,5475.38,477,Salvador,BA,Consorciado,Concessionária,2023-02-13,true
+106,Thiago Rocha,***.121.***-**,46,18309.35,647,Porto Alegre,RS,Consorciado,Concessionária,2021-05-18,false
+107,Eduardo Almeida,***.436.***-**,38,6536.25,635,Recife,PE,PJ Frota,Concessionária,2021-06-03,true
+108,Renata Ferreira,***.212.***-**,36,14578.81,681,Vitória,ES,PF,Concessionária,2021-10-23,true
+109,Paula Barbosa,***.638.***-**,44,7198.4,689,São Paulo,SP,PF,Concessionária,2020-06-03,true
+110,Fernanda Rocha,***.144.***-**,25,2500,675,Belo Horizonte,MG,PF,Concessionária,2024-08-25,true
+111,Vanessa Ribeiro,***.175.***-**,33,10389.78,950,Uberlândia,MG,Consorciado,Concessionária,2020-03-18,true
+112,Bruno Rocha,***.643.***-**,45,4198.21,639,Recife,PE,PF,Digital,2022-08-24,true
+113,Camila Ribeiro,***.333.***-**,34,4210.75,611,Uberlândia,MG,PF,Digital,2021-05-30,true
+114,Juliana Costa,***.803.***-**,21,2500,731,Londrina,PR,PF,Concessionária,2021-11-10,true
+115,Gustavo Gomes,***.675.***-**,41,5574.75,540,Belo Horizonte,MG,PF,Concessionária,2019-09-03,true
+116,Patricia Rocha,***.419.***-**,44,2500,741,Curitiba,PR,Consorciado,Concessionária,2019-07-30,true
+117,Lucas Nascimento,***.687.***-**,32,4842.34,505,Niterói,RJ,PF,Digital,2020-04-15,true
+118,Aline Nascimento,***.129.***-**,40,11371.39,493,Ribeirão Preto,SP,PJ Frota,Digital,2019-04-18,true
+119,Maria Lopes,***.320.***-**,46,3858.18,676,Fortaleza,CE,PF,Concessionária,2019-05-06,true
+120,Carlos Costa,***.261.***-**,43,3692.91,722,Londrina,PR,PJ Frota,Digital,2019-12-14,true
+121,João Carvalho,***.540.***-**,34,3330.01,608,Rio de Janeiro,RJ,PF,Concessionária,2024-09-29,true
+122,Ana Rodrigues,***.408.***-**,28,2500,664,Niterói,RJ,PF,Concessionária,2019-08-13,true
+123,André Almeida,***.612.***-**,38,3124.77,724,Campinas,SP,PF,Concessionária,2024-12-21,true
+124,Carla Araújo,***.689.***-**,46,13145.83,745,Goiânia,GO,PF,Concessionária,2019-11-15,true
+125,Eduardo Carvalho,***.190.***-**,35,2825.5,667,Florianópolis,SC,PF,Telefone,2024-02-28,true
+126,Paula Araújo,***.326.***-**,39,5068.43,766,Curitiba,PR,PF,Concessionária,2022-06-24,true
+127,Fernanda Souza,***.249.***-**,50,7042.05,612,Santos,SP,PJ Frota,Concessionária,2020-08-27,true
+128,Diego Martins,***.878.***-**,36,2500,573,Santos,SP,PF,Concessionária,2024-07-16,true
+129,Diego Lima,***.915.***-**,21,2500,560,Niterói,RJ,PF,Concessionária,2024-04-04,true
+130,Eduardo Lima,***.178.***-**,61,4319.7,683,Rio de Janeiro,RJ,PF,Concessionária,2023-02-19,true
+131,Renata Martins,***.767.***-**,29,3188.64,557,Belo Horizonte,MG,PJ Frota,Telefone,2024-01-17,true
+132,André Oliveira,***.616.***-**,40,3601.62,664,Vitória,ES,PF,Concessionária,2022-11-07,true
+133,Bruno Barbosa,***.893.***-**,38,8867.71,577,Rio de Janeiro,RJ,PF,Concessionária,2022-03-04,true
+134,Patricia Nascimento,***.841.***-**,42,10248.24,706,Vitória,ES,PF,Concessionária,2023-05-03,true
+135,Pedro Rocha,***.825.***-**,44,3449.54,618,Vitória,ES,PF,Parceiro,2023-05-25,true
+136,Maria Barbosa,***.620.***-**,35,2500,613,Fortaleza,CE,PF,Concessionária,2024-11-26,true
+137,Maria Lima,***.964.***-**,29,17329.55,610,Goiânia,GO,PF,Parceiro,2020-09-26,true
+138,Lucas Rocha,***.234.***-**,52,5634.01,510,Uberlândia,MG,Consorciado,Concessionária,2022-10-11,true
+139,Juliana Almeida,***.554.***-**,47,11895.67,693,Campinas,SP,PF,Concessionária,2023-08-10,true
+140,Juliana Martins,***.551.***-**,21,5119.47,719,Londrina,PR,Consorciado,Digital,2021-03-05,true
+141,Carlos Pereira,***.995.***-**,40,2591.09,613,Fortaleza,CE,PF,Digital,2021-10-21,true
+142,Marcelo Ribeiro,***.625.***-**,40,4191.84,564,Curitiba,PR,PF,Concessionária,2020-10-18,true
+143,Felipe Carvalho,***.341.***-**,56,9494.2,736,Ribeirão Preto,SP,Consorciado,Concessionária,2023-06-12,true
+144,Renata Costa,***.240.***-**,21,4478.53,672,Belo Horizonte,MG,Consorciado,Telefone,2022-10-05,false
+145,Roberto Costa,***.661.***-**,36,3701.27,633,Joinville,SC,PF,Concessionária,2021-11-14,true
+146,Fernanda Barbosa,***.754.***-**,27,3778.25,650,Vitória,ES,PF,Concessionária,2019-07-15,true
+147,Patricia Barbosa,***.101.***-**,55,7350.73,565,Londrina,PR,PF,Digital,2020-08-11,true
+148,Maria Lopes,***.657.***-**,38,3569.24,635,Brasília,DF,PF,Concessionária,2023-01-17,true
+149,Juliana Oliveira,***.453.***-**,28,4094.36,546,Uberlândia,MG,Consorciado,Concessionária,2019-03-08,true
+150,Eduardo Ferreira,***.950.***-**,40,5545.6,531,Curitiba,PR,PF,Concessionária,2022-10-18,true
+151,Patricia Rodrigues,***.144.***-**,49,4557.56,676,Londrina,PR,PF,Parceiro,2019-06-01,true
+152,Marcelo Santos,***.871.***-**,42,4065.02,721,Rio de Janeiro,RJ,PF,Telefone,2024-04-23,true
+153,Paula Ribeiro,***.495.***-**,27,10403.24,718,Fortaleza,CE,PF,Concessionária,2023-06-27,true
+154,Paula Barbosa,***.180.***-**,31,2578.39,657,Santos,SP,Consorciado,Concessionária,2019-12-05,true
+155,Luciana Ribeiro,***.459.***-**,29,4287.85,761,Santos,SP,PF,Digital,2023-10-12,true
+156,Maria Melo,***.472.***-**,45,3161.57,599,Goiânia,GO,PF,Digital,2019-08-23,true
+157,Juliana Melo,***.680.***-**,43,4495.18,550,Santos,SP,PF,Concessionária,2023-02-09,false
+158,Felipe Carvalho,***.507.***-**,27,2756.95,479,Campinas,SP,PF,Digital,2020-07-17,true
+159,Lucas Nascimento,***.820.***-**,38,6437.59,654,Salvador,BA,PF,Digital,2021-12-08,true
+160,Diego Ferreira,***.830.***-**,26,3745.53,831,Vitória,ES,PF,Concessionária,2019-10-31,true
+161,Patricia Ferreira,***.828.***-**,47,2500,773,Belo Horizonte,MG,PF,Concessionária,2022-04-04,true
+162,Fernanda Pereira,***.126.***-**,36,5871.07,569,Santos,SP,PF,Concessionária,2020-07-22,true
+163,Felipe Barbosa,***.887.***-**,25,10178.89,566,Niterói,RJ,PF,Concessionária,2024-05-14,true
+164,Juliana Costa,***.999.***-**,33,18364.77,782,Niterói,RJ,PF,Concessionária,2024-10-20,true
+165,Felipe Costa,***.411.***-**,33,3758.21,740,Sorocaba,SP,Consorciado,Concessionária,2020-05-23,true
+166,Carla Oliveira,***.356.***-**,35,7048.49,641,Recife,PE,Consorciado,Concessionária,2022-03-09,true
+167,Luciana Rocha,***.837.***-**,35,10522.55,644,Sorocaba,SP,PF,Digital,2020-09-23,true
+168,Thiago Martins,***.371.***-**,35,7251.65,578,Recife,PE,Consorciado,Concessionária,2019-07-06,true
+169,Fernanda Melo,***.404.***-**,25,7280.09,552,Niterói,RJ,PF,Parceiro,2024-06-01,true
+170,Rafael Araújo,***.851.***-**,38,6709.34,732,Rio de Janeiro,RJ,PF,Concessionária,2020-08-11,true
+171,Diego Almeida,***.244.***-**,43,4699.1,588,Goiânia,GO,PF,Concessionária,2021-12-31,true
+172,Eduardo Araújo,***.691.***-**,47,13834.35,623,Fortaleza,CE,PF,Parceiro,2020-10-16,true
+173,Felipe Ribeiro,***.346.***-**,38,2581.79,561,Porto Alegre,RS,PF,Concessionária,2023-05-30,true
+174,Patricia Gomes,***.108.***-**,36,7527.77,684,Goiânia,GO,PF,Telefone,2024-04-11,true
+175,Juliana Gomes,***.395.***-**,43,6778.08,609,Ribeirão Preto,SP,PF,Concessionária,2021-03-08,false
+176,Pedro Souza,***.503.***-**,45,2536.71,686,Uberlândia,MG,Consorciado,Digital,2020-05-01,true
+177,Pedro Araújo,***.923.***-**,29,4078.58,725,Recife,PE,PF,Concessionária,2019-06-09,true
+178,Luciana Melo,***.731.***-**,48,9797.86,805,Londrina,PR,PF,Parceiro,2022-07-28,true
+179,Juliana Araújo,***.789.***-**,28,3416.97,564,Fortaleza,CE,PF,Concessionária,2019-03-10,true
+180,Aline Pereira,***.371.***-**,37,2500,583,Ribeirão Preto,SP,PJ Frota,Digital,2019-04-20,true
+181,Pedro Almeida,***.132.***-**,23,3254.82,614,Niterói,RJ,PF,Digital,2023-04-07,true
+182,Camila Lopes,***.893.***-**,34,6097.65,742,Curitiba,PR,PF,Concessionária,2021-04-15,true
+183,Felipe Melo,***.421.***-**,49,2583.2,695,Joinville,SC,PF,Concessionária,2024-05-13,true
+184,Aline Pereira,***.296.***-**,40,7545.39,626,Londrina,PR,PF,Digital,2021-12-18,true
+185,Rafael Pereira,***.457.***-**,31,4272.21,724,Salvador,BA,PF,Concessionária,2024-06-25,true
+186,Eduardo Carvalho,***.891.***-**,36,4151.06,759,Salvador,BA,PF,Telefone,2023-06-05,true
+187,Roberto Gomes,***.377.***-**,62,7032.08,823,Fortaleza,CE,PF,Digital,2021-05-26,true
+188,Fernanda Almeida,***.153.***-**,48,8061.13,750,Salvador,BA,PF,Concessionária,2024-12-15,true
+189,Thiago Pereira,***.588.***-**,37,3835.7,658,Recife,PE,PF,Parceiro,2023-07-25,true
+190,Larissa Santos,***.279.***-**,36,3488.78,760,Fortaleza,CE,Consorciado,Concessionária,2021-08-09,true
+191,Carlos Silva,***.405.***-**,40,4626.88,731,Santos,SP,PF,Digital,2022-03-31,true
+192,Vanessa Costa,***.971.***-**,22,7688.55,633,Curitiba,PR,PF,Digital,2024-11-17,true
+193,Renata Lima,***.681.***-**,39,6321.57,708,Salvador,BA,PF,Concessionária,2022-10-12,true
+194,Rafael Oliveira,***.510.***-**,47,8012.09,806,Porto Alegre,RS,Consorciado,Telefone,2024-10-11,true
+195,Rafael Lima,***.696.***-**,49,4573.57,667,Santos,SP,PF,Concessionária,2021-12-29,true
+196,Patricia Ferreira,***.515.***-**,37,4733.14,734,São Paulo,SP,PF,Digital,2024-03-21,true
+197,Pedro Ribeiro,***.865.***-**,32,2500,726,Fortaleza,CE,PF,Parceiro,2024-05-12,true
+198,Lucas Almeida,***.796.***-**,34,2698.65,706,Goiânia,GO,PF,Concessionária,2021-06-13,true
+199,Roberto Martins,***.649.***-**,25,4413.51,543,Belo Horizonte,MG,PF,Telefone,2024-09-01,true
+200,Maria Lopes,***.556.***-**,55,7062.27,595,Recife,PE,PF,Digital,2024-06-25,true
+201,Bruno Nascimento,***.936.***-**,45,7481.49,570,Londrina,PR,PF,Concessionária,2019-03-31,false
+202,Maria Pereira,***.132.***-**,32,4240.4,646,Porto Alegre,RS,PF,Concessionária,2019-09-04,true
+203,Diego Melo,***.484.***-**,40,2500,769,Santos,SP,PF,Parceiro,2023-04-16,true
+204,Felipe Costa,***.845.***-**,36,10218.04,788,Sorocaba,SP,PF,Parceiro,2023-05-29,true
+205,Fernanda Ribeiro,***.454.***-**,39,2500,530,São Paulo,SP,PF,Concessionária,2021-07-29,true
+206,Aline Silva,***.346.***-**,41,11118.12,622,Porto Alegre,RS,PF,Telefone,2023-09-14,true
+207,Fernanda Gomes,***.322.***-**,28,3523.03,580,Curitiba,PR,PF,Concessionária,2023-12-03,true
+208,Gustavo Rocha,***.891.***-**,21,14930.98,875,Rio de Janeiro,RJ,PF,Telefone,2022-07-30,true
+209,Thiago Barbosa,***.669.***-**,39,15071.41,776,Recife,PE,PF,Concessionária,2020-12-18,true
+210,Camila Costa,***.407.***-**,36,10570.76,628,Goiânia,GO,PJ Frota,Concessionária,2023-09-02,true
+211,Camila Gomes,***.642.***-**,21,5867.76,622,Sorocaba,SP,PJ Frota,Telefone,2023-08-18,true
+212,Maria Gomes,***.841.***-**,52,4839.39,731,Brasília,DF,PF,Concessionária,2023-02-28,true
+213,Vanessa Rodrigues,***.990.***-**,36,11132.0,542,Rio de Janeiro,RJ,PF,Digital,2021-06-07,true
+214,Paula Pereira,***.348.***-**,25,5394.77,657,Fortaleza,CE,Consorciado,Parceiro,2020-04-25,true
+215,Marcelo Carvalho,***.625.***-**,32,6285.7,634,Porto Alegre,RS,PF,Digital,2022-06-17,true
+216,Juliana Araújo,***.523.***-**,45,17384.73,815,Londrina,PR,PF,Telefone,2021-04-12,false
+217,Rafael Almeida,***.488.***-**,37,4450.11,558,Brasília,DF,PJ Frota,Concessionária,2021-03-14,true
+218,Paula Pereira,***.571.***-**,33,2500,655,Brasília,DF,PF,Concessionária,2024-06-24,true
+219,Felipe Santos,***.959.***-**,45,10587.26,493,Goiânia,GO,PF,Digital,2019-08-29,true
+220,Ana Rodrigues,***.617.***-**,39,5172.07,578,Rio de Janeiro,RJ,Consorciado,Concessionária,2020-09-10,true
+221,Ana Silva,***.642.***-**,27,2835.52,587,Rio de Janeiro,RJ,PF,Concessionária,2023-08-12,true
+222,João Souza,***.636.***-**,30,5438.5,658,Sorocaba,SP,PJ Frota,Digital,2021-01-04,true
+223,Gustavo Almeida,***.813.***-**,32,3689.46,570,Porto Alegre,RS,PF,Parceiro,2024-02-24,true
+224,Bruno Gomes,***.587.***-**,52,2648.69,525,Belo Horizonte,MG,PJ Frota,Concessionária,2023-04-03,false
+225,Felipe Santos,***.335.***-**,36,3949.92,722,São Paulo,SP,PF,Parceiro,2020-01-26,true
+226,Luciana Araújo,***.116.***-**,26,4155.4,662,Niterói,RJ,PF,Parceiro,2019-05-15,true
+227,Beatriz Gomes,***.439.***-**,49,10965.76,751,Niterói,RJ,PF,Digital,2023-05-13,true
+228,Carlos Souza,***.547.***-**,21,6073.48,543,Campinas,SP,PF,Digital,2022-11-17,true
+229,Renata Ribeiro,***.602.***-**,28,10862.86,748,Belo Horizonte,MG,PJ Frota,Concessionária,2022-01-24,true
+230,Lucas Rocha,***.402.***-**,35,8478.67,636,Sorocaba,SP,PF,Digital,2019-12-18,true
+231,Maria Silva,***.415.***-**,43,5749.78,634,Belo Horizonte,MG,PJ Frota,Concessionária,2020-03-12,true
+232,Camila Souza,***.126.***-**,24,5932.67,682,Salvador,BA,PF,Digital,2024-09-29,true
+233,Paula Gomes,***.348.***-**,49,7404.8,629,Sorocaba,SP,PF,Concessionária,2019-12-13,true
+234,Maria Ferreira,***.545.***-**,46,4304.79,613,Santos,SP,PF,Concessionária,2020-08-20,true
+235,Diego Souza,***.238.***-**,34,5022.92,659,Fortaleza,CE,PF,Digital,2021-03-11,true
+236,Camila Rocha,***.239.***-**,45,3367.76,753,Florianópolis,SC,PJ Frota,Concessionária,2022-10-03,true
+237,Gustavo Almeida,***.433.***-**,44,4359.95,577,Vitória,ES,Consorciado,Concessionária,2024-07-04,true
+238,Beatriz Gomes,***.127.***-**,61,2500,794,Florianópolis,SC,PF,Parceiro,2021-01-06,true
+239,Beatriz Pereira,***.242.***-**,44,4305.69,703,Londrina,PR,PF,Telefone,2023-08-03,true
+240,Aline Pereira,***.696.***-**,21,4888.49,706,Brasília,DF,PF,Concessionária,2024-01-14,true
+241,Aline Oliveira,***.211.***-**,55,2941.38,636,Uberlândia,MG,Consorciado,Digital,2025-01-08,true
+242,Lucas Araújo,***.915.***-**,39,7187.61,759,Goiânia,GO,PF,Digital,2023-06-25,true
+243,Bruno Ribeiro,***.890.***-**,43,6162.86,660,São Paulo,SP,PF,Concessionária,2023-03-13,true
+244,João Costa,***.456.***-**,25,15058.26,906,Uberlândia,MG,PF,Concessionária,2019-12-18,true
+245,Patricia Santos,***.929.***-**,40,2560.57,634,Londrina,PR,PJ Frota,Concessionária,2019-10-03,true
+246,Felipe Ferreira,***.665.***-**,41,7815.23,571,São Paulo,SP,PF,Concessionária,2021-09-26,true
+247,Ana Rocha,***.302.***-**,28,6459.73,696,Sorocaba,SP,PF,Digital,2023-06-09,true
+248,Gustavo Souza,***.918.***-**,24,2545.51,735,Ribeirão Preto,SP,PF,Digital,2019-09-14,true
+249,Aline Melo,***.725.***-**,33,6451.98,752,Santos,SP,PF,Parceiro,2022-07-07,true
+250,Aline Martins,***.186.***-**,47,2661.0,781,Curitiba,PR,PF,Telefone,2022-05-03,true

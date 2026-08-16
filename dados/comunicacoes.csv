@@ -1,0 +1,1424 @@
+comunicacao_id,cliente_id,contrato_id,tipo_comunicacao,campanha,data_prevista_envio,data_envio,status_envio,resultado,mes_referencia,ano_referencia,custo_estimado_rs
+1,227,305,Email,Lembrete Parcela,2026-09-18,,Agendado,,9,2026,0.03
+2,227,305,WhatsApp,CNH Pendência,2025-10-22,2025-10-22,Enviado,Sem Resposta,10,2025,0.25
+3,227,305,Carta,Lembrete Parcela,2026-10-30,,Agendado,,10,2026,4.5
+4,227,305,SMS,Cobrança,2026-06-04,2026-06-04,Enviado,Respondido,6,2026,0.12
+5,227,305,Push,Renovação,2026-04-16,2026-04-16,Enviado,Respondido,4,2026,0.01
+6,227,305,WhatsApp,Oferta Cross-sell,2026-06-02,2026-06-02,Enviado,Pagou,6,2026,0.25
+7,227,305,SMS,Cobrança,2025-05-08,2025-05-08,Enviado,Respondido,5,2025,0.12
+8,236,317,WhatsApp,CNH Pendência,2026-07-26,2026-07-26,Enviado,Sem Resposta,7,2026,0.25
+9,236,317,SMS,Cobrança,2027-01-18,,Agendado,,1,2027,0.12
+10,236,317,WhatsApp,Lembrete Parcela,2026-10-07,,Agendado,,10,2026,0.25
+11,236,317,SMS,Oferta Cross-sell,2025-07-25,2025-07-25,Enviado,Pagou,7,2025,0.12
+12,236,317,SMS,Cobrança,2026-09-25,,Agendado,,9,2026,0.12
+13,236,317,Push,Entrega Veículo,2025-06-15,,Falhou,,6,2025,0.01
+14,236,317,WhatsApp,Oferta Cross-sell,2026-10-14,,Agendado,,10,2026,0.25
+15,42,51,Email,Entrega Veículo,2026-12-23,,Agendado,,12,2026,0.03
+16,42,51,WhatsApp,Cobrança,2027-01-09,,Agendado,,1,2027,0.25
+17,42,51,SMS,CNH Pendência,2026-11-12,,Agendado,,11,2026,0.12
+18,42,51,SMS,Cobrança,2026-10-26,,Agendado,,10,2026,0.12
+19,238,319,SMS,Renovação,2026-05-06,,Falhou,,5,2026,0.12
+20,238,319,Carta,Cobrança,2025-02-26,2025-02-26,Enviado,Sem Resposta,2,2025,4.5
+21,238,319,SMS,Oferta Cross-sell,2026-05-13,2026-05-13,Enviado,Respondido,5,2026,0.12
+22,155,209,WhatsApp,Entrega Veículo,2026-10-22,,Agendado,,10,2026,0.25
+23,155,209,Carta,Cobrança,2026-01-30,2026-01-30,Enviado,Sem Resposta,1,2026,4.5
+24,155,209,SMS,Oferta Cross-sell,2026-08-08,2026-08-08,Enviado,Sem Resposta,8,2026,0.12
+25,155,209,SMS,Renovação,2026-11-30,,Agendado,,11,2026,0.12
+26,155,209,Email,Cobrança,2025-06-28,,Falhou,,6,2025,0.03
+27,155,209,Email,Lembrete Parcela,2025-10-02,2025-10-02,Enviado,Sem Resposta,10,2025,0.03
+28,60,76,Email,Cobrança,2025-04-04,2025-04-04,Enviado,Sem Resposta,4,2025,0.03
+29,60,76,WhatsApp,Entrega Veículo,2026-05-24,2026-05-24,Enviado,Respondido,5,2026,0.25
+30,60,76,SMS,Oferta Cross-sell,2025-09-17,2025-09-17,Enviado,Opt-out,9,2025,0.12
+31,60,76,SMS,Lembrete Parcela,2026-12-06,,Agendado,,12,2026,0.12
+32,60,76,WhatsApp,Cobrança,2025-11-11,2025-11-11,Enviado,Respondido,11,2025,0.25
+33,60,76,WhatsApp,Cobrança,2027-01-06,,Agendado,,1,2027,0.25
+34,60,76,Email,Renovação,2026-02-20,2026-02-20,Enviado,Opt-out,2,2026,0.03
+35,90,123,SMS,Cobrança,2026-05-11,2026-05-11,Enviado,Pagou,5,2026,0.12
+36,90,123,SMS,Entrega Veículo,2026-02-03,2026-02-03,Enviado,Respondido,2,2026,0.12
+37,90,123,WhatsApp,Entrega Veículo,2026-12-15,,Agendado,,12,2026,0.25
+38,90,123,WhatsApp,Lembrete Parcela,2025-08-31,2025-08-31,Enviado,Opt-out,8,2025,0.25
+39,90,123,WhatsApp,Entrega Veículo,2027-01-26,,Agendado,,1,2027,0.25
+40,116,160,SMS,Cobrança,2026-01-27,2026-01-27,Enviado,Respondido,1,2026,0.12
+41,116,160,WhatsApp,Entrega Veículo,2027-01-11,,Agendado,,1,2027,0.25
+42,116,160,SMS,Cobrança,2025-06-12,2025-06-12,Enviado,Respondido,6,2025,0.12
+43,116,160,WhatsApp,CNH Pendência,2026-01-23,2026-01-23,Enviado,Sem Resposta,1,2026,0.25
+44,116,160,WhatsApp,Lembrete Parcela,2025-01-08,2025-01-08,Enviado,Respondido,1,2025,0.25
+45,116,160,WhatsApp,Renovação,2025-11-13,2025-11-13,Enviado,Pagou,11,2025,0.25
+46,116,160,SMS,Oferta Cross-sell,2026-04-06,,Falhou,,4,2026,0.12
+47,36,44,SMS,Renovação,2026-11-18,,Agendado,,11,2026,0.12
+48,36,44,SMS,Lembrete Parcela,2026-08-09,,Agendado,,8,2026,0.12
+49,230,308,Email,Renovação,2026-11-29,,Agendado,,11,2026,0.03
+50,230,308,WhatsApp,Cobrança,2025-10-06,2025-10-06,Enviado,Sem Resposta,10,2025,0.25
+51,221,293,SMS,Renovação,2026-01-02,2026-01-02,Enviado,Sem Resposta,1,2026,0.12
+52,221,293,SMS,Cobrança,2026-12-30,,Agendado,,12,2026,0.12
+53,221,293,SMS,Renovação,2025-04-23,2025-04-23,Enviado,Respondido,4,2025,0.12
+54,221,293,SMS,Renovação,2025-03-22,,Falhou,,3,2025,0.12
+55,221,293,Push,Oferta Cross-sell,2026-07-28,2026-07-28,Enviado,Pagou,7,2026,0.01
+56,145,195,Push,Renovação,2026-03-22,2026-03-22,Enviado,Opt-out,3,2026,0.01
+57,145,195,Carta,Lembrete Parcela,2026-10-14,,Agendado,,10,2026,4.5
+58,145,195,Email,Lembrete Parcela,2025-03-16,2025-03-16,Enviado,Sem Resposta,3,2025,0.03
+59,145,195,WhatsApp,Cobrança,2025-09-08,2025-09-08,Enviado,Respondido,9,2025,0.25
+60,145,195,Carta,Lembrete Parcela,2026-04-07,2026-04-07,Enviado,Sem Resposta,4,2026,4.5
+61,145,195,Email,Cobrança,2026-07-29,2026-07-29,Enviado,Respondido,7,2026,0.03
+62,98,135,Email,Cobrança,2026-05-04,2026-05-04,Enviado,Respondido,5,2026,0.03
+63,98,135,WhatsApp,Oferta Cross-sell,2026-06-19,2026-06-19,Enviado,Opt-out,6,2026,0.25
+64,98,135,SMS,Cobrança,2026-12-25,,Agendado,,12,2026,0.12
+65,98,135,SMS,Renovação,2026-05-06,2026-05-06,Enviado,Sem Resposta,5,2026,0.12
+66,98,135,Carta,Cobrança,2025-10-21,2025-10-21,Enviado,Pagou,10,2025,4.5
+67,98,135,Email,Renovação,2025-05-09,2025-05-09,Enviado,Respondido,5,2025,0.03
+68,83,113,Email,Cobrança,2025-03-07,2025-03-07,Enviado,Sem Resposta,3,2025,0.03
+69,83,113,WhatsApp,Oferta Cross-sell,2025-12-31,2025-12-31,Enviado,Pagou,12,2025,0.25
+70,83,113,Carta,Cobrança,2026-02-07,,Falhou,,2,2026,4.5
+71,83,113,WhatsApp,Oferta Cross-sell,2025-12-12,2025-12-12,Enviado,Pagou,12,2025,0.25
+72,76,103,Email,Oferta Cross-sell,2026-12-25,,Agendado,,12,2026,0.03
+73,76,103,Push,Oferta Cross-sell,2026-01-05,2026-01-05,Enviado,Respondido,1,2026,0.01
+74,216,287,Email,Cobrança,2025-08-17,,Falhou,,8,2025,0.03
+75,216,287,SMS,Oferta Cross-sell,2025-07-07,2025-07-07,Enviado,Sem Resposta,7,2025,0.12
+76,216,287,WhatsApp,Entrega Veículo,2025-09-12,2025-09-12,Enviado,Sem Resposta,9,2025,0.25
+77,216,287,Email,Cobrança,2026-08-05,,Agendado,,8,2026,0.03
+78,216,287,WhatsApp,Cobrança,2026-11-15,,Agendado,,11,2026,0.25
+79,216,287,WhatsApp,Oferta Cross-sell,2026-11-10,,Agendado,,11,2026,0.25
+80,216,287,Email,Lembrete Parcela,2026-07-20,2026-07-20,Enviado,Opt-out,7,2026,0.03
+81,127,174,WhatsApp,Cobrança,2025-10-15,2025-10-15,Enviado,Sem Resposta,10,2025,0.25
+82,127,174,Carta,Cobrança,2027-01-13,,Agendado,,1,2027,4.5
+83,127,174,Email,Lembrete Parcela,2026-08-17,,Agendado,,8,2026,0.03
+84,127,174,SMS,Renovação,2025-08-01,2025-08-01,Enviado,Respondido,8,2025,0.12
+85,127,174,WhatsApp,Cobrança,2026-08-13,,Agendado,,8,2026,0.25
+86,127,174,WhatsApp,Cobrança,2025-10-15,2025-10-15,Enviado,Sem Resposta,10,2025,0.25
+87,127,174,Email,Renovação,2026-09-10,,Agendado,,9,2026,0.03
+88,244,326,Email,Cobrança,2025-08-28,2025-08-28,Enviado,Respondido,8,2025,0.03
+89,244,326,WhatsApp,Cobrança,2025-07-29,,Falhou,,7,2025,0.25
+90,244,326,SMS,Cobrança,2026-04-25,2026-04-25,Enviado,Pagou,4,2026,0.12
+91,55,69,Email,Lembrete Parcela,2025-01-11,2025-01-11,Enviado,Sem Resposta,1,2025,0.03
+92,55,69,WhatsApp,Lembrete Parcela,2025-11-19,2025-11-19,Enviado,Pagou,11,2025,0.25
+93,107,145,Email,Cobrança,2025-06-27,,Falhou,,6,2025,0.03
+94,107,145,WhatsApp,Lembrete Parcela,2026-05-15,2026-05-15,Enviado,Respondido,5,2026,0.25
+95,107,145,Push,Cobrança,2026-08-12,,Agendado,,8,2026,0.01
+96,177,236,Email,Oferta Cross-sell,2026-12-27,,Agendado,,12,2026,0.03
+97,177,236,WhatsApp,CNH Pendência,2026-08-05,,Agendado,,8,2026,0.25
+98,177,236,WhatsApp,Cobrança,2027-01-17,,Agendado,,1,2027,0.25
+99,71,96,SMS,Cobrança,2026-03-26,2026-03-26,Enviado,Pagou,3,2026,0.12
+100,71,96,SMS,Entrega Veículo,2026-11-27,,Agendado,,11,2026,0.12
+101,71,96,Push,Lembrete Parcela,2026-11-30,,Agendado,,11,2026,0.01
+102,71,96,WhatsApp,Lembrete Parcela,2025-09-24,2025-09-24,Enviado,Sem Resposta,9,2025,0.25
+103,71,96,Push,CNH Pendência,2025-09-28,2025-09-28,Enviado,Sem Resposta,9,2025,0.01
+104,71,96,Email,Oferta Cross-sell,2026-09-09,,Agendado,,9,2026,0.03
+105,71,96,Email,Lembrete Parcela,2026-06-02,,Falhou,,6,2026,0.03
+106,71,96,SMS,Cobrança,2025-12-18,2025-12-18,Enviado,Pagou,12,2025,0.12
+107,140,188,Push,Lembrete Parcela,2026-09-07,,Agendado,,9,2026,0.01
+108,140,188,Email,Entrega Veículo,2026-04-08,2026-04-08,Enviado,Opt-out,4,2026,0.03
+109,140,188,SMS,Lembrete Parcela,2025-02-18,2025-02-18,Enviado,Sem Resposta,2,2025,0.12
+110,140,188,SMS,Oferta Cross-sell,2026-07-21,2026-07-21,Enviado,Pagou,7,2026,0.12
+111,23,30,Push,Cobrança,2026-08-19,,Agendado,,8,2026,0.01
+112,23,30,SMS,Renovação,2026-10-14,,Agendado,,10,2026,0.12
+113,23,30,WhatsApp,Lembrete Parcela,2027-01-01,,Agendado,,1,2027,0.25
+114,23,30,SMS,Cobrança,2027-01-06,,Agendado,,1,2027,0.12
+115,23,30,Email,Cobrança,2025-04-23,2025-04-23,Enviado,Respondido,4,2025,0.03
+116,23,30,Email,Cobrança,2025-09-18,2025-09-18,Enviado,Sem Resposta,9,2025,0.03
+117,139,187,Email,Cobrança,2025-05-28,2025-05-28,Enviado,Respondido,5,2025,0.03
+118,139,187,WhatsApp,Lembrete Parcela,2026-01-27,2026-01-27,Enviado,Respondido,1,2026,0.25
+119,139,187,WhatsApp,Cobrança,2026-09-20,,Agendado,,9,2026,0.25
+120,207,273,SMS,Entrega Veículo,2025-01-19,2025-01-19,Enviado,Pagou,1,2025,0.12
+121,207,273,WhatsApp,Oferta Cross-sell,2026-08-04,,Agendado,,8,2026,0.25
+122,207,273,SMS,Cobrança,2026-01-19,2026-01-19,Enviado,Sem Resposta,1,2026,0.12
+123,90,121,SMS,Lembrete Parcela,2026-10-20,,Agendado,,10,2026,0.12
+124,90,121,WhatsApp,Cobrança,2025-07-06,2025-07-06,Enviado,Sem Resposta,7,2025,0.25
+125,90,121,Push,Cobrança,2025-11-21,2025-11-21,Enviado,Sem Resposta,11,2025,0.01
+126,90,121,Email,Renovação,2025-06-24,2025-06-24,Enviado,Sem Resposta,6,2025,0.03
+127,90,121,Email,Cobrança,2026-10-29,,Agendado,,10,2026,0.03
+128,90,121,SMS,Oferta Cross-sell,2025-01-29,2025-01-29,Enviado,Sem Resposta,1,2025,0.12
+129,86,116,SMS,Cobrança,2026-02-25,2026-02-25,Enviado,Respondido,2,2026,0.12
+130,86,116,WhatsApp,Cobrança,2026-11-11,,Agendado,,11,2026,0.25
+131,86,116,SMS,Cobrança,2026-09-09,,Agendado,,9,2026,0.12
+132,92,126,WhatsApp,Renovação,2027-01-18,,Agendado,,1,2027,0.25
+133,92,126,SMS,Lembrete Parcela,2025-03-19,2025-03-19,Enviado,Sem Resposta,3,2025,0.12
+134,92,126,WhatsApp,Oferta Cross-sell,2025-04-10,2025-04-10,Enviado,Pagou,4,2025,0.25
+135,92,126,Email,Cobrança,2026-08-12,,Agendado,,8,2026,0.03
+136,92,126,Email,Cobrança,2027-01-28,,Agendado,,1,2027,0.03
+137,92,126,SMS,CNH Pendência,2025-07-01,,Falhou,,7,2025,0.12
+138,92,126,WhatsApp,Cobrança,2026-11-04,,Agendado,,11,2026,0.25
+139,97,134,WhatsApp,Cobrança,2026-11-04,,Agendado,,11,2026,0.25
+140,97,134,Carta,Oferta Cross-sell,2026-07-03,2026-07-03,Enviado,Sem Resposta,7,2026,4.5
+141,97,134,SMS,CNH Pendência,2026-06-28,2026-06-28,Enviado,Sem Resposta,6,2026,0.12
+142,97,134,Email,Cobrança,2025-05-17,2025-05-17,Enviado,Sem Resposta,5,2025,0.03
+143,97,134,Email,Cobrança,2026-05-30,,Falhou,,5,2026,0.03
+144,97,134,WhatsApp,Oferta Cross-sell,2025-11-18,2025-11-18,Enviado,Pagou,11,2025,0.25
+145,97,134,WhatsApp,Entrega Veículo,2026-02-13,2026-02-13,Enviado,Pagou,2,2026,0.25
+146,77,104,WhatsApp,Oferta Cross-sell,2025-07-04,2025-07-04,Enviado,Respondido,7,2025,0.25
+147,77,104,WhatsApp,Entrega Veículo,2025-07-17,2025-07-17,Enviado,Sem Resposta,7,2025,0.25
+148,15,18,SMS,Cobrança,2025-08-11,2025-08-11,Enviado,Respondido,8,2025,0.12
+149,15,18,Push,Lembrete Parcela,2026-12-24,,Agendado,,12,2026,0.01
+150,91,124,Carta,CNH Pendência,2026-04-03,2026-04-03,Enviado,Pagou,4,2026,4.5
+151,91,124,WhatsApp,Oferta Cross-sell,2026-08-13,2026-08-13,Enviado,Respondido,8,2026,0.25
+152,91,124,WhatsApp,Cobrança,2026-07-17,2026-07-17,Enviado,Respondido,7,2026,0.25
+153,91,124,Email,Renovação,2026-09-13,,Agendado,,9,2026,0.03
+154,91,124,SMS,Lembrete Parcela,2025-07-21,2025-07-21,Enviado,Sem Resposta,7,2025,0.12
+155,91,124,Email,Cobrança,2026-08-01,,Agendado,,8,2026,0.03
+156,91,124,SMS,Cobrança,2026-10-09,,Agendado,,10,2026,0.12
+157,91,124,Email,Cobrança,2025-01-02,,Falhou,,1,2025,0.03
+158,32,40,Push,Lembrete Parcela,2027-01-05,,Agendado,,1,2027,0.01
+159,32,40,WhatsApp,Cobrança,2026-08-16,,Agendado,,8,2026,0.25
+160,32,40,Email,Cobrança,2026-09-11,,Agendado,,9,2026,0.03
+161,32,40,WhatsApp,CNH Pendência,2026-09-28,,Agendado,,9,2026,0.25
+162,32,40,WhatsApp,Cobrança,2026-12-07,,Agendado,,12,2026,0.25
+163,32,40,Email,Oferta Cross-sell,2026-09-22,,Agendado,,9,2026,0.03
+164,33,41,Email,CNH Pendência,2026-12-08,,Agendado,,12,2026,0.03
+165,33,41,SMS,Cobrança,2026-07-10,,Falhou,,7,2026,0.12
+166,33,41,WhatsApp,Lembrete Parcela,2026-04-11,2026-04-11,Enviado,Sem Resposta,4,2026,0.25
+167,231,310,SMS,Entrega Veículo,2026-09-18,,Agendado,,9,2026,0.12
+168,231,310,Email,Cobrança,2025-08-20,2025-08-20,Enviado,Respondido,8,2025,0.03
+169,231,310,WhatsApp,Lembrete Parcela,2026-09-27,,Agendado,,9,2026,0.25
+170,231,310,SMS,Cobrança,2026-08-17,,Agendado,,8,2026,0.12
+171,206,271,WhatsApp,Oferta Cross-sell,2027-01-27,,Agendado,,1,2027,0.25
+172,206,271,Push,Cobrança,2026-01-30,2026-01-30,Enviado,Respondido,1,2026,0.01
+173,206,271,WhatsApp,Lembrete Parcela,2026-09-12,,Agendado,,9,2026,0.25
+174,206,271,Carta,Cobrança,2025-04-13,,Falhou,,4,2025,4.5
+175,206,271,SMS,CNH Pendência,2025-05-11,2025-05-11,Enviado,Sem Resposta,5,2025,0.12
+176,206,271,Email,Renovação,2025-04-24,2025-04-24,Enviado,Sem Resposta,4,2025,0.03
+177,193,256,WhatsApp,CNH Pendência,2025-11-03,2025-11-03,Enviado,Sem Resposta,11,2025,0.25
+178,193,256,SMS,Lembrete Parcela,2026-09-08,,Agendado,,9,2026,0.12
+179,193,256,Email,Lembrete Parcela,2026-11-11,,Agendado,,11,2026,0.03
+180,193,256,WhatsApp,Oferta Cross-sell,2025-12-29,2025-12-29,Enviado,Respondido,12,2025,0.25
+181,193,256,SMS,Cobrança,2026-08-03,,Falhou,,8,2026,0.12
+182,193,256,Email,Cobrança,2026-03-22,2026-03-22,Enviado,Respondido,3,2026,0.03
+183,154,208,Carta,Lembrete Parcela,2025-01-24,2025-01-24,Enviado,Sem Resposta,1,2025,4.5
+184,154,208,WhatsApp,Cobrança,2025-11-08,2025-11-08,Enviado,Sem Resposta,11,2025,0.25
+185,154,208,Email,Oferta Cross-sell,2026-07-21,2026-07-21,Enviado,Sem Resposta,7,2026,0.03
+186,154,208,Email,Lembrete Parcela,2026-08-08,2026-08-08,Enviado,Sem Resposta,8,2026,0.03
+187,154,208,SMS,Entrega Veículo,2026-06-01,2026-06-01,Enviado,Respondido,6,2026,0.12
+188,12,15,WhatsApp,Cobrança,2025-12-18,2025-12-18,Enviado,Pagou,12,2025,0.25
+189,12,15,Email,Oferta Cross-sell,2026-10-14,,Agendado,,10,2026,0.03
+190,12,15,Email,Lembrete Parcela,2025-11-20,2025-11-20,Enviado,Sem Resposta,11,2025,0.03
+191,12,15,Email,Lembrete Parcela,2025-01-11,2025-01-11,Enviado,Respondido,1,2025,0.03
+192,12,15,Push,CNH Pendência,2025-05-23,,Cancelado,,5,2025,0.01
+193,144,192,SMS,Renovação,2025-03-04,2025-03-04,Enviado,Sem Resposta,3,2025,0.12
+194,144,192,WhatsApp,Cobrança,2025-04-17,2025-04-17,Enviado,Respondido,4,2025,0.25
+195,100,137,SMS,Oferta Cross-sell,2026-08-11,,Agendado,,8,2026,0.12
+196,100,137,Email,Cobrança,2026-12-20,,Agendado,,12,2026,0.03
+197,100,137,WhatsApp,Cobrança,2025-04-19,2025-04-19,Enviado,Sem Resposta,4,2025,0.25
+198,100,137,SMS,CNH Pendência,2026-11-23,,Agendado,,11,2026,0.12
+199,100,137,Push,Lembrete Parcela,2025-08-06,2025-08-06,Enviado,Sem Resposta,8,2025,0.01
+200,100,137,WhatsApp,Renovação,2025-12-31,2025-12-31,Enviado,Respondido,12,2025,0.25
+201,142,190,SMS,Renovação,2026-08-02,2026-08-02,Enviado,Sem Resposta,8,2026,0.12
+202,142,190,WhatsApp,Oferta Cross-sell,2026-11-19,,Agendado,,11,2026,0.25
+203,142,190,SMS,Renovação,2026-08-05,,Agendado,,8,2026,0.12
+204,142,190,Email,Lembrete Parcela,2025-02-05,2025-02-05,Enviado,Sem Resposta,2,2025,0.03
+205,179,240,Carta,Renovação,2025-08-25,2025-08-25,Enviado,Sem Resposta,8,2025,4.5
+206,179,240,SMS,Entrega Veículo,2025-02-14,2025-02-14,Enviado,Sem Resposta,2,2025,0.12
+207,179,240,Email,Cobrança,2026-11-11,,Agendado,,11,2026,0.03
+208,148,200,SMS,Entrega Veículo,2026-11-05,,Agendado,,11,2026,0.12
+209,148,200,WhatsApp,Cobrança,2025-12-19,2025-12-19,Enviado,Sem Resposta,12,2025,0.25
+210,148,200,Email,Oferta Cross-sell,2025-07-02,2025-07-02,Enviado,Pagou,7,2025,0.03
+211,148,200,SMS,Cobrança,2025-10-29,2025-10-29,Enviado,Respondido,10,2025,0.12
+212,148,200,Email,Oferta Cross-sell,2026-07-09,2026-07-09,Enviado,Pagou,7,2026,0.03
+213,148,200,SMS,Renovação,2025-06-24,2025-06-24,Enviado,Pagou,6,2025,0.12
+214,148,200,SMS,Cobrança,2025-03-25,,Cancelado,,3,2025,0.12
+215,148,200,WhatsApp,Cobrança,2025-06-20,2025-06-20,Enviado,Pagou,6,2025,0.25
+216,101,138,WhatsApp,Cobrança,2025-07-09,,Falhou,,7,2025,0.25
+217,101,138,SMS,Entrega Veículo,2026-11-29,,Agendado,,11,2026,0.12
+218,101,138,WhatsApp,Cobrança,2026-04-20,2026-04-20,Enviado,Sem Resposta,4,2026,0.25
+219,101,138,WhatsApp,Cobrança,2027-01-06,,Agendado,,1,2027,0.25
+220,101,138,Email,Cobrança,2026-12-20,,Agendado,,12,2026,0.03
+221,101,138,SMS,Cobrança,2026-09-13,,Agendado,,9,2026,0.12
+222,221,295,SMS,CNH Pendência,2026-08-26,,Agendado,,8,2026,0.12
+223,221,295,Push,Renovação,2026-01-13,2026-01-13,Enviado,Sem Resposta,1,2026,0.01
+224,221,295,Push,Cobrança,2025-02-18,2025-02-18,Enviado,Sem Resposta,2,2025,0.01
+225,221,295,Email,Cobrança,2025-08-24,2025-08-24,Enviado,Sem Resposta,8,2025,0.03
+226,221,295,SMS,Renovação,2026-06-26,2026-06-26,Enviado,Pagou,6,2026,0.12
+227,221,295,WhatsApp,Cobrança,2026-08-31,,Agendado,,8,2026,0.25
+228,221,295,Email,Renovação,2026-12-25,,Agendado,,12,2026,0.03
+229,125,170,SMS,Cobrança,2026-09-22,,Agendado,,9,2026,0.12
+230,125,170,SMS,Cobrança,2025-02-01,2025-02-01,Enviado,Respondido,2,2025,0.12
+231,125,170,SMS,Cobrança,2027-01-24,,Agendado,,1,2027,0.12
+232,125,170,WhatsApp,Cobrança,2025-07-06,2025-07-06,Enviado,Respondido,7,2025,0.25
+233,125,170,Email,Oferta Cross-sell,2026-07-25,2026-07-25,Enviado,Pagou,7,2026,0.03
+234,175,233,SMS,Oferta Cross-sell,2026-07-23,2026-07-23,Enviado,Sem Resposta,7,2026,0.12
+235,175,233,SMS,Cobrança,2025-11-10,2025-11-10,Enviado,Pagou,11,2025,0.12
+236,175,233,Email,Cobrança,2026-06-09,2026-06-09,Enviado,Sem Resposta,6,2026,0.03
+237,175,233,Email,CNH Pendência,2026-09-18,,Agendado,,9,2026,0.03
+238,175,233,Carta,Cobrança,2026-05-06,2026-05-06,Enviado,Sem Resposta,5,2026,4.5
+239,152,206,Email,Oferta Cross-sell,2026-10-19,,Agendado,,10,2026,0.03
+240,152,206,WhatsApp,Cobrança,2026-08-13,2026-08-13,Enviado,Sem Resposta,8,2026,0.25
+241,152,206,SMS,Lembrete Parcela,2026-08-14,,Agendado,,8,2026,0.12
+242,249,331,WhatsApp,Oferta Cross-sell,2025-02-07,2025-02-07,Enviado,Sem Resposta,2,2025,0.25
+243,249,331,Email,Oferta Cross-sell,2026-06-29,,Falhou,,6,2026,0.03
+244,249,331,WhatsApp,CNH Pendência,2025-04-08,2025-04-08,Enviado,Sem Resposta,4,2025,0.25
+245,249,331,Email,Renovação,2026-09-13,,Agendado,,9,2026,0.03
+246,249,331,Email,Lembrete Parcela,2026-12-10,,Agendado,,12,2026,0.03
+247,249,331,SMS,Lembrete Parcela,2027-01-19,,Agendado,,1,2027,0.12
+248,126,172,WhatsApp,Lembrete Parcela,2026-07-29,,Falhou,,7,2026,0.25
+249,126,172,WhatsApp,Renovação,2026-08-08,2026-08-08,Enviado,Sem Resposta,8,2026,0.25
+250,126,172,WhatsApp,Entrega Veículo,2026-08-14,,Agendado,,8,2026,0.25
+251,126,172,SMS,Cobrança,2026-11-27,,Agendado,,11,2026,0.12
+252,126,172,WhatsApp,Lembrete Parcela,2027-01-09,,Agendado,,1,2027,0.25
+253,126,172,WhatsApp,CNH Pendência,2026-07-08,2026-07-08,Enviado,Sem Resposta,7,2026,0.25
+254,237,318,SMS,Renovação,2025-12-03,2025-12-03,Enviado,Sem Resposta,12,2025,0.12
+255,237,318,SMS,Entrega Veículo,2025-04-12,2025-04-12,Enviado,Pagou,4,2025,0.12
+256,237,318,Email,Cobrança,2026-12-12,,Agendado,,12,2026,0.03
+257,237,318,Push,Entrega Veículo,2025-07-06,2025-07-06,Enviado,Sem Resposta,7,2025,0.01
+258,237,318,Email,Cobrança,2026-12-16,,Agendado,,12,2026,0.03
+259,237,318,SMS,Cobrança,2026-05-19,2026-05-19,Enviado,Respondido,5,2026,0.12
+260,237,318,Email,Entrega Veículo,2025-01-24,2025-01-24,Enviado,Sem Resposta,1,2025,0.03
+261,237,318,Push,Entrega Veículo,2027-01-09,,Agendado,,1,2027,0.01
+262,137,185,SMS,Cobrança,2025-02-18,2025-02-18,Enviado,Respondido,2,2025,0.12
+263,137,185,Push,CNH Pendência,2025-08-15,2025-08-15,Enviado,Sem Resposta,8,2025,0.01
+264,137,185,WhatsApp,Lembrete Parcela,2026-12-16,,Agendado,,12,2026,0.25
+265,137,185,WhatsApp,Lembrete Parcela,2025-01-13,2025-01-13,Enviado,Sem Resposta,1,2025,0.25
+266,137,185,WhatsApp,Cobrança,2025-05-05,2025-05-05,Enviado,Respondido,5,2025,0.25
+267,137,185,SMS,Oferta Cross-sell,2026-12-15,,Agendado,,12,2026,0.12
+268,137,185,WhatsApp,Cobrança,2025-05-18,2025-05-18,Enviado,Sem Resposta,5,2025,0.25
+269,137,185,WhatsApp,Cobrança,2025-03-02,2025-03-02,Enviado,Sem Resposta,3,2025,0.25
+270,234,315,Carta,Lembrete Parcela,2026-08-11,,Agendado,,8,2026,4.5
+271,234,315,SMS,Cobrança,2025-08-06,2025-08-06,Enviado,Respondido,8,2025,0.12
+272,234,315,Email,Cobrança,2026-12-14,,Agendado,,12,2026,0.03
+273,234,315,Email,Oferta Cross-sell,2026-03-27,2026-03-27,Enviado,Sem Resposta,3,2026,0.03
+274,234,315,WhatsApp,Oferta Cross-sell,2025-08-03,2025-08-03,Enviado,Pagou,8,2025,0.25
+275,234,315,SMS,Cobrança,2025-11-26,,Cancelado,,11,2025,0.12
+276,168,224,Email,CNH Pendência,2025-10-26,2025-10-26,Enviado,Respondido,10,2025,0.03
+277,168,224,Carta,Lembrete Parcela,2026-10-01,,Agendado,,10,2026,4.5
+278,168,224,WhatsApp,Oferta Cross-sell,2025-04-29,2025-04-29,Enviado,Sem Resposta,4,2025,0.25
+279,168,224,WhatsApp,Renovação,2025-05-18,2025-05-18,Enviado,Pagou,5,2025,0.25
+280,168,224,SMS,Oferta Cross-sell,2025-06-12,2025-06-12,Enviado,Sem Resposta,6,2025,0.12
+281,168,224,Email,Lembrete Parcela,2025-09-13,2025-09-13,Enviado,Sem Resposta,9,2025,0.03
+282,168,224,SMS,Renovação,2026-02-27,2026-02-27,Enviado,Pagou,2,2026,0.12
+283,168,224,WhatsApp,Lembrete Parcela,2026-10-22,,Agendado,,10,2026,0.25
+284,219,290,Email,CNH Pendência,2027-01-10,,Agendado,,1,2027,0.03
+285,219,290,Email,Entrega Veículo,2026-01-18,,Cancelado,,1,2026,0.03
+286,219,290,WhatsApp,Cobrança,2025-05-19,2025-05-19,Enviado,Respondido,5,2025,0.25
+287,219,290,Email,Cobrança,2025-05-18,,Falhou,,5,2025,0.03
+288,219,290,SMS,Oferta Cross-sell,2025-10-05,2025-10-05,Enviado,Sem Resposta,10,2025,0.12
+289,219,290,WhatsApp,Oferta Cross-sell,2026-08-06,,Agendado,,8,2026,0.25
+290,219,290,WhatsApp,Oferta Cross-sell,2026-05-23,2026-05-23,Enviado,Sem Resposta,5,2026,0.25
+291,181,242,Carta,Entrega Veículo,2025-01-04,2025-01-04,Enviado,Respondido,1,2025,4.5
+292,181,242,Carta,Oferta Cross-sell,2026-12-09,,Agendado,,12,2026,4.5
+293,181,242,SMS,Renovação,2025-12-26,2025-12-26,Enviado,Pagou,12,2025,0.12
+294,181,242,WhatsApp,CNH Pendência,2026-04-10,2026-04-10,Enviado,Sem Resposta,4,2026,0.25
+295,181,242,Carta,Renovação,2026-03-12,2026-03-12,Enviado,Opt-out,3,2026,4.5
+296,181,242,WhatsApp,Entrega Veículo,2026-10-09,,Agendado,,10,2026,0.25
+297,181,242,WhatsApp,Lembrete Parcela,2025-11-09,,Falhou,,11,2025,0.25
+298,181,242,WhatsApp,Oferta Cross-sell,2026-12-08,,Agendado,,12,2026,0.25
+299,102,139,Email,Cobrança,2026-10-31,,Agendado,,10,2026,0.03
+300,102,139,SMS,Entrega Veículo,2026-02-19,2026-02-19,Enviado,Sem Resposta,2,2026,0.12
+301,102,139,SMS,Cobrança,2025-01-09,2025-01-09,Enviado,Sem Resposta,1,2025,0.12
+302,102,139,Push,Cobrança,2026-03-06,,Cancelado,,3,2026,0.01
+303,102,139,SMS,Cobrança,2025-09-28,2025-09-28,Enviado,Opt-out,9,2025,0.12
+304,149,202,WhatsApp,Cobrança,2026-09-29,,Agendado,,9,2026,0.25
+305,149,202,WhatsApp,CNH Pendência,2026-10-31,,Agendado,,10,2026,0.25
+306,149,202,SMS,Renovação,2025-10-14,2025-10-14,Enviado,Respondido,10,2025,0.12
+307,149,202,WhatsApp,Lembrete Parcela,2026-10-09,,Agendado,,10,2026,0.25
+308,147,198,SMS,Oferta Cross-sell,2025-09-03,2025-09-03,Enviado,Sem Resposta,9,2025,0.12
+309,147,198,Email,Cobrança,2025-04-12,,Cancelado,,4,2025,0.03
+310,194,258,SMS,Cobrança,2026-08-08,,Agendado,,8,2026,0.12
+311,194,258,WhatsApp,Oferta Cross-sell,2026-02-04,,Cancelado,,2,2026,0.25
+312,194,258,WhatsApp,CNH Pendência,2025-07-01,2025-07-01,Enviado,Opt-out,7,2025,0.25
+313,146,196,SMS,Cobrança,2025-09-29,2025-09-29,Enviado,Sem Resposta,9,2025,0.12
+314,146,196,SMS,Lembrete Parcela,2026-07-01,2026-07-01,Enviado,Respondido,7,2026,0.12
+315,146,196,Email,Cobrança,2026-01-26,2026-01-26,Enviado,Sem Resposta,1,2026,0.03
+316,146,196,Email,Cobrança,2026-09-13,,Agendado,,9,2026,0.03
+317,146,196,Push,Cobrança,2026-08-09,,Agendado,,8,2026,0.01
+318,146,196,WhatsApp,Oferta Cross-sell,2026-03-01,2026-03-01,Enviado,Respondido,3,2026,0.25
+319,146,196,Email,Renovação,2025-02-01,2025-02-01,Enviado,Sem Resposta,2,2025,0.03
+320,146,196,SMS,Oferta Cross-sell,2025-09-07,2025-09-07,Enviado,Opt-out,9,2025,0.12
+321,26,33,SMS,Entrega Veículo,2026-04-18,2026-04-18,Enviado,Pagou,4,2026,0.12
+322,26,33,Email,Cobrança,2025-04-22,2025-04-22,Enviado,Pagou,4,2025,0.03
+323,26,33,WhatsApp,Oferta Cross-sell,2025-03-19,2025-03-19,Enviado,Sem Resposta,3,2025,0.25
+324,26,33,SMS,Cobrança,2026-10-20,,Agendado,,10,2026,0.12
+325,26,33,WhatsApp,CNH Pendência,2026-02-22,2026-02-22,Enviado,Opt-out,2,2026,0.25
+326,26,33,SMS,Cobrança,2026-08-18,,Agendado,,8,2026,0.12
+327,165,221,Email,CNH Pendência,2026-02-21,2026-02-21,Enviado,Opt-out,2,2026,0.03
+328,165,221,WhatsApp,CNH Pendência,2025-05-15,2025-05-15,Enviado,Respondido,5,2025,0.25
+329,165,221,SMS,Lembrete Parcela,2025-08-08,,Falhou,,8,2025,0.12
+330,165,221,SMS,Cobrança,2027-01-18,,Agendado,,1,2027,0.12
+331,165,221,WhatsApp,Lembrete Parcela,2026-04-02,2026-04-02,Enviado,Sem Resposta,4,2026,0.25
+332,79,107,SMS,Renovação,2026-11-16,,Agendado,,11,2026,0.12
+333,79,107,Email,Lembrete Parcela,2025-05-14,2025-05-14,Enviado,Respondido,5,2025,0.03
+334,79,107,WhatsApp,Renovação,2026-08-07,,Agendado,,8,2026,0.25
+335,106,144,Push,Cobrança,2026-10-31,,Agendado,,10,2026,0.01
+336,106,144,Email,Oferta Cross-sell,2025-05-15,2025-05-15,Enviado,Sem Resposta,5,2025,0.03
+337,106,144,Push,Cobrança,2025-04-04,2025-04-04,Enviado,Sem Resposta,4,2025,0.01
+338,106,144,Push,CNH Pendência,2027-01-03,,Agendado,,1,2027,0.01
+339,106,144,Carta,CNH Pendência,2026-07-24,2026-07-24,Enviado,Pagou,7,2026,4.5
+340,106,144,WhatsApp,Entrega Veículo,2026-04-20,2026-04-20,Enviado,Respondido,4,2026,0.25
+341,106,144,Email,Cobrança,2025-09-23,2025-09-23,Enviado,Pagou,9,2025,0.03
+342,51,65,WhatsApp,CNH Pendência,2026-08-02,2026-08-02,Enviado,Respondido,8,2026,0.25
+343,51,65,WhatsApp,Cobrança,2026-03-24,2026-03-24,Enviado,Respondido,3,2026,0.25
+344,51,65,WhatsApp,Oferta Cross-sell,2025-07-26,2025-07-26,Enviado,Opt-out,7,2025,0.25
+345,51,65,WhatsApp,Lembrete Parcela,2026-09-28,,Agendado,,9,2026,0.25
+346,51,65,SMS,Cobrança,2026-04-05,,Falhou,,4,2026,0.12
+347,223,298,SMS,Oferta Cross-sell,2026-06-25,2026-06-25,Enviado,Sem Resposta,6,2026,0.12
+348,223,298,WhatsApp,Cobrança,2025-03-09,,Cancelado,,3,2025,0.25
+349,69,91,Email,Lembrete Parcela,2026-09-07,,Agendado,,9,2026,0.03
+350,69,91,Email,CNH Pendência,2025-08-02,2025-08-02,Enviado,Respondido,8,2025,0.03
+351,69,91,Email,Cobrança,2025-10-26,2025-10-26,Enviado,Opt-out,10,2025,0.03
+352,129,176,SMS,Cobrança,2026-06-13,2026-06-13,Enviado,Pagou,6,2026,0.12
+353,129,176,SMS,Oferta Cross-sell,2026-02-20,2026-02-20,Enviado,Respondido,2,2026,0.12
+354,129,176,Carta,Entrega Veículo,2025-06-05,2025-06-05,Enviado,Respondido,6,2025,4.5
+355,129,176,Push,Oferta Cross-sell,2026-12-27,,Agendado,,12,2026,0.01
+356,129,176,Push,Lembrete Parcela,2026-04-16,2026-04-16,Enviado,Sem Resposta,4,2026,0.01
+357,108,147,WhatsApp,Cobrança,2026-07-11,,Cancelado,,7,2026,0.25
+358,108,147,Push,Entrega Veículo,2026-12-19,,Agendado,,12,2026,0.01
+359,108,147,Push,Renovação,2025-02-11,2025-02-11,Enviado,Opt-out,2,2025,0.01
+360,108,147,Push,CNH Pendência,2025-08-13,2025-08-13,Enviado,Respondido,8,2025,0.01
+361,108,147,WhatsApp,Cobrança,2026-08-22,,Agendado,,8,2026,0.25
+362,209,276,SMS,Oferta Cross-sell,2026-07-23,2026-07-23,Enviado,Sem Resposta,7,2026,0.12
+363,209,276,SMS,Cobrança,2025-11-13,2025-11-13,Enviado,Respondido,11,2025,0.12
+364,9,12,WhatsApp,Cobrança,2026-01-07,2026-01-07,Enviado,Pagou,1,2026,0.25
+365,9,12,Email,Cobrança,2026-01-20,,Falhou,,1,2026,0.03
+366,9,12,SMS,Oferta Cross-sell,2025-10-07,,Falhou,,10,2025,0.12
+367,9,12,SMS,Renovação,2025-03-01,2025-03-01,Enviado,Sem Resposta,3,2025,0.12
+368,9,12,SMS,Lembrete Parcela,2026-07-07,,Falhou,,7,2026,0.12
+369,9,12,SMS,Lembrete Parcela,2025-08-16,2025-08-16,Enviado,Sem Resposta,8,2025,0.12
+370,9,12,Push,Lembrete Parcela,2026-02-05,2026-02-05,Enviado,Sem Resposta,2,2026,0.01
+371,5,5,Email,CNH Pendência,2026-09-04,,Agendado,,9,2026,0.03
+372,5,5,WhatsApp,Renovação,2025-07-17,2025-07-17,Enviado,Respondido,7,2025,0.25
+373,5,5,Email,Entrega Veículo,2025-01-09,2025-01-09,Enviado,Respondido,1,2025,0.03
+374,5,5,WhatsApp,Cobrança,2026-12-20,,Agendado,,12,2026,0.25
+375,5,5,SMS,Lembrete Parcela,2026-03-05,,Falhou,,3,2026,0.12
+376,5,5,WhatsApp,Lembrete Parcela,2026-10-28,,Agendado,,10,2026,0.25
+377,126,171,WhatsApp,Cobrança,2026-08-30,,Agendado,,8,2026,0.25
+378,126,171,SMS,CNH Pendência,2025-08-13,2025-08-13,Enviado,Sem Resposta,8,2025,0.12
+379,126,171,SMS,Cobrança,2026-06-19,2026-06-19,Enviado,Respondido,6,2026,0.12
+380,126,171,Carta,Cobrança,2026-09-21,,Agendado,,9,2026,4.5
+381,126,171,SMS,Entrega Veículo,2027-01-08,,Agendado,,1,2027,0.12
+382,126,171,Email,Renovação,2025-09-28,,Falhou,,9,2025,0.03
+383,113,157,Email,Renovação,2025-11-29,2025-11-29,Enviado,Pagou,11,2025,0.03
+384,113,157,Push,CNH Pendência,2026-10-19,,Agendado,,10,2026,0.01
+385,113,157,SMS,Renovação,2027-01-15,,Agendado,,1,2027,0.12
+386,113,157,SMS,Cobrança,2025-08-13,,Falhou,,8,2025,0.12
+387,113,157,WhatsApp,Cobrança,2025-04-01,2025-04-01,Enviado,Respondido,4,2025,0.25
+388,113,157,WhatsApp,Oferta Cross-sell,2025-07-29,,Cancelado,,7,2025,0.25
+389,113,157,WhatsApp,Cobrança,2025-12-25,2025-12-25,Enviado,Sem Resposta,12,2025,0.25
+390,96,131,Email,Entrega Veículo,2025-11-22,2025-11-22,Enviado,Pagou,11,2025,0.03
+391,96,131,Email,Cobrança,2026-11-09,,Agendado,,11,2026,0.03
+392,96,131,SMS,Renovação,2026-03-05,2026-03-05,Enviado,Sem Resposta,3,2026,0.12
+393,96,131,WhatsApp,Renovação,2025-06-06,,Falhou,,6,2025,0.25
+394,96,131,SMS,Cobrança,2026-11-22,,Agendado,,11,2026,0.12
+395,17,23,Email,CNH Pendência,2026-10-09,,Agendado,,10,2026,0.03
+396,17,23,SMS,Lembrete Parcela,2025-03-24,2025-03-24,Enviado,Sem Resposta,3,2025,0.12
+397,17,23,Email,Lembrete Parcela,2025-04-22,2025-04-22,Enviado,Sem Resposta,4,2025,0.03
+398,17,23,Push,Oferta Cross-sell,2026-09-02,,Agendado,,9,2026,0.01
+399,17,23,Carta,Cobrança,2026-10-18,,Agendado,,10,2026,4.5
+400,246,328,Email,Cobrança,2026-11-05,,Agendado,,11,2026,0.03
+401,246,328,Push,Oferta Cross-sell,2025-12-11,2025-12-11,Enviado,Sem Resposta,12,2025,0.01
+402,68,88,WhatsApp,Oferta Cross-sell,2025-09-20,2025-09-20,Enviado,Respondido,9,2025,0.25
+403,68,88,WhatsApp,Entrega Veículo,2025-10-17,2025-10-17,Enviado,Respondido,10,2025,0.25
+404,68,88,WhatsApp,Cobrança,2025-07-20,2025-07-20,Enviado,Respondido,7,2025,0.25
+405,68,88,SMS,Cobrança,2026-11-18,,Agendado,,11,2026,0.12
+406,39,48,Email,Cobrança,2025-10-22,2025-10-22,Enviado,Pagou,10,2025,0.03
+407,39,48,WhatsApp,CNH Pendência,2025-10-11,2025-10-11,Enviado,Sem Resposta,10,2025,0.25
+408,39,48,Email,Cobrança,2025-01-19,2025-01-19,Enviado,Respondido,1,2025,0.03
+409,240,321,SMS,Entrega Veículo,2026-01-15,2026-01-15,Enviado,Sem Resposta,1,2026,0.12
+410,240,321,WhatsApp,Cobrança,2025-01-31,2025-01-31,Enviado,Sem Resposta,1,2025,0.25
+411,211,280,Push,Oferta Cross-sell,2025-09-03,2025-09-03,Enviado,Respondido,9,2025,0.01
+412,211,280,Carta,Lembrete Parcela,2025-03-01,2025-03-01,Enviado,Respondido,3,2025,4.5
+413,211,280,SMS,Lembrete Parcela,2025-02-20,2025-02-20,Enviado,Pagou,2,2025,0.12
+414,211,280,SMS,Cobrança,2026-05-02,2026-05-02,Enviado,Respondido,5,2026,0.12
+415,110,153,WhatsApp,Lembrete Parcela,2026-04-23,2026-04-23,Enviado,Sem Resposta,4,2026,0.25
+416,110,153,WhatsApp,Cobrança,2026-11-08,,Agendado,,11,2026,0.25
+417,110,153,SMS,CNH Pendência,2026-10-30,,Agendado,,10,2026,0.12
+418,110,153,WhatsApp,Lembrete Parcela,2026-08-14,,Agendado,,8,2026,0.25
+419,110,153,SMS,Lembrete Parcela,2025-10-19,2025-10-19,Enviado,Sem Resposta,10,2025,0.12
+420,110,153,Email,CNH Pendência,2025-01-10,2025-01-10,Enviado,Respondido,1,2025,0.03
+421,110,153,Email,Entrega Veículo,2025-06-19,2025-06-19,Enviado,Respondido,6,2025,0.03
+422,110,153,WhatsApp,Entrega Veículo,2026-11-22,,Agendado,,11,2026,0.25
+423,30,37,Email,Lembrete Parcela,2027-01-01,,Agendado,,1,2027,0.03
+424,30,37,WhatsApp,Lembrete Parcela,2026-03-02,2026-03-02,Enviado,Respondido,3,2026,0.25
+425,30,37,SMS,Lembrete Parcela,2025-06-08,2025-06-08,Enviado,Respondido,6,2025,0.12
+426,30,37,WhatsApp,Oferta Cross-sell,2026-01-29,2026-01-29,Enviado,Sem Resposta,1,2026,0.25
+427,30,37,SMS,Cobrança,2025-08-21,2025-08-21,Enviado,Pagou,8,2025,0.12
+428,30,37,SMS,Oferta Cross-sell,2026-09-16,,Agendado,,9,2026,0.12
+429,64,83,SMS,Cobrança,2026-12-19,,Agendado,,12,2026,0.12
+430,64,83,Email,Renovação,2026-12-07,,Agendado,,12,2026,0.03
+431,64,83,SMS,Cobrança,2025-10-28,2025-10-28,Enviado,Pagou,10,2025,0.12
+432,64,83,Email,Cobrança,2025-05-05,2025-05-05,Enviado,Respondido,5,2025,0.03
+433,64,83,WhatsApp,Entrega Veículo,2026-12-20,,Agendado,,12,2026,0.25
+434,64,83,Email,Renovação,2026-04-29,2026-04-29,Enviado,Pagou,4,2026,0.03
+435,64,83,Email,Lembrete Parcela,2025-05-02,2025-05-02,Enviado,Pagou,5,2025,0.03
+436,64,83,Email,Entrega Veículo,2026-09-06,,Agendado,,9,2026,0.03
+437,229,307,WhatsApp,Cobrança,2026-10-16,,Agendado,,10,2026,0.25
+438,229,307,Email,CNH Pendência,2025-01-10,2025-01-10,Enviado,Sem Resposta,1,2025,0.03
+439,180,241,WhatsApp,Lembrete Parcela,2026-09-10,,Agendado,,9,2026,0.25
+440,180,241,SMS,Cobrança,2026-08-29,,Agendado,,8,2026,0.12
+441,180,241,Carta,Lembrete Parcela,2025-10-23,2025-10-23,Enviado,Sem Resposta,10,2025,4.5
+442,180,241,SMS,Cobrança,2025-04-20,2025-04-20,Enviado,Sem Resposta,4,2025,0.12
+443,180,241,WhatsApp,CNH Pendência,2025-08-23,2025-08-23,Enviado,Respondido,8,2025,0.25
+444,180,241,Email,Entrega Veículo,2026-12-19,,Agendado,,12,2026,0.03
+445,180,241,WhatsApp,Entrega Veículo,2025-09-08,2025-09-08,Enviado,Pagou,9,2025,0.25
+446,180,241,Email,Oferta Cross-sell,2025-04-03,2025-04-03,Enviado,Sem Resposta,4,2025,0.03
+447,231,311,WhatsApp,Cobrança,2026-11-16,,Agendado,,11,2026,0.25
+448,231,311,Push,Cobrança,2026-03-11,,Falhou,,3,2026,0.01
+449,231,311,Email,Cobrança,2025-11-25,2025-11-25,Enviado,Pagou,11,2025,0.03
+450,231,311,Email,Cobrança,2026-04-05,,Falhou,,4,2026,0.03
+451,231,311,SMS,Cobrança,2026-01-17,2026-01-17,Enviado,Sem Resposta,1,2026,0.12
+452,231,311,Email,Cobrança,2025-02-16,2025-02-16,Enviado,Pagou,2,2025,0.03
+453,231,311,SMS,Renovação,2025-06-07,2025-06-07,Enviado,Sem Resposta,6,2025,0.12
+454,231,311,WhatsApp,Lembrete Parcela,2025-10-14,2025-10-14,Enviado,Sem Resposta,10,2025,0.25
+455,109,148,SMS,Cobrança,2026-04-17,2026-04-17,Enviado,Pagou,4,2026,0.12
+456,109,148,Email,Renovação,2027-01-14,,Agendado,,1,2027,0.03
+457,109,148,Push,Oferta Cross-sell,2026-12-02,,Agendado,,12,2026,0.01
+458,73,98,SMS,Lembrete Parcela,2025-11-11,,Cancelado,,11,2025,0.12
+459,73,98,WhatsApp,Oferta Cross-sell,2026-10-15,,Agendado,,10,2026,0.25
+460,73,98,WhatsApp,CNH Pendência,2025-11-29,2025-11-29,Enviado,Sem Resposta,11,2025,0.25
+461,73,98,SMS,Renovação,2025-09-23,2025-09-23,Enviado,Sem Resposta,9,2025,0.12
+462,73,98,Push,Oferta Cross-sell,2026-09-17,,Agendado,,9,2026,0.01
+463,73,98,WhatsApp,Oferta Cross-sell,2026-11-23,,Agendado,,11,2026,0.25
+464,73,98,SMS,Renovação,2026-01-22,2026-01-22,Enviado,Respondido,1,2026,0.12
+465,75,102,WhatsApp,CNH Pendência,2026-09-23,,Agendado,,9,2026,0.25
+466,75,102,Push,Lembrete Parcela,2026-03-04,2026-03-04,Enviado,Sem Resposta,3,2026,0.01
+467,62,78,Email,Cobrança,2026-11-30,,Agendado,,11,2026,0.03
+468,62,78,Email,Oferta Cross-sell,2026-08-08,,Agendado,,8,2026,0.03
+469,62,78,Email,Lembrete Parcela,2026-11-09,,Agendado,,11,2026,0.03
+470,163,217,SMS,Lembrete Parcela,2026-11-03,,Agendado,,11,2026,0.12
+471,163,217,SMS,Lembrete Parcela,2025-01-27,2025-01-27,Enviado,Opt-out,1,2025,0.12
+472,163,217,SMS,Oferta Cross-sell,2026-03-05,2026-03-05,Enviado,Opt-out,3,2026,0.12
+473,163,217,Carta,Cobrança,2025-09-21,2025-09-21,Enviado,Sem Resposta,9,2025,4.5
+474,163,217,WhatsApp,Lembrete Parcela,2025-03-01,2025-03-01,Enviado,Sem Resposta,3,2025,0.25
+475,163,217,Email,CNH Pendência,2025-09-18,2025-09-18,Enviado,Pagou,9,2025,0.03
+476,85,115,SMS,Lembrete Parcela,2026-12-13,,Agendado,,12,2026,0.12
+477,85,115,WhatsApp,Cobrança,2026-02-17,2026-02-17,Enviado,Respondido,2,2026,0.25
+478,85,115,SMS,Lembrete Parcela,2026-09-14,,Agendado,,9,2026,0.12
+479,85,115,SMS,Entrega Veículo,2025-03-18,2025-03-18,Enviado,Pagou,3,2025,0.12
+480,85,115,Email,Lembrete Parcela,2026-05-19,2026-05-19,Enviado,Respondido,5,2026,0.03
+481,85,115,SMS,Lembrete Parcela,2026-11-04,,Agendado,,11,2026,0.12
+482,38,47,WhatsApp,Cobrança,2026-07-21,2026-07-21,Enviado,Sem Resposta,7,2026,0.25
+483,38,47,WhatsApp,Entrega Veículo,2026-08-03,,Agendado,,8,2026,0.25
+484,23,29,WhatsApp,Oferta Cross-sell,2025-07-04,2025-07-04,Enviado,Opt-out,7,2025,0.25
+485,23,29,WhatsApp,Entrega Veículo,2025-09-30,2025-09-30,Enviado,Sem Resposta,9,2025,0.25
+486,23,29,SMS,Oferta Cross-sell,2025-01-26,,Falhou,,1,2025,0.12
+487,164,219,Carta,Renovação,2025-08-10,2025-08-10,Enviado,Respondido,8,2025,4.5
+488,164,219,Email,Entrega Veículo,2026-10-27,,Agendado,,10,2026,0.03
+489,164,219,Push,Lembrete Parcela,2025-07-23,2025-07-23,Enviado,Sem Resposta,7,2025,0.01
+490,164,219,SMS,Renovação,2025-08-18,,Falhou,,8,2025,0.12
+491,164,219,Email,CNH Pendência,2026-03-31,2026-03-31,Enviado,Respondido,3,2026,0.03
+492,50,62,SMS,Cobrança,2026-02-12,2026-02-12,Enviado,Sem Resposta,2,2026,0.12
+493,50,62,Carta,Cobrança,2026-07-18,2026-07-18,Enviado,Sem Resposta,7,2026,4.5
+494,50,62,WhatsApp,Cobrança,2025-06-11,,Cancelado,,6,2025,0.25
+495,50,62,Email,Oferta Cross-sell,2026-08-10,2026-08-10,Enviado,Sem Resposta,8,2026,0.03
+496,50,62,SMS,Cobrança,2026-12-23,,Agendado,,12,2026,0.12
+497,50,62,SMS,CNH Pendência,2026-11-16,,Agendado,,11,2026,0.12
+498,4,4,Email,Renovação,2025-06-20,2025-06-20,Enviado,Sem Resposta,6,2025,0.03
+499,4,4,WhatsApp,Entrega Veículo,2026-01-18,2026-01-18,Enviado,Pagou,1,2026,0.25
+500,4,4,Email,Oferta Cross-sell,2025-01-03,2025-01-03,Enviado,Sem Resposta,1,2025,0.03
+501,4,4,Email,Renovação,2026-09-13,,Agendado,,9,2026,0.03
+502,4,4,SMS,Cobrança,2026-08-27,,Agendado,,8,2026,0.12
+503,87,117,WhatsApp,Entrega Veículo,2025-06-19,2025-06-19,Enviado,Respondido,6,2025,0.25
+504,87,117,WhatsApp,Renovação,2025-09-01,2025-09-01,Enviado,Sem Resposta,9,2025,0.25
+505,87,117,Push,Oferta Cross-sell,2025-06-27,,Falhou,,6,2025,0.01
+506,87,117,SMS,Cobrança,2025-01-07,,Cancelado,,1,2025,0.12
+507,87,117,SMS,Cobrança,2026-01-19,,Falhou,,1,2026,0.12
+508,87,117,Email,CNH Pendência,2026-08-30,,Agendado,,8,2026,0.03
+509,167,223,SMS,CNH Pendência,2025-12-03,2025-12-03,Enviado,Sem Resposta,12,2025,0.12
+510,167,223,Carta,Cobrança,2026-07-22,2026-07-22,Enviado,Sem Resposta,7,2026,4.5
+511,167,223,WhatsApp,Lembrete Parcela,2026-10-02,,Agendado,,10,2026,0.25
+512,167,223,SMS,Cobrança,2026-11-09,,Agendado,,11,2026,0.12
+513,167,223,WhatsApp,Entrega Veículo,2026-07-05,2026-07-05,Enviado,Sem Resposta,7,2026,0.25
+514,167,223,Push,Lembrete Parcela,2025-05-10,2025-05-10,Enviado,Pagou,5,2025,0.01
+515,56,71,SMS,Cobrança,2026-03-31,2026-03-31,Enviado,Pagou,3,2026,0.12
+516,56,71,Push,Renovação,2025-05-18,,Cancelado,,5,2025,0.01
+517,56,71,SMS,Cobrança,2025-07-22,2025-07-22,Enviado,Sem Resposta,7,2025,0.12
+518,56,71,SMS,Oferta Cross-sell,2025-01-16,2025-01-16,Enviado,Sem Resposta,1,2025,0.12
+519,56,71,WhatsApp,CNH Pendência,2026-04-04,2026-04-04,Enviado,Opt-out,4,2026,0.25
+520,56,71,SMS,Cobrança,2025-03-19,2025-03-19,Enviado,Respondido,3,2025,0.12
+521,56,71,WhatsApp,Renovação,2026-03-10,,Falhou,,3,2026,0.25
+522,56,71,Email,Cobrança,2026-12-09,,Agendado,,12,2026,0.03
+523,28,35,SMS,Entrega Veículo,2025-05-26,2025-05-26,Enviado,Pagou,5,2025,0.12
+524,28,35,Email,Renovação,2026-08-07,,Agendado,,8,2026,0.03
+525,28,35,WhatsApp,Cobrança,2026-12-15,,Agendado,,12,2026,0.25
+526,28,35,Email,Entrega Veículo,2025-03-04,2025-03-04,Enviado,Pagou,3,2025,0.03
+527,28,35,WhatsApp,Cobrança,2026-10-30,,Agendado,,10,2026,0.25
+528,28,35,SMS,Cobrança,2025-05-23,2025-05-23,Enviado,Sem Resposta,5,2025,0.12
+529,28,35,WhatsApp,Cobrança,2026-03-29,2026-03-29,Enviado,Sem Resposta,3,2026,0.25
+530,215,284,Email,Cobrança,2026-11-04,,Agendado,,11,2026,0.03
+531,215,284,SMS,Lembrete Parcela,2025-04-06,2025-04-06,Enviado,Respondido,4,2025,0.12
+532,215,284,WhatsApp,CNH Pendência,2027-01-27,,Agendado,,1,2027,0.25
+533,215,284,WhatsApp,Entrega Veículo,2025-01-08,2025-01-08,Enviado,Sem Resposta,1,2025,0.25
+534,215,284,Email,Oferta Cross-sell,2026-08-12,2026-08-12,Enviado,Respondido,8,2026,0.03
+535,215,284,SMS,Cobrança,2026-07-26,2026-07-26,Enviado,Respondido,7,2026,0.12
+536,215,284,Push,CNH Pendência,2026-04-24,2026-04-24,Enviado,Sem Resposta,4,2026,0.01
+537,71,95,Carta,Cobrança,2026-05-31,2026-05-31,Enviado,Sem Resposta,5,2026,4.5
+538,71,95,SMS,Oferta Cross-sell,2026-09-13,,Agendado,,9,2026,0.12
+539,71,95,Email,Entrega Veículo,2026-05-05,2026-05-05,Enviado,Pagou,5,2026,0.03
+540,71,95,Email,Cobrança,2025-05-09,2025-05-09,Enviado,Pagou,5,2025,0.03
+541,71,95,Push,Renovação,2027-01-11,,Agendado,,1,2027,0.01
+542,148,199,Email,Cobrança,2026-11-09,,Agendado,,11,2026,0.03
+543,148,199,SMS,Cobrança,2025-12-25,2025-12-25,Enviado,Respondido,12,2025,0.12
+544,148,199,WhatsApp,Cobrança,2027-01-10,,Agendado,,1,2027,0.25
+545,148,199,WhatsApp,Renovação,2026-11-23,,Agendado,,11,2026,0.25
+546,148,199,Email,Cobrança,2025-09-15,,Falhou,,9,2025,0.03
+547,148,199,SMS,Lembrete Parcela,2026-09-11,,Agendado,,9,2026,0.12
+548,148,199,SMS,Cobrança,2026-08-11,2026-08-11,Enviado,Respondido,8,2026,0.12
+549,148,199,WhatsApp,Cobrança,2025-06-24,2025-06-24,Enviado,Sem Resposta,6,2025,0.25
+550,136,184,SMS,Renovação,2026-10-27,,Agendado,,10,2026,0.12
+551,136,184,SMS,CNH Pendência,2026-03-17,2026-03-17,Enviado,Respondido,3,2026,0.12
+552,136,184,WhatsApp,CNH Pendência,2025-08-26,2025-08-26,Enviado,Respondido,8,2025,0.25
+553,110,151,SMS,Cobrança,2025-07-25,2025-07-25,Enviado,Respondido,7,2025,0.12
+554,110,151,WhatsApp,Cobrança,2025-08-16,2025-08-16,Enviado,Respondido,8,2025,0.25
+555,110,151,Push,Cobrança,2026-09-06,,Agendado,,9,2026,0.01
+556,110,151,WhatsApp,Renovação,2025-10-15,2025-10-15,Enviado,Opt-out,10,2025,0.25
+557,110,151,WhatsApp,Lembrete Parcela,2026-03-23,,Falhou,,3,2026,0.25
+558,110,151,SMS,Renovação,2025-12-29,2025-12-29,Enviado,Sem Resposta,12,2025,0.12
+559,110,151,SMS,Cobrança,2025-04-03,2025-04-03,Enviado,Sem Resposta,4,2025,0.12
+560,110,151,SMS,Cobrança,2025-07-22,2025-07-22,Enviado,Respondido,7,2025,0.12
+561,24,31,WhatsApp,Entrega Veículo,2025-04-06,,Cancelado,,4,2025,0.25
+562,24,31,Push,Cobrança,2026-11-08,,Agendado,,11,2026,0.01
+563,24,31,Carta,Cobrança,2025-07-21,2025-07-21,Enviado,Sem Resposta,7,2025,4.5
+564,24,31,Email,Lembrete Parcela,2026-03-07,,Falhou,,3,2026,0.03
+565,24,31,Email,Lembrete Parcela,2026-10-04,,Agendado,,10,2026,0.03
+566,24,31,SMS,Oferta Cross-sell,2026-10-11,,Agendado,,10,2026,0.12
+567,24,31,WhatsApp,CNH Pendência,2025-12-15,2025-12-15,Enviado,Sem Resposta,12,2025,0.25
+568,234,314,WhatsApp,Entrega Veículo,2026-08-02,2026-08-02,Enviado,Sem Resposta,8,2026,0.25
+569,234,314,Carta,Cobrança,2025-08-13,2025-08-13,Enviado,Sem Resposta,8,2025,4.5
+570,232,312,Email,Cobrança,2025-12-20,2025-12-20,Enviado,Sem Resposta,12,2025,0.03
+571,232,312,WhatsApp,Cobrança,2026-04-05,2026-04-05,Enviado,Opt-out,4,2026,0.25
+572,232,312,Carta,Cobrança,2026-11-03,,Agendado,,11,2026,4.5
+573,232,312,Email,Lembrete Parcela,2026-11-16,,Agendado,,11,2026,0.03
+574,73,99,SMS,Oferta Cross-sell,2025-07-22,2025-07-22,Enviado,Pagou,7,2025,0.12
+575,73,99,WhatsApp,Cobrança,2026-08-01,,Agendado,,8,2026,0.25
+576,73,99,SMS,Oferta Cross-sell,2027-01-08,,Agendado,,1,2027,0.12
+577,73,99,Email,CNH Pendência,2026-09-14,,Agendado,,9,2026,0.03
+578,73,99,WhatsApp,Cobrança,2025-01-17,2025-01-17,Enviado,Respondido,1,2025,0.25
+579,73,99,Email,Lembrete Parcela,2026-03-14,2026-03-14,Enviado,Sem Resposta,3,2026,0.03
+580,25,32,WhatsApp,Lembrete Parcela,2026-04-12,2026-04-12,Enviado,Pagou,4,2026,0.25
+581,25,32,SMS,Cobrança,2026-01-20,2026-01-20,Enviado,Pagou,1,2026,0.12
+582,25,32,Push,CNH Pendência,2026-03-02,2026-03-02,Enviado,Sem Resposta,3,2026,0.01
+583,25,32,WhatsApp,Renovação,2025-08-28,2025-08-28,Enviado,Opt-out,8,2025,0.25
+584,25,32,WhatsApp,Entrega Veículo,2025-11-01,,Falhou,,11,2025,0.25
+585,25,32,Email,Cobrança,2026-08-08,2026-08-08,Enviado,Respondido,8,2026,0.03
+586,25,32,Push,Renovação,2025-04-23,2025-04-23,Enviado,Sem Resposta,4,2025,0.01
+587,190,253,Email,Cobrança,2026-12-22,,Agendado,,12,2026,0.03
+588,190,253,SMS,Renovação,2026-02-26,2026-02-26,Enviado,Sem Resposta,2,2026,0.12
+589,190,253,SMS,Cobrança,2026-11-22,,Agendado,,11,2026,0.12
+590,190,253,Email,Cobrança,2025-08-05,2025-08-05,Enviado,Sem Resposta,8,2025,0.03
+591,59,74,SMS,Lembrete Parcela,2025-05-04,2025-05-04,Enviado,Respondido,5,2025,0.12
+592,59,74,Email,Lembrete Parcela,2026-11-30,,Agendado,,11,2026,0.03
+593,59,74,WhatsApp,Entrega Veículo,2027-01-05,,Agendado,,1,2027,0.25
+594,59,74,Email,Cobrança,2026-06-04,2026-06-04,Enviado,Respondido,6,2026,0.03
+595,59,74,WhatsApp,Lembrete Parcela,2026-08-12,,Agendado,,8,2026,0.25
+596,11,14,SMS,Oferta Cross-sell,2025-11-08,2025-11-08,Enviado,Respondido,11,2025,0.12
+597,11,14,WhatsApp,Oferta Cross-sell,2026-12-02,,Agendado,,12,2026,0.25
+598,11,14,SMS,Entrega Veículo,2027-01-11,,Agendado,,1,2027,0.12
+599,11,14,SMS,Cobrança,2026-10-17,,Agendado,,10,2026,0.12
+600,11,14,SMS,Oferta Cross-sell,2026-04-12,2026-04-12,Enviado,Sem Resposta,4,2026,0.12
+601,193,257,WhatsApp,Renovação,2026-02-16,2026-02-16,Enviado,Sem Resposta,2,2026,0.25
+602,193,257,SMS,Renovação,2026-08-18,,Agendado,,8,2026,0.12
+603,193,257,SMS,Renovação,2027-01-21,,Agendado,,1,2027,0.12
+604,193,257,SMS,CNH Pendência,2025-07-01,2025-07-01,Enviado,Sem Resposta,7,2025,0.12
+605,193,257,WhatsApp,Oferta Cross-sell,2026-07-04,,Falhou,,7,2026,0.25
+606,193,257,WhatsApp,Oferta Cross-sell,2025-11-27,,Cancelado,,11,2025,0.25
+607,54,68,WhatsApp,Cobrança,2026-04-14,2026-04-14,Enviado,Opt-out,4,2026,0.25
+608,54,68,WhatsApp,Oferta Cross-sell,2025-09-26,2025-09-26,Enviado,Sem Resposta,9,2025,0.25
+609,54,68,SMS,Cobrança,2026-12-16,,Agendado,,12,2026,0.12
+610,54,68,WhatsApp,Lembrete Parcela,2026-08-23,,Agendado,,8,2026,0.25
+611,54,68,SMS,Lembrete Parcela,2025-01-20,2025-01-20,Enviado,Sem Resposta,1,2025,0.12
+612,54,68,Push,Oferta Cross-sell,2026-01-25,2026-01-25,Enviado,Respondido,1,2026,0.01
+613,54,68,Email,Cobrança,2026-01-12,2026-01-12,Enviado,Sem Resposta,1,2026,0.03
+614,54,68,Push,Cobrança,2026-06-09,2026-06-09,Enviado,Sem Resposta,6,2026,0.01
+615,122,167,SMS,Cobrança,2025-03-19,2025-03-19,Enviado,Sem Resposta,3,2025,0.12
+616,122,167,Email,Renovação,2026-11-07,,Agendado,,11,2026,0.03
+617,122,167,Push,Lembrete Parcela,2025-08-16,2025-08-16,Enviado,Sem Resposta,8,2025,0.01
+618,122,167,WhatsApp,Lembrete Parcela,2026-08-14,,Agendado,,8,2026,0.25
+619,122,167,WhatsApp,Cobrança,2025-05-26,,Falhou,,5,2025,0.25
+620,122,167,SMS,Lembrete Parcela,2026-04-05,2026-04-05,Enviado,Respondido,4,2026,0.12
+621,122,167,WhatsApp,Cobrança,2025-11-02,2025-11-02,Enviado,Pagou,11,2025,0.25
+622,122,167,Email,Cobrança,2026-06-15,2026-06-15,Enviado,Pagou,6,2026,0.03
+623,103,140,SMS,Cobrança,2025-06-19,2025-06-19,Enviado,Sem Resposta,6,2025,0.12
+624,103,140,Carta,Cobrança,2025-11-03,2025-11-03,Enviado,Sem Resposta,11,2025,4.5
+625,103,140,WhatsApp,Entrega Veículo,2025-05-31,2025-05-31,Enviado,Sem Resposta,5,2025,0.25
+626,103,140,Push,Entrega Veículo,2026-04-24,2026-04-24,Enviado,Respondido,4,2026,0.01
+627,103,140,SMS,Renovação,2027-01-23,,Agendado,,1,2027,0.12
+628,103,140,WhatsApp,Cobrança,2026-08-29,,Agendado,,8,2026,0.25
+629,103,140,Email,Cobrança,2025-01-16,2025-01-16,Enviado,Sem Resposta,1,2025,0.03
+630,103,140,SMS,CNH Pendência,2025-02-28,2025-02-28,Enviado,Pagou,2,2025,0.12
+631,109,150,Push,Cobrança,2025-10-03,2025-10-03,Enviado,Pagou,10,2025,0.01
+632,109,150,WhatsApp,Renovação,2025-12-09,,Cancelado,,12,2025,0.25
+633,109,150,Carta,Lembrete Parcela,2026-08-21,,Agendado,,8,2026,4.5
+634,109,150,WhatsApp,Cobrança,2025-05-27,2025-05-27,Enviado,Sem Resposta,5,2025,0.25
+635,109,150,Email,Renovação,2025-04-03,,Falhou,,4,2025,0.03
+636,248,330,Email,Entrega Veículo,2025-07-07,2025-07-07,Enviado,Sem Resposta,7,2025,0.03
+637,248,330,WhatsApp,Renovação,2026-08-16,,Agendado,,8,2026,0.25
+638,248,330,Email,Cobrança,2026-08-01,,Agendado,,8,2026,0.03
+639,51,64,SMS,Entrega Veículo,2025-05-17,2025-05-17,Enviado,Pagou,5,2025,0.12
+640,51,64,Email,Cobrança,2026-03-12,2026-03-12,Enviado,Pagou,3,2026,0.03
+641,51,64,WhatsApp,Lembrete Parcela,2026-10-11,,Agendado,,10,2026,0.25
+642,149,203,SMS,Cobrança,2025-10-06,2025-10-06,Enviado,Pagou,10,2025,0.12
+643,149,203,SMS,Oferta Cross-sell,2026-12-24,,Agendado,,12,2026,0.12
+644,149,203,Email,Renovação,2025-10-11,,Falhou,,10,2025,0.03
+645,149,203,SMS,Renovação,2025-05-11,2025-05-11,Enviado,Respondido,5,2025,0.12
+646,149,203,Email,Renovação,2026-12-14,,Agendado,,12,2026,0.03
+647,149,203,WhatsApp,Renovação,2025-11-14,2025-11-14,Enviado,Sem Resposta,11,2025,0.25
+648,149,203,Carta,Entrega Veículo,2026-09-04,,Agendado,,9,2026,4.5
+649,200,264,SMS,Cobrança,2026-02-01,2026-02-01,Enviado,Opt-out,2,2026,0.12
+650,200,264,SMS,Oferta Cross-sell,2026-02-12,2026-02-12,Enviado,Sem Resposta,2,2026,0.12
+651,200,264,WhatsApp,Entrega Veículo,2025-12-20,2025-12-20,Enviado,Opt-out,12,2025,0.25
+652,200,264,Push,Entrega Veículo,2026-09-09,,Agendado,,9,2026,0.01
+653,200,264,WhatsApp,Oferta Cross-sell,2026-12-19,,Agendado,,12,2026,0.25
+654,200,264,Email,Cobrança,2026-05-04,,Falhou,,5,2026,0.03
+655,200,264,Email,Renovação,2026-11-24,,Agendado,,11,2026,0.03
+656,203,267,Push,Cobrança,2025-11-05,2025-11-05,Enviado,Sem Resposta,11,2025,0.01
+657,203,267,Email,Cobrança,2026-10-04,,Agendado,,10,2026,0.03
+658,203,267,WhatsApp,CNH Pendência,2025-07-24,2025-07-24,Enviado,Pagou,7,2025,0.25
+659,203,267,WhatsApp,Entrega Veículo,2025-05-10,2025-05-10,Enviado,Respondido,5,2025,0.25
+660,203,267,SMS,CNH Pendência,2026-04-23,,Falhou,,4,2026,0.12
+661,203,267,WhatsApp,Cobrança,2026-08-18,,Agendado,,8,2026,0.25
+662,231,309,WhatsApp,Cobrança,2025-02-04,,Falhou,,2,2025,0.25
+663,231,309,WhatsApp,Lembrete Parcela,2025-05-02,2025-05-02,Enviado,Sem Resposta,5,2025,0.25
+664,231,309,Email,Oferta Cross-sell,2026-12-18,,Agendado,,12,2026,0.03
+665,231,309,SMS,Oferta Cross-sell,2026-03-22,2026-03-22,Enviado,Pagou,3,2026,0.12
+666,231,309,SMS,Renovação,2027-01-26,,Agendado,,1,2027,0.12
+667,231,309,Push,Cobrança,2025-06-04,2025-06-04,Enviado,Respondido,6,2025,0.01
+668,231,309,SMS,Cobrança,2026-05-12,,Cancelado,,5,2026,0.12
+669,231,309,Push,Renovação,2025-09-25,2025-09-25,Enviado,Sem Resposta,9,2025,0.01
+670,179,239,WhatsApp,Entrega Veículo,2026-12-18,,Agendado,,12,2026,0.25
+671,179,239,Push,Entrega Veículo,2026-01-14,2026-01-14,Enviado,Respondido,1,2026,0.01
+672,179,239,Email,Cobrança,2025-01-03,2025-01-03,Enviado,Sem Resposta,1,2025,0.03
+673,169,225,Email,Entrega Veículo,2026-05-07,2026-05-07,Enviado,Pagou,5,2026,0.03
+674,169,225,WhatsApp,Entrega Veículo,2026-08-02,,Agendado,,8,2026,0.25
+675,64,82,Push,Cobrança,2025-05-04,2025-05-04,Enviado,Sem Resposta,5,2025,0.01
+676,64,82,WhatsApp,Entrega Veículo,2025-11-20,,Falhou,,11,2025,0.25
+677,64,82,SMS,Cobrança,2025-07-21,2025-07-21,Enviado,Respondido,7,2025,0.12
+678,64,82,Email,Entrega Veículo,2025-03-30,2025-03-30,Enviado,Pagou,3,2025,0.03
+679,62,80,SMS,Entrega Veículo,2025-03-14,2025-03-14,Enviado,Sem Resposta,3,2025,0.12
+680,62,80,Email,Cobrança,2025-07-08,2025-07-08,Enviado,Pagou,7,2025,0.03
+681,62,80,WhatsApp,Cobrança,2025-01-01,2025-01-01,Enviado,Sem Resposta,1,2025,0.25
+682,45,55,Push,Renovação,2025-05-12,2025-05-12,Enviado,Sem Resposta,5,2025,0.01
+683,45,55,Push,Cobrança,2026-04-27,2026-04-27,Enviado,Respondido,4,2026,0.01
+684,209,277,WhatsApp,Oferta Cross-sell,2026-07-25,,Falhou,,7,2026,0.25
+685,209,277,SMS,Entrega Veículo,2027-01-16,,Agendado,,1,2027,0.12
+686,209,277,Email,Cobrança,2025-10-02,2025-10-02,Enviado,Respondido,10,2025,0.03
+687,209,277,WhatsApp,Cobrança,2025-12-29,2025-12-29,Enviado,Sem Resposta,12,2025,0.25
+688,209,277,SMS,Oferta Cross-sell,2026-08-25,,Agendado,,8,2026,0.12
+689,209,277,WhatsApp,Cobrança,2026-02-06,2026-02-06,Enviado,Respondido,2,2026,0.25
+690,209,277,Push,Lembrete Parcela,2026-05-19,2026-05-19,Enviado,Respondido,5,2026,0.01
+691,209,277,WhatsApp,Cobrança,2026-08-04,,Agendado,,8,2026,0.25
+692,241,322,Carta,Cobrança,2025-10-10,,Cancelado,,10,2025,4.5
+693,241,322,SMS,Entrega Veículo,2026-12-18,,Agendado,,12,2026,0.12
+694,241,322,SMS,Cobrança,2025-08-03,2025-08-03,Enviado,Sem Resposta,8,2025,0.12
+695,241,322,Push,Cobrança,2026-10-01,,Agendado,,10,2026,0.01
+696,241,322,Push,Oferta Cross-sell,2026-02-13,2026-02-13,Enviado,Sem Resposta,2,2026,0.01
+697,241,322,WhatsApp,Entrega Veículo,2026-12-15,,Agendado,,12,2026,0.25
+698,241,322,SMS,Oferta Cross-sell,2025-12-13,2025-12-13,Enviado,Pagou,12,2025,0.12
+699,250,332,WhatsApp,Lembrete Parcela,2025-07-28,2025-07-28,Enviado,Sem Resposta,7,2025,0.25
+700,250,332,SMS,Renovação,2027-01-02,,Agendado,,1,2027,0.12
+701,250,332,SMS,Entrega Veículo,2026-12-07,,Agendado,,12,2026,0.12
+702,250,332,Push,Entrega Veículo,2026-11-19,,Agendado,,11,2026,0.01
+703,108,146,WhatsApp,Cobrança,2026-05-10,,Cancelado,,5,2026,0.25
+704,108,146,SMS,Cobrança,2026-08-31,,Agendado,,8,2026,0.12
+705,108,146,WhatsApp,Oferta Cross-sell,2025-10-16,,Falhou,,10,2025,0.25
+706,108,146,SMS,Cobrança,2026-09-07,,Agendado,,9,2026,0.12
+707,108,146,Email,CNH Pendência,2026-07-05,2026-07-05,Enviado,Sem Resposta,7,2026,0.03
+708,78,106,WhatsApp,Cobrança,2025-05-03,2025-05-03,Enviado,Sem Resposta,5,2025,0.25
+709,78,106,Push,Cobrança,2027-01-20,,Agendado,,1,2027,0.01
+710,46,57,Email,Cobrança,2026-04-27,2026-04-27,Enviado,Sem Resposta,4,2026,0.03
+711,46,57,Email,Entrega Veículo,2026-05-07,2026-05-07,Enviado,Opt-out,5,2026,0.03
+712,46,57,Email,Cobrança,2026-09-05,,Agendado,,9,2026,0.03
+713,124,169,SMS,CNH Pendência,2026-10-14,,Agendado,,10,2026,0.12
+714,124,169,SMS,Renovação,2025-12-14,2025-12-14,Enviado,Sem Resposta,12,2025,0.12
+715,124,169,WhatsApp,Renovação,2026-11-13,,Agendado,,11,2026,0.25
+716,124,169,Email,Cobrança,2026-08-14,2026-08-14,Enviado,Respondido,8,2026,0.03
+717,124,169,SMS,Cobrança,2026-08-19,,Agendado,,8,2026,0.12
+718,124,169,Email,Lembrete Parcela,2026-05-13,2026-05-13,Enviado,Pagou,5,2026,0.03
+719,124,169,Push,Cobrança,2025-02-19,2025-02-19,Enviado,Pagou,2,2025,0.01
+720,88,118,Email,Cobrança,2025-01-09,2025-01-09,Enviado,Respondido,1,2025,0.03
+721,88,118,WhatsApp,Oferta Cross-sell,2026-03-16,2026-03-16,Enviado,Respondido,3,2026,0.25
+722,88,118,SMS,Oferta Cross-sell,2026-12-29,,Agendado,,12,2026,0.12
+723,88,118,SMS,Cobrança,2025-08-31,2025-08-31,Enviado,Respondido,8,2025,0.12
+724,88,118,WhatsApp,Cobrança,2025-07-24,2025-07-24,Enviado,Sem Resposta,7,2025,0.25
+725,47,58,WhatsApp,Oferta Cross-sell,2025-04-25,2025-04-25,Enviado,Pagou,4,2025,0.25
+726,47,58,SMS,Entrega Veículo,2026-07-01,2026-07-01,Enviado,Respondido,7,2026,0.12
+727,47,58,Email,Entrega Veículo,2026-12-05,,Agendado,,12,2026,0.03
+728,47,58,WhatsApp,Entrega Veículo,2025-10-07,,Cancelado,,10,2025,0.25
+729,21,27,SMS,Entrega Veículo,2026-07-25,,Cancelado,,7,2026,0.12
+730,21,27,SMS,Cobrança,2026-06-11,2026-06-11,Enviado,Sem Resposta,6,2026,0.12
+731,21,27,SMS,Lembrete Parcela,2026-02-03,2026-02-03,Enviado,Sem Resposta,2,2026,0.12
+732,21,27,Carta,Cobrança,2026-10-24,,Agendado,,10,2026,4.5
+733,21,27,Email,Renovação,2026-12-31,,Agendado,,12,2026,0.03
+734,21,27,Email,Lembrete Parcela,2026-05-22,2026-05-22,Enviado,Sem Resposta,5,2026,0.03
+735,128,175,Push,Cobrança,2026-03-07,2026-03-07,Enviado,Sem Resposta,3,2026,0.01
+736,128,175,Email,Renovação,2025-06-07,2025-06-07,Enviado,Pagou,6,2025,0.03
+737,128,175,SMS,Renovação,2025-03-06,2025-03-06,Enviado,Sem Resposta,3,2025,0.12
+738,128,175,Push,Cobrança,2026-08-18,,Agendado,,8,2026,0.01
+739,128,175,WhatsApp,Renovação,2025-04-03,2025-04-03,Enviado,Pagou,4,2025,0.25
+740,222,296,Email,Renovação,2025-03-05,2025-03-05,Enviado,Respondido,3,2025,0.03
+741,222,296,SMS,Cobrança,2025-11-11,2025-11-11,Enviado,Sem Resposta,11,2025,0.12
+742,222,296,Push,Lembrete Parcela,2026-11-02,,Agendado,,11,2026,0.01
+743,222,296,WhatsApp,Cobrança,2026-04-24,2026-04-24,Enviado,Sem Resposta,4,2026,0.25
+744,7,8,Push,Cobrança,2026-06-22,2026-06-22,Enviado,Sem Resposta,6,2026,0.01
+745,7,8,WhatsApp,Renovação,2026-02-19,2026-02-19,Enviado,Sem Resposta,2,2026,0.25
+746,7,8,SMS,Renovação,2025-11-27,2025-11-27,Enviado,Sem Resposta,11,2025,0.12
+747,7,8,WhatsApp,Lembrete Parcela,2025-01-08,2025-01-08,Enviado,Sem Resposta,1,2025,0.25
+748,7,8,Push,Lembrete Parcela,2027-01-25,,Agendado,,1,2027,0.01
+749,220,291,WhatsApp,CNH Pendência,2025-09-29,2025-09-29,Enviado,Respondido,9,2025,0.25
+750,220,291,WhatsApp,Lembrete Parcela,2026-01-04,2026-01-04,Enviado,Respondido,1,2026,0.25
+751,220,291,WhatsApp,Cobrança,2027-01-02,,Agendado,,1,2027,0.25
+752,220,291,SMS,Lembrete Parcela,2026-09-23,,Agendado,,9,2026,0.12
+753,220,291,Carta,Oferta Cross-sell,2025-02-10,2025-02-10,Enviado,Sem Resposta,2,2025,4.5
+754,121,166,WhatsApp,Cobrança,2026-11-26,,Agendado,,11,2026,0.25
+755,121,166,Carta,Renovação,2026-10-06,,Agendado,,10,2026,4.5
+756,121,166,Email,Cobrança,2025-06-13,2025-06-13,Enviado,Sem Resposta,6,2025,0.03
+757,198,262,SMS,Lembrete Parcela,2025-07-06,2025-07-06,Enviado,Respondido,7,2025,0.12
+758,198,262,SMS,Lembrete Parcela,2025-07-13,2025-07-13,Enviado,Pagou,7,2025,0.12
+759,198,262,SMS,Oferta Cross-sell,2025-11-01,2025-11-01,Enviado,Respondido,11,2025,0.12
+760,198,262,SMS,Oferta Cross-sell,2026-05-10,2026-05-10,Enviado,Sem Resposta,5,2026,0.12
+761,163,218,SMS,Cobrança,2026-02-03,2026-02-03,Enviado,Opt-out,2,2026,0.12
+762,163,218,WhatsApp,Cobrança,2025-03-13,2025-03-13,Enviado,Opt-out,3,2025,0.25
+763,92,127,WhatsApp,Cobrança,2025-10-19,,Cancelado,,10,2025,0.25
+764,92,127,SMS,Cobrança,2026-11-19,,Agendado,,11,2026,0.12
+765,99,136,SMS,Lembrete Parcela,2026-04-06,2026-04-06,Enviado,Respondido,4,2026,0.12
+766,99,136,Email,Entrega Veículo,2027-01-27,,Agendado,,1,2027,0.03
+767,99,136,Push,Entrega Veículo,2025-11-02,2025-11-02,Enviado,Respondido,11,2025,0.01
+768,99,136,SMS,CNH Pendência,2025-02-23,2025-02-23,Enviado,Pagou,2,2025,0.12
+769,99,136,Email,Cobrança,2025-11-08,2025-11-08,Enviado,Sem Resposta,11,2025,0.03
+770,99,136,SMS,Lembrete Parcela,2025-11-01,2025-11-01,Enviado,Respondido,11,2025,0.12
+771,99,136,SMS,Oferta Cross-sell,2026-03-21,2026-03-21,Enviado,Pagou,3,2026,0.12
+772,70,92,Email,Cobrança,2026-08-06,,Falhou,,8,2026,0.03
+773,70,92,Email,CNH Pendência,2025-02-10,2025-02-10,Enviado,Sem Resposta,2,2025,0.03
+774,70,92,WhatsApp,CNH Pendência,2026-02-18,,Falhou,,2,2026,0.25
+775,70,92,Push,Lembrete Parcela,2026-10-12,,Agendado,,10,2026,0.01
+776,70,92,SMS,Oferta Cross-sell,2025-08-02,2025-08-02,Enviado,Opt-out,8,2025,0.12
+777,70,92,WhatsApp,Entrega Veículo,2026-05-12,2026-05-12,Enviado,Pagou,5,2026,0.25
+778,35,43,Push,Cobrança,2026-10-05,,Agendado,,10,2026,0.01
+779,35,43,WhatsApp,Oferta Cross-sell,2025-11-19,2025-11-19,Enviado,Respondido,11,2025,0.25
+780,35,43,WhatsApp,Cobrança,2026-09-06,,Agendado,,9,2026,0.25
+781,35,43,WhatsApp,CNH Pendência,2025-08-10,2025-08-10,Enviado,Pagou,8,2025,0.25
+782,35,43,SMS,Entrega Veículo,2025-05-14,2025-05-14,Enviado,Pagou,5,2025,0.12
+783,35,43,Push,Oferta Cross-sell,2025-03-18,2025-03-18,Enviado,Pagou,3,2025,0.01
+784,35,43,SMS,Cobrança,2026-09-28,,Agendado,,9,2026,0.12
+785,185,247,WhatsApp,Cobrança,2026-04-07,2026-04-07,Enviado,Sem Resposta,4,2026,0.25
+786,185,247,SMS,Entrega Veículo,2026-12-30,,Agendado,,12,2026,0.12
+787,185,247,WhatsApp,Entrega Veículo,2026-05-25,2026-05-25,Enviado,Pagou,5,2026,0.25
+788,185,247,SMS,Entrega Veículo,2026-04-18,2026-04-18,Enviado,Sem Resposta,4,2026,0.12
+789,166,222,WhatsApp,CNH Pendência,2025-05-12,2025-05-12,Enviado,Sem Resposta,5,2025,0.25
+790,166,222,Email,Oferta Cross-sell,2026-07-14,,Cancelado,,7,2026,0.03
+791,17,21,Email,Cobrança,2025-03-20,,Cancelado,,3,2025,0.03
+792,17,21,WhatsApp,Cobrança,2026-01-14,2026-01-14,Enviado,Sem Resposta,1,2026,0.25
+793,17,21,WhatsApp,Entrega Veículo,2026-10-09,,Agendado,,10,2026,0.25
+794,17,21,WhatsApp,Renovação,2026-03-15,2026-03-15,Enviado,Sem Resposta,3,2026,0.25
+795,170,226,Email,Lembrete Parcela,2026-12-17,,Agendado,,12,2026,0.03
+796,170,226,SMS,Cobrança,2026-04-01,2026-04-01,Enviado,Sem Resposta,4,2026,0.12
+797,170,226,WhatsApp,Cobrança,2025-05-25,2025-05-25,Enviado,Sem Resposta,5,2025,0.25
+798,170,226,SMS,Cobrança,2025-11-23,2025-11-23,Enviado,Sem Resposta,11,2025,0.12
+799,170,226,SMS,Renovação,2026-06-20,,Falhou,,6,2026,0.12
+800,170,226,WhatsApp,Cobrança,2026-05-21,2026-05-21,Enviado,Opt-out,5,2026,0.25
+801,104,141,Email,Cobrança,2025-02-23,2025-02-23,Enviado,Sem Resposta,2,2025,0.03
+802,104,141,WhatsApp,Oferta Cross-sell,2026-09-03,,Agendado,,9,2026,0.25
+803,104,141,SMS,Cobrança,2026-01-27,2026-01-27,Enviado,Sem Resposta,1,2026,0.12
+804,178,237,SMS,Cobrança,2025-03-12,2025-03-12,Enviado,Sem Resposta,3,2025,0.12
+805,178,237,SMS,Oferta Cross-sell,2025-07-26,2025-07-26,Enviado,Sem Resposta,7,2025,0.12
+806,178,237,Email,Oferta Cross-sell,2025-08-27,2025-08-27,Enviado,Pagou,8,2025,0.03
+807,18,24,SMS,Cobrança,2025-09-09,2025-09-09,Enviado,Respondido,9,2025,0.12
+808,18,24,WhatsApp,Lembrete Parcela,2025-08-06,2025-08-06,Enviado,Sem Resposta,8,2025,0.25
+809,18,24,WhatsApp,Cobrança,2025-02-19,2025-02-19,Enviado,Pagou,2,2025,0.25
+810,18,24,Push,Cobrança,2026-10-11,,Agendado,,10,2026,0.01
+811,18,24,SMS,Lembrete Parcela,2026-08-04,,Agendado,,8,2026,0.12
+812,18,24,Email,Oferta Cross-sell,2026-05-03,2026-05-03,Enviado,Pagou,5,2026,0.03
+813,18,24,Carta,Entrega Veículo,2026-09-04,,Agendado,,9,2026,4.5
+814,18,24,Email,CNH Pendência,2025-10-03,2025-10-03,Enviado,Sem Resposta,10,2025,0.03
+815,106,143,SMS,Cobrança,2025-02-13,2025-02-13,Enviado,Sem Resposta,2,2025,0.12
+816,106,143,WhatsApp,Lembrete Parcela,2026-06-06,,Cancelado,,6,2026,0.25
+817,106,143,Email,Cobrança,2025-08-17,2025-08-17,Enviado,Sem Resposta,8,2025,0.03
+818,106,143,WhatsApp,CNH Pendência,2026-07-16,2026-07-16,Enviado,Sem Resposta,7,2026,0.25
+819,106,143,SMS,Renovação,2025-10-04,2025-10-04,Enviado,Pagou,10,2025,0.12
+820,106,143,WhatsApp,CNH Pendência,2026-10-30,,Agendado,,10,2026,0.25
+821,57,72,WhatsApp,Oferta Cross-sell,2025-10-15,2025-10-15,Enviado,Pagou,10,2025,0.25
+822,57,72,WhatsApp,Renovação,2025-08-21,2025-08-21,Enviado,Pagou,8,2025,0.25
+823,57,72,Email,Lembrete Parcela,2026-04-17,2026-04-17,Enviado,Sem Resposta,4,2026,0.03
+824,57,72,WhatsApp,Entrega Veículo,2026-03-12,2026-03-12,Enviado,Opt-out,3,2026,0.25
+825,57,72,WhatsApp,Lembrete Parcela,2026-05-28,2026-05-28,Enviado,Pagou,5,2026,0.25
+826,57,72,Email,CNH Pendência,2026-02-10,2026-02-10,Enviado,Pagou,2,2026,0.03
+827,149,201,Email,Cobrança,2025-08-14,2025-08-14,Enviado,Pagou,8,2025,0.03
+828,149,201,WhatsApp,Cobrança,2026-11-05,,Agendado,,11,2026,0.25
+829,149,201,WhatsApp,Lembrete Parcela,2026-03-07,2026-03-07,Enviado,Sem Resposta,3,2026,0.25
+830,149,201,SMS,Oferta Cross-sell,2026-09-19,,Agendado,,9,2026,0.12
+831,214,283,Email,Cobrança,2026-09-24,,Agendado,,9,2026,0.03
+832,214,283,WhatsApp,Lembrete Parcela,2026-11-04,,Agendado,,11,2026,0.25
+833,214,283,WhatsApp,Cobrança,2026-08-24,,Agendado,,8,2026,0.25
+834,214,283,Email,Renovação,2025-05-31,,Falhou,,5,2025,0.03
+835,214,283,WhatsApp,CNH Pendência,2026-03-01,2026-03-01,Enviado,Sem Resposta,3,2026,0.25
+836,214,283,Email,Cobrança,2025-05-17,2025-05-17,Enviado,Respondido,5,2025,0.03
+837,214,283,SMS,Lembrete Parcela,2025-01-28,,Cancelado,,1,2025,0.12
+838,44,54,WhatsApp,Cobrança,2025-02-06,2025-02-06,Enviado,Pagou,2,2025,0.25
+839,44,54,Email,Entrega Veículo,2026-07-10,2026-07-10,Enviado,Sem Resposta,7,2026,0.03
+840,44,54,WhatsApp,Lembrete Parcela,2026-11-23,,Agendado,,11,2026,0.25
+841,70,93,SMS,Cobrança,2026-04-01,2026-04-01,Enviado,Sem Resposta,4,2026,0.12
+842,70,93,Email,Cobrança,2026-12-18,,Agendado,,12,2026,0.03
+843,70,93,WhatsApp,Oferta Cross-sell,2026-09-23,,Agendado,,9,2026,0.25
+844,70,93,SMS,Renovação,2025-11-25,2025-11-25,Enviado,Respondido,11,2025,0.12
+845,70,93,Email,Oferta Cross-sell,2027-01-08,,Agendado,,1,2027,0.03
+846,70,93,Email,Renovação,2026-06-02,2026-06-02,Enviado,Sem Resposta,6,2026,0.03
+847,220,292,SMS,Cobrança,2025-01-18,2025-01-18,Enviado,Sem Resposta,1,2025,0.12
+848,220,292,WhatsApp,Cobrança,2026-09-16,,Agendado,,9,2026,0.25
+849,220,292,WhatsApp,Cobrança,2026-08-08,,Agendado,,8,2026,0.25
+850,220,292,Email,Lembrete Parcela,2026-07-14,2026-07-14,Enviado,Opt-out,7,2026,0.03
+851,220,292,Email,Lembrete Parcela,2025-04-11,2025-04-11,Enviado,Respondido,4,2025,0.03
+852,38,46,WhatsApp,Cobrança,2026-02-16,2026-02-16,Enviado,Pagou,2,2026,0.25
+853,38,46,SMS,Entrega Veículo,2026-04-11,2026-04-11,Enviado,Respondido,4,2026,0.12
+854,38,46,WhatsApp,Lembrete Parcela,2026-07-21,2026-07-21,Enviado,Respondido,7,2026,0.25
+855,38,46,WhatsApp,Cobrança,2026-11-20,,Agendado,,11,2026,0.25
+856,38,46,WhatsApp,Lembrete Parcela,2025-02-17,2025-02-17,Enviado,Sem Resposta,2,2025,0.25
+857,38,46,Email,Renovação,2026-02-28,,Falhou,,2,2026,0.03
+858,38,46,Carta,Lembrete Parcela,2026-09-18,,Agendado,,9,2026,4.5
+859,38,46,WhatsApp,Cobrança,2026-05-14,2026-05-14,Enviado,Pagou,5,2026,0.25
+860,81,111,WhatsApp,Cobrança,2026-09-25,,Agendado,,9,2026,0.25
+861,81,111,Email,Cobrança,2025-11-22,2025-11-22,Enviado,Pagou,11,2025,0.03
+862,81,111,WhatsApp,Renovação,2025-08-16,2025-08-16,Enviado,Pagou,8,2025,0.25
+863,81,111,SMS,Cobrança,2026-06-06,2026-06-06,Enviado,Respondido,6,2026,0.12
+864,81,111,SMS,Cobrança,2026-08-14,,Agendado,,8,2026,0.12
+865,81,111,WhatsApp,Lembrete Parcela,2026-09-28,,Agendado,,9,2026,0.25
+866,81,111,WhatsApp,Entrega Veículo,2026-09-20,,Agendado,,9,2026,0.25
+867,81,111,Push,Renovação,2026-02-07,2026-02-07,Enviado,Pagou,2,2026,0.01
+868,95,130,SMS,Cobrança,2026-04-07,2026-04-07,Enviado,Sem Resposta,4,2026,0.12
+869,95,130,SMS,CNH Pendência,2025-11-06,2025-11-06,Enviado,Sem Resposta,11,2025,0.12
+870,95,130,Email,Renovação,2026-04-30,2026-04-30,Enviado,Sem Resposta,4,2026,0.03
+871,95,130,Push,Entrega Veículo,2026-11-17,,Agendado,,11,2026,0.01
+872,95,130,Email,Lembrete Parcela,2025-01-23,2025-01-23,Enviado,Respondido,1,2025,0.03
+873,95,130,Email,Cobrança,2026-05-26,2026-05-26,Enviado,Respondido,5,2026,0.03
+874,143,191,Push,Renovação,2025-06-14,2025-06-14,Enviado,Pagou,6,2025,0.01
+875,143,191,Email,Cobrança,2026-02-07,,Cancelado,,2,2026,0.03
+876,53,67,WhatsApp,Lembrete Parcela,2025-04-01,2025-04-01,Enviado,Sem Resposta,4,2025,0.25
+877,53,67,Email,Lembrete Parcela,2025-08-21,2025-08-21,Enviado,Sem Resposta,8,2025,0.03
+878,53,67,Push,Renovação,2026-07-18,2026-07-18,Enviado,Pagou,7,2026,0.01
+879,53,67,WhatsApp,Oferta Cross-sell,2026-08-07,,Agendado,,8,2026,0.25
+880,53,67,Push,Entrega Veículo,2026-01-29,2026-01-29,Enviado,Pagou,1,2026,0.01
+881,53,67,WhatsApp,Renovação,2026-08-10,2026-08-10,Enviado,Sem Resposta,8,2026,0.25
+882,53,67,WhatsApp,Cobrança,2025-04-28,2025-04-28,Enviado,Sem Resposta,4,2025,0.25
+883,53,67,Push,Cobrança,2026-08-20,,Agendado,,8,2026,0.01
+884,204,268,Email,Lembrete Parcela,2025-10-21,,Falhou,,10,2025,0.03
+885,204,268,WhatsApp,Cobrança,2025-10-08,2025-10-08,Enviado,Sem Resposta,10,2025,0.25
+886,204,268,WhatsApp,CNH Pendência,2026-07-30,2026-07-30,Enviado,Sem Resposta,7,2026,0.25
+887,204,268,SMS,Renovação,2026-12-30,,Agendado,,12,2026,0.12
+888,204,268,Carta,CNH Pendência,2025-10-23,2025-10-23,Enviado,Opt-out,10,2025,4.5
+889,204,268,WhatsApp,Entrega Veículo,2025-06-05,2025-06-05,Enviado,Pagou,6,2025,0.25
+890,93,128,WhatsApp,Entrega Veículo,2026-01-29,2026-01-29,Enviado,Respondido,1,2026,0.25
+891,93,128,SMS,Oferta Cross-sell,2026-04-16,2026-04-16,Enviado,Pagou,4,2026,0.12
+892,93,128,Email,Entrega Veículo,2026-08-01,,Agendado,,8,2026,0.03
+893,93,128,Email,Cobrança,2025-09-04,2025-09-04,Enviado,Pagou,9,2025,0.03
+894,10,13,WhatsApp,Cobrança,2025-08-14,2025-08-14,Enviado,Sem Resposta,8,2025,0.25
+895,10,13,Carta,Cobrança,2026-03-25,,Cancelado,,3,2026,4.5
+896,176,235,Email,Cobrança,2025-01-17,2025-01-17,Enviado,Pagou,1,2025,0.03
+897,176,235,Email,Oferta Cross-sell,2025-10-10,2025-10-10,Enviado,Respondido,10,2025,0.03
+898,176,235,WhatsApp,Cobrança,2025-12-25,2025-12-25,Enviado,Sem Resposta,12,2025,0.25
+899,176,235,Email,Renovação,2026-09-05,,Agendado,,9,2026,0.03
+900,176,235,Email,CNH Pendência,2026-07-17,2026-07-17,Enviado,Sem Resposta,7,2026,0.03
+901,176,235,SMS,Cobrança,2026-01-01,2026-01-01,Enviado,Sem Resposta,1,2026,0.12
+902,215,286,Email,Lembrete Parcela,2027-01-11,,Agendado,,1,2027,0.03
+903,215,286,WhatsApp,Cobrança,2025-09-27,2025-09-27,Enviado,Sem Resposta,9,2025,0.25
+904,215,286,SMS,Cobrança,2026-12-19,,Agendado,,12,2026,0.12
+905,215,286,Push,Cobrança,2026-10-25,,Agendado,,10,2026,0.01
+906,215,286,WhatsApp,Cobrança,2026-10-09,,Agendado,,10,2026,0.25
+907,215,286,Push,Lembrete Parcela,2026-07-17,2026-07-17,Enviado,Respondido,7,2026,0.01
+908,41,50,SMS,Entrega Veículo,2026-04-26,2026-04-26,Enviado,Opt-out,4,2026,0.12
+909,41,50,Push,Cobrança,2025-03-27,2025-03-27,Enviado,Sem Resposta,3,2025,0.01
+910,41,50,SMS,Oferta Cross-sell,2025-04-28,2025-04-28,Enviado,Pagou,4,2025,0.12
+911,41,50,Email,Renovação,2025-11-21,2025-11-21,Enviado,Respondido,11,2025,0.03
+912,41,50,SMS,Lembrete Parcela,2025-10-20,2025-10-20,Enviado,Sem Resposta,10,2025,0.12
+913,41,50,SMS,Renovação,2026-06-26,2026-06-26,Enviado,Sem Resposta,6,2026,0.12
+914,34,42,WhatsApp,Cobrança,2025-09-07,2025-09-07,Enviado,Respondido,9,2025,0.25
+915,34,42,SMS,Cobrança,2025-08-23,2025-08-23,Enviado,Sem Resposta,8,2025,0.12
+916,6,7,Push,Lembrete Parcela,2026-07-16,2026-07-16,Enviado,Sem Resposta,7,2026,0.01
+917,6,7,WhatsApp,Cobrança,2025-11-24,2025-11-24,Enviado,Respondido,11,2025,0.25
+918,6,7,WhatsApp,Lembrete Parcela,2026-07-16,2026-07-16,Enviado,Respondido,7,2026,0.25
+919,132,180,WhatsApp,Renovação,2025-03-15,2025-03-15,Enviado,Sem Resposta,3,2025,0.25
+920,132,180,SMS,Lembrete Parcela,2025-02-24,2025-02-24,Enviado,Respondido,2,2025,0.12
+921,132,180,Email,Entrega Veículo,2025-12-10,,Falhou,,12,2025,0.03
+922,132,180,Email,Cobrança,2026-09-13,,Agendado,,9,2026,0.03
+923,132,180,SMS,Cobrança,2025-06-07,2025-06-07,Enviado,Sem Resposta,6,2025,0.12
+924,132,180,Email,Cobrança,2026-08-03,2026-08-03,Enviado,Respondido,8,2026,0.03
+925,132,180,Email,CNH Pendência,2026-06-16,2026-06-16,Enviado,Respondido,6,2026,0.03
+926,132,180,SMS,Cobrança,2026-09-29,,Agendado,,9,2026,0.12
+927,144,194,SMS,Entrega Veículo,2026-08-13,,Agendado,,8,2026,0.12
+928,144,194,SMS,Renovação,2025-02-17,,Falhou,,2,2025,0.12
+929,144,194,SMS,Cobrança,2025-08-03,2025-08-03,Enviado,Respondido,8,2025,0.12
+930,144,194,SMS,Cobrança,2026-01-23,,Cancelado,,1,2026,0.12
+931,144,194,SMS,Cobrança,2025-09-18,2025-09-18,Enviado,Pagou,9,2025,0.12
+932,144,194,Email,Lembrete Parcela,2025-07-10,2025-07-10,Enviado,Sem Resposta,7,2025,0.03
+933,144,194,WhatsApp,CNH Pendência,2025-01-06,2025-01-06,Enviado,Sem Resposta,1,2025,0.25
+934,144,194,SMS,Renovação,2025-02-25,2025-02-25,Enviado,Sem Resposta,2,2025,0.12
+935,189,252,WhatsApp,Cobrança,2026-04-30,2026-04-30,Enviado,Pagou,4,2026,0.25
+936,189,252,WhatsApp,Cobrança,2026-01-05,2026-01-05,Enviado,Sem Resposta,1,2026,0.25
+937,189,252,Email,Cobrança,2026-10-25,,Agendado,,10,2026,0.03
+938,189,252,Push,Lembrete Parcela,2026-11-12,,Agendado,,11,2026,0.01
+939,31,38,WhatsApp,CNH Pendência,2026-05-15,2026-05-15,Enviado,Sem Resposta,5,2026,0.25
+940,31,38,WhatsApp,Cobrança,2026-12-09,,Agendado,,12,2026,0.25
+941,31,38,Push,Cobrança,2025-04-18,2025-04-18,Enviado,Pagou,4,2025,0.01
+942,31,38,SMS,Renovação,2027-01-26,,Agendado,,1,2027,0.12
+943,144,193,Carta,Cobrança,2026-10-09,,Agendado,,10,2026,4.5
+944,144,193,Email,Entrega Veículo,2027-01-18,,Agendado,,1,2027,0.03
+945,144,193,SMS,Cobrança,2026-02-22,2026-02-22,Enviado,Sem Resposta,2,2026,0.12
+946,144,193,WhatsApp,Lembrete Parcela,2025-09-13,2025-09-13,Enviado,Respondido,9,2025,0.25
+947,84,114,Email,Lembrete Parcela,2026-09-08,,Agendado,,9,2026,0.03
+948,84,114,Email,Cobrança,2026-04-14,,Falhou,,4,2026,0.03
+949,84,114,Email,Lembrete Parcela,2026-07-15,,Falhou,,7,2026,0.03
+950,84,114,SMS,Cobrança,2026-11-14,,Agendado,,11,2026,0.12
+951,84,114,Email,Oferta Cross-sell,2025-01-27,2025-01-27,Enviado,Respondido,1,2025,0.03
+952,84,114,SMS,Lembrete Parcela,2025-08-31,2025-08-31,Enviado,Pagou,8,2025,0.12
+953,84,114,WhatsApp,Lembrete Parcela,2025-04-09,2025-04-09,Enviado,Respondido,4,2025,0.25
+954,88,119,Email,Cobrança,2027-01-15,,Agendado,,1,2027,0.03
+955,88,119,Email,Cobrança,2025-01-24,2025-01-24,Enviado,Respondido,1,2025,0.03
+956,88,119,SMS,Cobrança,2026-08-02,,Agendado,,8,2026,0.12
+957,88,119,SMS,Entrega Veículo,2026-05-09,,Cancelado,,5,2026,0.12
+958,88,119,SMS,Entrega Veículo,2026-11-07,,Agendado,,11,2026,0.12
+959,88,119,WhatsApp,Lembrete Parcela,2025-05-06,,Cancelado,,5,2025,0.25
+960,205,270,WhatsApp,Lembrete Parcela,2026-03-29,2026-03-29,Enviado,Sem Resposta,3,2026,0.25
+961,205,270,SMS,Cobrança,2025-06-18,2025-06-18,Enviado,Pagou,6,2025,0.12
+962,205,270,Email,Cobrança,2026-09-18,,Agendado,,9,2026,0.03
+963,205,270,Email,Oferta Cross-sell,2026-12-28,,Agendado,,12,2026,0.03
+964,205,270,WhatsApp,CNH Pendência,2026-08-03,,Agendado,,8,2026,0.25
+965,27,34,WhatsApp,Renovação,2025-03-23,,Cancelado,,3,2025,0.25
+966,27,34,WhatsApp,Cobrança,2026-11-07,,Agendado,,11,2026,0.25
+967,27,34,WhatsApp,Lembrete Parcela,2026-02-24,2026-02-24,Enviado,Sem Resposta,2,2026,0.25
+968,118,162,WhatsApp,Lembrete Parcela,2025-08-14,2025-08-14,Enviado,Respondido,8,2025,0.25
+969,118,162,SMS,Entrega Veículo,2026-08-08,2026-08-08,Enviado,Sem Resposta,8,2026,0.12
+970,118,162,WhatsApp,Lembrete Parcela,2025-02-04,2025-02-04,Enviado,Respondido,2,2025,0.25
+971,118,162,SMS,Cobrança,2026-05-03,,Falhou,,5,2026,0.12
+972,118,162,Email,Renovação,2027-01-23,,Agendado,,1,2027,0.03
+973,187,249,SMS,Oferta Cross-sell,2026-07-31,2026-07-31,Enviado,Sem Resposta,7,2026,0.12
+974,187,249,SMS,Cobrança,2026-03-21,2026-03-21,Enviado,Respondido,3,2026,0.12
+975,187,249,SMS,Cobrança,2025-04-17,2025-04-17,Enviado,Opt-out,4,2025,0.12
+976,187,249,WhatsApp,Oferta Cross-sell,2026-08-22,,Agendado,,8,2026,0.25
+977,185,246,WhatsApp,Cobrança,2026-09-11,,Agendado,,9,2026,0.25
+978,185,246,SMS,CNH Pendência,2026-03-04,,Falhou,,3,2026,0.12
+979,185,246,Email,Entrega Veículo,2025-02-03,2025-02-03,Enviado,Respondido,2,2025,0.03
+980,185,246,SMS,Lembrete Parcela,2025-05-05,,Cancelado,,5,2025,0.12
+981,185,246,SMS,Lembrete Parcela,2026-10-24,,Agendado,,10,2026,0.12
+982,185,246,SMS,Cobrança,2025-03-03,2025-03-03,Enviado,Respondido,3,2025,0.12
+983,185,246,WhatsApp,Renovação,2025-04-09,2025-04-09,Enviado,Opt-out,4,2025,0.25
+984,185,246,SMS,Oferta Cross-sell,2025-03-02,2025-03-02,Enviado,Pagou,3,2025,0.12
+985,77,105,Carta,CNH Pendência,2026-08-30,,Agendado,,8,2026,4.5
+986,77,105,SMS,Cobrança,2026-12-28,,Agendado,,12,2026,0.12
+987,40,49,WhatsApp,Cobrança,2025-05-19,2025-05-19,Enviado,Sem Resposta,5,2025,0.25
+988,40,49,SMS,CNH Pendência,2026-12-21,,Agendado,,12,2026,0.12
+989,40,49,SMS,CNH Pendência,2025-05-16,2025-05-16,Enviado,Sem Resposta,5,2025,0.12
+990,40,49,Email,Lembrete Parcela,2027-01-26,,Agendado,,1,2027,0.03
+991,40,49,Push,Cobrança,2026-03-23,2026-03-23,Enviado,Sem Resposta,3,2026,0.01
+992,40,49,SMS,Oferta Cross-sell,2025-03-15,2025-03-15,Enviado,Pagou,3,2025,0.12
+993,40,49,Push,Cobrança,2025-04-24,2025-04-24,Enviado,Sem Resposta,4,2025,0.01
+994,186,248,SMS,Oferta Cross-sell,2025-06-05,2025-06-05,Enviado,Sem Resposta,6,2025,0.12
+995,186,248,WhatsApp,Cobrança,2025-12-10,2025-12-10,Enviado,Respondido,12,2025,0.25
+996,186,248,Email,Oferta Cross-sell,2026-11-08,,Agendado,,11,2026,0.03
+997,186,248,Email,Cobrança,2026-10-26,,Agendado,,10,2026,0.03
+998,186,248,Email,Cobrança,2026-12-06,,Agendado,,12,2026,0.03
+999,186,248,Carta,Lembrete Parcela,2026-01-08,2026-01-08,Enviado,Pagou,1,2026,4.5
+1000,186,248,WhatsApp,Cobrança,2025-10-10,2025-10-10,Enviado,Pagou,10,2025,0.25
+1001,186,248,Email,Renovação,2026-08-07,,Cancelado,,8,2026,0.03
+1002,89,120,SMS,Cobrança,2025-12-15,2025-12-15,Enviado,Sem Resposta,12,2025,0.12
+1003,89,120,Email,Lembrete Parcela,2026-06-01,2026-06-01,Enviado,Respondido,6,2026,0.03
+1004,89,120,Email,Entrega Veículo,2026-11-25,,Agendado,,11,2026,0.03
+1005,89,120,Email,Cobrança,2026-11-01,,Agendado,,11,2026,0.03
+1006,89,120,SMS,Renovação,2025-01-09,2025-01-09,Enviado,Sem Resposta,1,2025,0.12
+1007,89,120,Carta,Cobrança,2026-10-10,,Agendado,,10,2026,4.5
+1008,1,1,SMS,CNH Pendência,2026-12-09,,Agendado,,12,2026,0.12
+1009,1,1,Push,Lembrete Parcela,2026-10-06,,Agendado,,10,2026,0.01
+1010,111,155,Email,Lembrete Parcela,2026-08-27,,Agendado,,8,2026,0.03
+1011,111,155,SMS,CNH Pendência,2026-02-26,2026-02-26,Enviado,Sem Resposta,2,2026,0.12
+1012,120,164,Push,Cobrança,2026-12-03,,Agendado,,12,2026,0.01
+1013,120,164,SMS,Cobrança,2025-06-22,2025-06-22,Enviado,Pagou,6,2025,0.12
+1014,120,164,Carta,Cobrança,2026-09-05,,Agendado,,9,2026,4.5
+1015,120,164,WhatsApp,Cobrança,2026-07-24,2026-07-24,Enviado,Respondido,7,2026,0.25
+1016,120,164,Email,Cobrança,2025-07-17,2025-07-17,Enviado,Sem Resposta,7,2025,0.03
+1017,120,164,SMS,Oferta Cross-sell,2025-02-09,2025-02-09,Enviado,Sem Resposta,2,2025,0.12
+1018,120,164,WhatsApp,Renovação,2025-04-15,2025-04-15,Enviado,Opt-out,4,2025,0.25
+1019,13,16,WhatsApp,Lembrete Parcela,2026-10-20,,Agendado,,10,2026,0.25
+1020,13,16,Push,Cobrança,2026-09-07,,Agendado,,9,2026,0.01
+1021,13,16,WhatsApp,Cobrança,2025-01-08,2025-01-08,Enviado,Sem Resposta,1,2025,0.25
+1022,13,16,WhatsApp,Cobrança,2026-12-04,,Agendado,,12,2026,0.25
+1023,195,259,WhatsApp,Entrega Veículo,2025-09-04,2025-09-04,Enviado,Opt-out,9,2025,0.25
+1024,195,259,SMS,Cobrança,2026-08-27,,Agendado,,8,2026,0.12
+1025,195,259,Push,Lembrete Parcela,2026-10-24,,Agendado,,10,2026,0.01
+1026,195,259,SMS,Cobrança,2025-05-10,2025-05-10,Enviado,Sem Resposta,5,2025,0.12
+1027,195,259,Push,Entrega Veículo,2026-04-26,2026-04-26,Enviado,Pagou,4,2026,0.01
+1028,195,259,Carta,Cobrança,2025-02-07,2025-02-07,Enviado,Sem Resposta,2,2025,4.5
+1029,131,179,WhatsApp,Oferta Cross-sell,2025-08-16,2025-08-16,Enviado,Sem Resposta,8,2025,0.25
+1030,131,179,WhatsApp,Entrega Veículo,2027-01-20,,Agendado,,1,2027,0.25
+1031,131,179,Email,Entrega Veículo,2025-04-29,2025-04-29,Enviado,Respondido,4,2025,0.03
+1032,131,179,WhatsApp,CNH Pendência,2026-11-22,,Agendado,,11,2026,0.25
+1033,131,179,Push,Cobrança,2026-02-17,2026-02-17,Enviado,Respondido,2,2026,0.01
+1034,131,179,WhatsApp,CNH Pendência,2026-12-05,,Agendado,,12,2026,0.25
+1035,131,179,WhatsApp,Lembrete Parcela,2025-01-22,2025-01-22,Enviado,Sem Resposta,1,2025,0.25
+1036,224,299,SMS,CNH Pendência,2026-03-17,2026-03-17,Enviado,Respondido,3,2026,0.12
+1037,224,299,Carta,Cobrança,2026-07-11,2026-07-11,Enviado,Sem Resposta,7,2026,4.5
+1038,224,299,Email,Lembrete Parcela,2025-09-04,2025-09-04,Enviado,Pagou,9,2025,0.03
+1039,224,299,Carta,Renovação,2025-11-22,2025-11-22,Enviado,Sem Resposta,11,2025,4.5
+1040,224,299,Email,Entrega Veículo,2025-11-03,2025-11-03,Enviado,Sem Resposta,11,2025,0.03
+1041,224,299,SMS,Cobrança,2025-10-15,2025-10-15,Enviado,Pagou,10,2025,0.12
+1042,213,282,WhatsApp,Oferta Cross-sell,2026-10-15,,Agendado,,10,2026,0.25
+1043,213,282,Email,Cobrança,2026-09-16,,Agendado,,9,2026,0.03
+1044,213,282,Carta,Cobrança,2025-10-16,2025-10-16,Enviado,Respondido,10,2025,4.5
+1045,213,282,SMS,Cobrança,2026-06-09,2026-06-09,Enviado,Respondido,6,2026,0.12
+1046,213,282,WhatsApp,Cobrança,2025-12-05,2025-12-05,Enviado,Opt-out,12,2025,0.25
+1047,213,282,SMS,Renovação,2025-11-19,2025-11-19,Enviado,Pagou,11,2025,0.12
+1048,188,250,Email,Entrega Veículo,2026-12-23,,Agendado,,12,2026,0.03
+1049,188,250,SMS,CNH Pendência,2026-01-13,2026-01-13,Enviado,Respondido,1,2026,0.12
+1050,188,250,SMS,Lembrete Parcela,2025-12-13,2025-12-13,Enviado,Sem Resposta,12,2025,0.12
+1051,188,250,SMS,Cobrança,2026-07-05,,Falhou,,7,2026,0.12
+1052,188,250,Email,Cobrança,2025-01-21,,Falhou,,1,2025,0.03
+1053,188,250,Email,Cobrança,2025-04-03,2025-04-03,Enviado,Respondido,4,2025,0.03
+1054,239,320,WhatsApp,Entrega Veículo,2026-08-07,,Agendado,,8,2026,0.25
+1055,239,320,Email,Cobrança,2025-07-01,,Falhou,,7,2025,0.03
+1056,239,320,SMS,Renovação,2026-02-20,2026-02-20,Enviado,Respondido,2,2026,0.12
+1057,239,320,WhatsApp,CNH Pendência,2025-05-10,2025-05-10,Enviado,Pagou,5,2025,0.25
+1058,114,158,SMS,Cobrança,2025-02-16,2025-02-16,Enviado,Pagou,2,2025,0.12
+1059,114,158,SMS,CNH Pendência,2026-03-05,2026-03-05,Enviado,Sem Resposta,3,2026,0.12
+1060,114,158,SMS,Cobrança,2026-01-18,2026-01-18,Enviado,Sem Resposta,1,2026,0.12
+1061,8,9,SMS,Cobrança,2025-01-23,2025-01-23,Enviado,Sem Resposta,1,2025,0.12
+1062,8,9,SMS,Cobrança,2025-12-15,2025-12-15,Enviado,Pagou,12,2025,0.12
+1063,8,9,Email,Cobrança,2026-01-13,2026-01-13,Enviado,Sem Resposta,1,2026,0.03
+1064,8,9,Email,Cobrança,2026-09-06,,Agendado,,9,2026,0.03
+1065,8,9,SMS,Cobrança,2026-09-25,,Agendado,,9,2026,0.12
+1066,174,232,SMS,Lembrete Parcela,2026-04-25,2026-04-25,Enviado,Pagou,4,2026,0.12
+1067,174,232,SMS,Lembrete Parcela,2026-03-28,2026-03-28,Enviado,Pagou,3,2026,0.12
+1068,174,232,WhatsApp,Renovação,2025-10-30,,Falhou,,10,2025,0.25
+1069,202,266,WhatsApp,Cobrança,2026-08-21,,Agendado,,8,2026,0.25
+1070,202,266,Push,Lembrete Parcela,2026-03-07,2026-03-07,Enviado,Sem Resposta,3,2026,0.01
+1071,202,266,WhatsApp,Cobrança,2026-03-05,2026-03-05,Enviado,Respondido,3,2026,0.25
+1072,202,266,WhatsApp,Oferta Cross-sell,2027-01-13,,Agendado,,1,2027,0.25
+1073,92,125,SMS,Oferta Cross-sell,2027-01-07,,Agendado,,1,2027,0.12
+1074,92,125,SMS,Cobrança,2025-04-27,2025-04-27,Enviado,Sem Resposta,4,2025,0.12
+1075,92,125,Email,Lembrete Parcela,2026-05-05,2026-05-05,Enviado,Respondido,5,2026,0.03
+1076,92,125,SMS,Cobrança,2026-09-01,,Agendado,,9,2026,0.12
+1077,189,251,SMS,Renovação,2026-11-05,,Agendado,,11,2026,0.12
+1078,189,251,Email,CNH Pendência,2026-06-09,2026-06-09,Enviado,Respondido,6,2026,0.03
+1079,189,251,SMS,Oferta Cross-sell,2027-01-03,,Agendado,,1,2027,0.12
+1080,189,251,SMS,Cobrança,2025-09-08,2025-09-08,Enviado,Sem Resposta,9,2025,0.12
+1081,189,251,WhatsApp,Entrega Veículo,2025-06-02,,Falhou,,6,2025,0.25
+1082,189,251,SMS,Lembrete Parcela,2026-03-24,2026-03-24,Enviado,Sem Resposta,3,2026,0.12
+1083,110,152,Email,CNH Pendência,2026-05-06,2026-05-06,Enviado,Sem Resposta,5,2026,0.03
+1084,110,152,Email,Cobrança,2026-05-24,2026-05-24,Enviado,Sem Resposta,5,2026,0.03
+1085,110,152,Email,CNH Pendência,2026-06-21,2026-06-21,Enviado,Respondido,6,2026,0.03
+1086,110,152,WhatsApp,Lembrete Parcela,2026-02-02,2026-02-02,Enviado,Respondido,2,2026,0.25
+1087,110,152,SMS,Renovação,2025-08-14,,Falhou,,8,2025,0.12
+1088,110,152,WhatsApp,Renovação,2025-10-14,2025-10-14,Enviado,Sem Resposta,10,2025,0.25
+1089,65,84,Email,Entrega Veículo,2027-01-20,,Agendado,,1,2027,0.03
+1090,65,84,Push,Renovação,2026-04-26,,Cancelado,,4,2026,0.01
+1091,65,84,Email,Cobrança,2026-03-13,2026-03-13,Enviado,Sem Resposta,3,2026,0.03
+1092,65,84,SMS,CNH Pendência,2025-05-04,2025-05-04,Enviado,Sem Resposta,5,2025,0.12
+1093,65,84,SMS,Cobrança,2025-05-13,,Cancelado,,5,2025,0.12
+1094,65,84,Email,Renovação,2026-08-29,,Agendado,,8,2026,0.03
+1095,65,84,WhatsApp,Cobrança,2026-09-02,,Agendado,,9,2026,0.25
+1096,65,84,Carta,Lembrete Parcela,2026-09-15,,Agendado,,9,2026,4.5
+1097,115,159,WhatsApp,Entrega Veículo,2027-01-05,,Agendado,,1,2027,0.25
+1098,115,159,WhatsApp,Renovação,2025-10-03,,Falhou,,10,2025,0.25
+1099,115,159,WhatsApp,Cobrança,2026-01-16,,Falhou,,1,2026,0.25
+1100,115,159,WhatsApp,Cobrança,2026-05-21,2026-05-21,Enviado,Opt-out,5,2026,0.25
+1101,115,159,Carta,Lembrete Parcela,2027-01-26,,Agendado,,1,2027,4.5
+1102,115,159,Push,Cobrança,2026-12-24,,Agendado,,12,2026,0.01
+1103,66,85,SMS,CNH Pendência,2026-06-17,2026-06-17,Enviado,Sem Resposta,6,2026,0.12
+1104,66,85,SMS,Renovação,2026-06-27,2026-06-27,Enviado,Sem Resposta,6,2026,0.12
+1105,66,85,WhatsApp,Oferta Cross-sell,2026-09-06,,Agendado,,9,2026,0.25
+1106,66,85,SMS,Lembrete Parcela,2025-06-09,2025-06-09,Enviado,Opt-out,6,2025,0.12
+1107,66,85,SMS,Lembrete Parcela,2026-02-09,2026-02-09,Enviado,Pagou,2,2026,0.12
+1108,6,6,SMS,Cobrança,2025-05-24,2025-05-24,Enviado,Pagou,5,2025,0.12
+1109,6,6,Email,CNH Pendência,2025-03-10,,Cancelado,,3,2025,0.03
+1110,6,6,WhatsApp,CNH Pendência,2025-02-20,,Falhou,,2,2025,0.25
+1111,6,6,Email,Lembrete Parcela,2025-10-02,2025-10-02,Enviado,Pagou,10,2025,0.03
+1112,6,6,Carta,Lembrete Parcela,2025-08-06,2025-08-06,Enviado,Sem Resposta,8,2025,4.5
+1113,242,323,Push,Renovação,2026-07-08,2026-07-08,Enviado,Sem Resposta,7,2026,0.01
+1114,242,323,SMS,Lembrete Parcela,2025-01-09,,Falhou,,1,2025,0.12
+1115,242,323,SMS,Lembrete Parcela,2026-11-20,,Agendado,,11,2026,0.12
+1116,242,323,WhatsApp,CNH Pendência,2026-01-15,,Falhou,,1,2026,0.25
+1117,242,323,WhatsApp,Cobrança,2025-07-12,2025-07-12,Enviado,Sem Resposta,7,2025,0.25
+1118,242,323,SMS,Lembrete Parcela,2025-08-09,2025-08-09,Enviado,Pagou,8,2025,0.12
+1119,90,122,SMS,Cobrança,2026-02-05,2026-02-05,Enviado,Sem Resposta,2,2026,0.12
+1120,90,122,WhatsApp,CNH Pendência,2027-01-12,,Agendado,,1,2027,0.25
+1121,90,122,Carta,Cobrança,2026-06-21,2026-06-21,Enviado,Sem Resposta,6,2026,4.5
+1122,90,122,WhatsApp,Lembrete Parcela,2025-03-11,2025-03-11,Enviado,Respondido,3,2025,0.25
+1123,90,122,Email,Cobrança,2026-06-06,2026-06-06,Enviado,Sem Resposta,6,2026,0.03
+1124,90,122,SMS,CNH Pendência,2025-04-16,2025-04-16,Enviado,Sem Resposta,4,2025,0.12
+1125,90,122,Email,Oferta Cross-sell,2025-02-21,2025-02-21,Enviado,Sem Resposta,2,2025,0.03
+1126,90,122,Push,Cobrança,2025-11-22,2025-11-22,Enviado,Sem Resposta,11,2025,0.01
+1127,16,20,Email,CNH Pendência,2025-04-04,,Cancelado,,4,2025,0.03
+1128,16,20,SMS,Oferta Cross-sell,2025-04-16,2025-04-16,Enviado,Sem Resposta,4,2025,0.12
+1129,16,20,WhatsApp,Lembrete Parcela,2025-04-16,2025-04-16,Enviado,Respondido,4,2025,0.25
+1130,16,20,Email,Oferta Cross-sell,2026-12-11,,Agendado,,12,2026,0.03
+1131,16,20,SMS,Entrega Veículo,2026-04-27,2026-04-27,Enviado,Sem Resposta,4,2026,0.12
+1132,171,227,WhatsApp,Oferta Cross-sell,2025-07-23,2025-07-23,Enviado,Respondido,7,2025,0.25
+1133,171,227,WhatsApp,CNH Pendência,2026-10-25,,Agendado,,10,2026,0.25
+1134,171,227,Email,Entrega Veículo,2025-09-19,2025-09-19,Enviado,Sem Resposta,9,2025,0.03
+1135,171,227,Email,Oferta Cross-sell,2025-06-03,2025-06-03,Enviado,Respondido,6,2025,0.03
+1136,208,275,WhatsApp,Entrega Veículo,2026-06-06,2026-06-06,Enviado,Respondido,6,2026,0.25
+1137,208,275,SMS,Renovação,2026-05-09,2026-05-09,Enviado,Respondido,5,2026,0.12
+1138,208,275,Email,Lembrete Parcela,2026-03-12,2026-03-12,Enviado,Sem Resposta,3,2026,0.03
+1139,191,254,WhatsApp,Cobrança,2026-08-02,,Agendado,,8,2026,0.25
+1140,191,254,Email,Cobrança,2026-04-19,2026-04-19,Enviado,Pagou,4,2026,0.03
+1141,191,254,WhatsApp,Renovação,2025-09-19,2025-09-19,Enviado,Sem Resposta,9,2025,0.25
+1142,191,254,WhatsApp,CNH Pendência,2025-05-09,,Falhou,,5,2025,0.25
+1143,191,254,SMS,Renovação,2025-09-02,2025-09-02,Enviado,Sem Resposta,9,2025,0.12
+1144,191,254,Push,CNH Pendência,2026-08-01,,Falhou,,8,2026,0.01
+1145,191,254,WhatsApp,Cobrança,2026-04-13,2026-04-13,Enviado,Respondido,4,2026,0.25
+1146,191,254,WhatsApp,CNH Pendência,2026-11-30,,Agendado,,11,2026,0.25
+1147,71,94,WhatsApp,Renovação,2026-08-31,,Agendado,,8,2026,0.25
+1148,71,94,Email,CNH Pendência,2025-05-12,2025-05-12,Enviado,Sem Resposta,5,2025,0.03
+1149,71,94,Email,Oferta Cross-sell,2025-03-04,2025-03-04,Enviado,Pagou,3,2025,0.03
+1150,71,94,SMS,Cobrança,2025-10-13,2025-10-13,Enviado,Sem Resposta,10,2025,0.12
+1151,71,94,SMS,Cobrança,2026-08-14,,Agendado,,8,2026,0.12
+1152,14,17,Email,Lembrete Parcela,2027-01-17,,Agendado,,1,2027,0.03
+1153,14,17,Email,Renovação,2026-11-18,,Agendado,,11,2026,0.03
+1154,14,17,WhatsApp,Entrega Veículo,2026-05-02,2026-05-02,Enviado,Sem Resposta,5,2026,0.25
+1155,14,17,Email,Oferta Cross-sell,2026-04-12,2026-04-12,Enviado,Respondido,4,2026,0.03
+1156,210,278,Email,Lembrete Parcela,2026-09-19,,Agendado,,9,2026,0.03
+1157,210,278,SMS,Cobrança,2026-01-11,2026-01-11,Enviado,Opt-out,1,2026,0.12
+1158,210,278,Push,CNH Pendência,2026-11-06,,Agendado,,11,2026,0.01
+1159,210,278,Email,Lembrete Parcela,2027-01-07,,Agendado,,1,2027,0.03
+1160,210,278,WhatsApp,Cobrança,2025-04-01,2025-04-01,Enviado,Pagou,4,2025,0.25
+1161,210,278,WhatsApp,Cobrança,2025-01-22,2025-01-22,Enviado,Sem Resposta,1,2025,0.25
+1162,111,154,SMS,Cobrança,2026-05-20,2026-05-20,Enviado,Sem Resposta,5,2026,0.12
+1163,111,154,Push,Cobrança,2025-04-09,2025-04-09,Enviado,Sem Resposta,4,2025,0.01
+1164,111,154,SMS,CNH Pendência,2026-06-01,2026-06-01,Enviado,Sem Resposta,6,2026,0.12
+1165,111,154,WhatsApp,Oferta Cross-sell,2026-11-28,,Agendado,,11,2026,0.25
+1166,111,154,WhatsApp,Entrega Veículo,2026-09-22,,Agendado,,9,2026,0.25
+1167,111,154,SMS,Cobrança,2025-07-31,2025-07-31,Enviado,Pagou,7,2025,0.12
+1168,111,154,SMS,Oferta Cross-sell,2026-04-29,2026-04-29,Enviado,Pagou,4,2026,0.12
+1169,160,214,Carta,Cobrança,2026-02-28,,Cancelado,,2,2026,4.5
+1170,160,214,SMS,Renovação,2026-09-09,,Agendado,,9,2026,0.12
+1171,160,214,SMS,Cobrança,2026-12-05,,Agendado,,12,2026,0.12
+1172,160,214,WhatsApp,Lembrete Parcela,2026-01-09,2026-01-09,Enviado,Sem Resposta,1,2026,0.25
+1173,160,214,Email,Cobrança,2025-06-20,,Cancelado,,6,2025,0.03
+1174,158,212,SMS,Lembrete Parcela,2025-02-05,2025-02-05,Enviado,Pagou,2,2025,0.12
+1175,158,212,SMS,Lembrete Parcela,2025-02-20,2025-02-20,Enviado,Sem Resposta,2,2025,0.12
+1176,158,212,SMS,Renovação,2025-01-25,2025-01-25,Enviado,Sem Resposta,1,2025,0.12
+1177,158,212,SMS,Cobrança,2026-11-11,,Agendado,,11,2026,0.12
+1178,158,212,SMS,Entrega Veículo,2025-07-22,,Cancelado,,7,2025,0.12
+1179,49,60,WhatsApp,CNH Pendência,2026-11-06,,Agendado,,11,2026,0.25
+1180,49,60,WhatsApp,Oferta Cross-sell,2026-08-04,,Agendado,,8,2026,0.25
+1181,49,60,SMS,Cobrança,2026-12-29,,Agendado,,12,2026,0.12
+1182,49,60,WhatsApp,Cobrança,2025-03-09,2025-03-09,Enviado,Sem Resposta,3,2025,0.25
+1183,212,281,Push,Cobrança,2026-12-15,,Agendado,,12,2026,0.01
+1184,212,281,SMS,Entrega Veículo,2025-08-25,2025-08-25,Enviado,Opt-out,8,2025,0.12
+1185,212,281,Email,Cobrança,2026-09-16,,Agendado,,9,2026,0.03
+1186,212,281,SMS,Lembrete Parcela,2026-08-13,,Agendado,,8,2026,0.12
+1187,212,281,WhatsApp,Entrega Veículo,2026-03-04,2026-03-04,Enviado,Respondido,3,2026,0.25
+1188,212,281,SMS,Renovação,2026-08-07,,Agendado,,8,2026,0.12
+1189,212,281,WhatsApp,Oferta Cross-sell,2025-05-21,2025-05-21,Enviado,Sem Resposta,5,2025,0.25
+1190,19,25,Push,Cobrança,2026-10-17,,Agendado,,10,2026,0.01
+1191,19,25,Carta,Lembrete Parcela,2026-11-26,,Agendado,,11,2026,4.5
+1192,192,255,Email,Cobrança,2026-08-19,,Agendado,,8,2026,0.03
+1193,192,255,Carta,Entrega Veículo,2025-12-24,2025-12-24,Enviado,Opt-out,12,2025,4.5
+1194,192,255,WhatsApp,Lembrete Parcela,2026-03-20,2026-03-20,Enviado,Respondido,3,2026,0.25
+1195,192,255,Email,Renovação,2026-08-25,,Agendado,,8,2026,0.03
+1196,192,255,Push,Oferta Cross-sell,2026-09-05,,Agendado,,9,2026,0.01
+1197,192,255,WhatsApp,Lembrete Parcela,2026-02-22,2026-02-22,Enviado,Sem Resposta,2,2026,0.25
+1198,192,255,WhatsApp,Cobrança,2026-05-13,2026-05-13,Enviado,Sem Resposta,5,2026,0.25
+1199,192,255,Email,Cobrança,2025-05-09,2025-05-09,Enviado,Sem Resposta,5,2025,0.03
+1200,184,245,SMS,Renovação,2026-01-02,2026-01-02,Enviado,Pagou,1,2026,0.12
+1201,184,245,WhatsApp,Renovação,2026-04-16,,Falhou,,4,2026,0.25
+1202,184,245,SMS,Cobrança,2026-03-22,2026-03-22,Enviado,Pagou,3,2026,0.12
+1203,82,112,WhatsApp,Cobrança,2026-02-11,2026-02-11,Enviado,Sem Resposta,2,2026,0.25
+1204,82,112,SMS,CNH Pendência,2026-07-05,,Cancelado,,7,2026,0.12
+1205,82,112,SMS,Cobrança,2025-11-22,2025-11-22,Enviado,Respondido,11,2025,0.12
+1206,82,112,WhatsApp,Cobrança,2025-06-05,2025-06-05,Enviado,Opt-out,6,2025,0.25
+1207,82,112,Email,CNH Pendência,2025-07-12,,Falhou,,7,2025,0.03
+1208,82,112,WhatsApp,Renovação,2025-01-31,,Falhou,,1,2025,0.25
+1209,153,207,SMS,Entrega Veículo,2026-08-28,,Agendado,,8,2026,0.12
+1210,153,207,WhatsApp,CNH Pendência,2026-07-19,2026-07-19,Enviado,Sem Resposta,7,2026,0.25
+1211,153,207,SMS,Entrega Veículo,2026-10-30,,Agendado,,10,2026,0.12
+1212,153,207,Email,CNH Pendência,2026-06-30,2026-06-30,Enviado,Sem Resposta,6,2026,0.03
+1213,153,207,Email,CNH Pendência,2025-02-27,,Falhou,,2,2025,0.03
+1214,153,207,SMS,Renovação,2026-09-17,,Agendado,,9,2026,0.12
+1215,153,207,WhatsApp,Cobrança,2026-06-20,,Falhou,,6,2026,0.25
+1216,32,39,Email,CNH Pendência,2025-02-20,2025-02-20,Enviado,Sem Resposta,2,2025,0.03
+1217,32,39,WhatsApp,Lembrete Parcela,2025-04-15,2025-04-15,Enviado,Respondido,4,2025,0.25
+1218,32,39,SMS,Lembrete Parcela,2025-02-06,2025-02-06,Enviado,Respondido,2,2025,0.12
+1219,32,39,SMS,Lembrete Parcela,2027-01-01,,Agendado,,1,2027,0.12
+1220,32,39,Push,Cobrança,2025-07-13,2025-07-13,Enviado,Respondido,7,2025,0.01
+1221,32,39,WhatsApp,Cobrança,2025-02-12,2025-02-12,Enviado,Opt-out,2,2025,0.25
+1222,150,204,Push,Cobrança,2026-09-14,,Agendado,,9,2026,0.01
+1223,150,204,WhatsApp,Entrega Veículo,2025-09-23,2025-09-23,Enviado,Sem Resposta,9,2025,0.25
+1224,150,204,Email,Renovação,2027-01-10,,Agendado,,1,2027,0.03
+1225,150,204,SMS,Cobrança,2026-12-05,,Agendado,,12,2026,0.12
+1226,150,204,WhatsApp,CNH Pendência,2026-10-10,,Agendado,,10,2026,0.25
+1227,150,204,Push,Cobrança,2026-11-03,,Agendado,,11,2026,0.01
+1228,150,204,WhatsApp,Entrega Veículo,2026-10-05,,Agendado,,10,2026,0.25
+1229,162,216,Email,Lembrete Parcela,2025-08-02,2025-08-02,Enviado,Sem Resposta,8,2025,0.03
+1230,162,216,SMS,Entrega Veículo,2025-03-09,2025-03-09,Enviado,Sem Resposta,3,2025,0.12
+1231,69,89,WhatsApp,Entrega Veículo,2026-06-11,2026-06-11,Enviado,Pagou,6,2026,0.25
+1232,69,89,SMS,Cobrança,2025-08-23,2025-08-23,Enviado,Opt-out,8,2025,0.12
+1233,69,89,Push,Lembrete Parcela,2026-03-03,2026-03-03,Enviado,Respondido,3,2026,0.01
+1234,69,89,WhatsApp,Entrega Veículo,2025-09-04,2025-09-04,Enviado,Pagou,9,2025,0.25
+1235,69,89,Email,CNH Pendência,2025-01-05,,Falhou,,1,2025,0.03
+1236,69,89,SMS,Entrega Veículo,2026-02-23,2026-02-23,Enviado,Sem Resposta,2,2026,0.12
+1237,183,244,WhatsApp,Lembrete Parcela,2026-03-17,,Cancelado,,3,2026,0.25
+1238,183,244,Carta,Lembrete Parcela,2025-01-25,2025-01-25,Enviado,Pagou,1,2025,4.5
+1239,183,244,SMS,Cobrança,2026-08-09,,Agendado,,8,2026,0.12
+1240,22,28,SMS,Cobrança,2025-01-09,2025-01-09,Enviado,Respondido,1,2025,0.12
+1241,22,28,Push,Cobrança,2025-07-20,2025-07-20,Enviado,Sem Resposta,7,2025,0.01
+1242,22,28,Push,Renovação,2025-05-26,2025-05-26,Enviado,Sem Resposta,5,2025,0.01
+1243,22,28,WhatsApp,Cobrança,2025-01-05,2025-01-05,Enviado,Opt-out,1,2025,0.25
+1244,22,28,SMS,Cobrança,2025-12-26,2025-12-26,Enviado,Respondido,12,2025,0.12
+1245,22,28,WhatsApp,Cobrança,2025-12-18,2025-12-18,Enviado,Respondido,12,2025,0.25
+1246,178,238,SMS,Cobrança,2025-03-08,2025-03-08,Enviado,Sem Resposta,3,2025,0.12
+1247,178,238,WhatsApp,Cobrança,2026-09-29,,Agendado,,9,2026,0.25
+1248,178,238,WhatsApp,CNH Pendência,2025-12-05,2025-12-05,Enviado,Pagou,12,2025,0.25
+1249,178,238,SMS,Lembrete Parcela,2025-12-28,2025-12-28,Enviado,Sem Resposta,12,2025,0.12
+1250,178,238,Email,CNH Pendência,2026-04-17,2026-04-17,Enviado,Respondido,4,2026,0.03
+1251,178,238,WhatsApp,Renovação,2027-01-18,,Agendado,,1,2027,0.25
+1252,159,213,SMS,Cobrança,2025-08-17,2025-08-17,Enviado,Sem Resposta,8,2025,0.12
+1253,159,213,Email,Lembrete Parcela,2025-03-24,2025-03-24,Enviado,Pagou,3,2025,0.03
+1254,159,213,WhatsApp,Entrega Veículo,2027-01-08,,Agendado,,1,2027,0.25
+1255,159,213,SMS,Cobrança,2026-05-04,2026-05-04,Enviado,Opt-out,5,2026,0.12
+1256,63,81,Email,CNH Pendência,2027-01-24,,Agendado,,1,2027,0.03
+1257,63,81,SMS,Renovação,2026-09-04,,Agendado,,9,2026,0.12
+1258,63,81,Email,Oferta Cross-sell,2026-04-12,2026-04-12,Enviado,Sem Resposta,4,2026,0.03
+1259,63,81,Push,Renovação,2025-03-30,2025-03-30,Enviado,Pagou,3,2025,0.01
+1260,117,161,WhatsApp,Entrega Veículo,2026-09-12,,Agendado,,9,2026,0.25
+1261,117,161,SMS,Lembrete Parcela,2026-03-11,2026-03-11,Enviado,Sem Resposta,3,2026,0.12
+1262,117,161,Push,Cobrança,2026-11-09,,Agendado,,11,2026,0.01
+1263,117,161,WhatsApp,Cobrança,2026-11-17,,Agendado,,11,2026,0.25
+1264,221,294,WhatsApp,Cobrança,2025-01-21,2025-01-21,Enviado,Respondido,1,2025,0.25
+1265,221,294,Email,Oferta Cross-sell,2026-05-21,,Falhou,,5,2026,0.03
+1266,221,294,SMS,Cobrança,2026-07-07,2026-07-07,Enviado,Pagou,7,2026,0.12
+1267,221,294,WhatsApp,Entrega Veículo,2025-08-22,2025-08-22,Enviado,Respondido,8,2025,0.25
+1268,221,294,WhatsApp,Cobrança,2025-08-23,2025-08-23,Enviado,Sem Resposta,8,2025,0.25
+1269,221,294,Push,Oferta Cross-sell,2025-12-19,,Falhou,,12,2025,0.01
+1270,17,22,WhatsApp,Lembrete Parcela,2026-01-14,2026-01-14,Enviado,Respondido,1,2026,0.25
+1271,17,22,SMS,Cobrança,2026-12-20,,Agendado,,12,2026,0.12
+1272,247,329,SMS,Lembrete Parcela,2025-05-16,2025-05-16,Enviado,Pagou,5,2025,0.12
+1273,247,329,Email,Renovação,2025-03-07,2025-03-07,Enviado,Sem Resposta,3,2025,0.03
+1274,247,329,WhatsApp,Oferta Cross-sell,2025-07-18,,Falhou,,7,2025,0.25
+1275,20,26,SMS,CNH Pendência,2026-03-23,,Falhou,,3,2026,0.12
+1276,20,26,Push,Renovação,2025-02-09,2025-02-09,Enviado,Pagou,2,2025,0.01
+1277,20,26,WhatsApp,Lembrete Parcela,2025-04-20,2025-04-20,Enviado,Sem Resposta,4,2025,0.25
+1278,20,26,SMS,Lembrete Parcela,2026-11-28,,Agendado,,11,2026,0.12
+1279,20,26,Email,Oferta Cross-sell,2026-10-26,,Agendado,,10,2026,0.03
+1280,20,26,Push,CNH Pendência,2025-06-15,2025-06-15,Enviado,Pagou,6,2025,0.01
+1281,69,90,SMS,Lembrete Parcela,2026-05-31,2026-05-31,Enviado,Pagou,5,2026,0.12
+1282,69,90,SMS,Cobrança,2026-02-11,2026-02-11,Enviado,Respondido,2,2026,0.12
+1283,69,90,SMS,Cobrança,2026-05-11,2026-05-11,Enviado,Respondido,5,2026,0.12
+1284,67,86,WhatsApp,Oferta Cross-sell,2026-03-29,2026-03-29,Enviado,Sem Resposta,3,2026,0.25
+1285,67,86,WhatsApp,Oferta Cross-sell,2026-11-04,,Agendado,,11,2026,0.25
+1286,67,86,SMS,CNH Pendência,2025-02-22,2025-02-22,Enviado,Opt-out,2,2025,0.12
+1287,211,279,WhatsApp,Cobrança,2026-12-12,,Agendado,,12,2026,0.25
+1288,211,279,Email,Cobrança,2025-08-07,2025-08-07,Enviado,Sem Resposta,8,2025,0.03
+1289,37,45,SMS,CNH Pendência,2026-02-14,2026-02-14,Enviado,Sem Resposta,2,2026,0.12
+1290,37,45,WhatsApp,Cobrança,2025-07-30,2025-07-30,Enviado,Sem Resposta,7,2025,0.25
+1291,37,45,Email,Renovação,2026-07-04,2026-07-04,Enviado,Respondido,7,2026,0.03
+1292,37,45,Email,Lembrete Parcela,2025-03-19,,Falhou,,3,2025,0.03
+1293,61,77,SMS,Oferta Cross-sell,2025-02-19,,Falhou,,2,2025,0.12
+1294,61,77,SMS,Cobrança,2025-03-03,2025-03-03,Enviado,Sem Resposta,3,2025,0.12
+1295,61,77,SMS,Cobrança,2026-07-15,2026-07-15,Enviado,Pagou,7,2026,0.12
+1296,61,77,WhatsApp,Cobrança,2027-01-23,,Agendado,,1,2027,0.25
+1297,61,77,Carta,Lembrete Parcela,2026-12-12,,Agendado,,12,2026,4.5
+1298,61,77,WhatsApp,Cobrança,2026-03-02,2026-03-02,Enviado,Respondido,3,2026,0.25
+1299,61,77,WhatsApp,Oferta Cross-sell,2026-05-06,,Cancelado,,5,2026,0.25
+1300,61,77,WhatsApp,Lembrete Parcela,2026-06-07,2026-06-07,Enviado,Sem Resposta,6,2026,0.25
+1301,126,173,SMS,Renovação,2025-12-29,2025-12-29,Enviado,Sem Resposta,12,2025,0.12
+1302,126,173,WhatsApp,Lembrete Parcela,2026-08-03,,Agendado,,8,2026,0.25
+1303,126,173,Email,Renovação,2026-01-09,,Falhou,,1,2026,0.03
+1304,126,173,WhatsApp,Cobrança,2025-11-25,2025-11-25,Enviado,Respondido,11,2025,0.25
+1305,126,173,Email,Cobrança,2026-12-28,,Agendado,,12,2026,0.03
+1306,215,285,SMS,Cobrança,2026-01-06,2026-01-06,Enviado,Sem Resposta,1,2026,0.12
+1307,215,285,SMS,Oferta Cross-sell,2025-12-13,2025-12-13,Enviado,Respondido,12,2025,0.12
+1308,215,285,Email,Cobrança,2026-03-26,2026-03-26,Enviado,Sem Resposta,3,2026,0.03
+1309,215,285,WhatsApp,Cobrança,2026-03-02,2026-03-02,Enviado,Pagou,3,2026,0.25
+1310,215,285,Email,Cobrança,2026-02-16,2026-02-16,Enviado,Sem Resposta,2,2026,0.03
+1311,215,285,Email,Lembrete Parcela,2026-11-04,,Agendado,,11,2026,0.03
+1312,215,285,SMS,Renovação,2026-07-12,2026-07-12,Enviado,Sem Resposta,7,2026,0.12
+1313,215,285,WhatsApp,Lembrete Parcela,2025-05-24,2025-05-24,Enviado,Sem Resposta,5,2025,0.25
+1314,80,109,SMS,Lembrete Parcela,2025-03-12,2025-03-12,Enviado,Pagou,3,2025,0.12
+1315,80,109,SMS,CNH Pendência,2025-08-12,2025-08-12,Enviado,Opt-out,8,2025,0.12
+1316,80,109,WhatsApp,Cobrança,2025-04-10,2025-04-10,Enviado,Respondido,4,2025,0.25
+1317,80,109,Email,Lembrete Parcela,2025-08-21,2025-08-21,Enviado,Sem Resposta,8,2025,0.03
+1318,80,109,Email,Oferta Cross-sell,2026-11-15,,Agendado,,11,2026,0.03
+1319,80,109,SMS,Cobrança,2025-11-17,2025-11-17,Enviado,Opt-out,11,2025,0.12
+1320,80,109,Email,Renovação,2025-01-23,2025-01-23,Enviado,Sem Resposta,1,2025,0.03
+1321,80,108,SMS,Entrega Veículo,2025-08-14,2025-08-14,Enviado,Sem Resposta,8,2025,0.12
+1322,80,108,Email,Lembrete Parcela,2025-03-22,2025-03-22,Enviado,Sem Resposta,3,2025,0.03
+1323,80,108,Push,Cobrança,2027-01-28,,Agendado,,1,2027,0.01
+1324,80,108,WhatsApp,Entrega Veículo,2026-09-12,,Agendado,,9,2026,0.25
+1325,80,108,SMS,Oferta Cross-sell,2025-08-17,2025-08-17,Enviado,Respondido,8,2025,0.12
+1326,80,108,Email,Cobrança,2026-09-07,,Agendado,,9,2026,0.03
+1327,80,108,SMS,Oferta Cross-sell,2025-05-12,2025-05-12,Enviado,Sem Resposta,5,2025,0.12
+1328,80,108,SMS,Cobrança,2025-04-27,2025-04-27,Enviado,Sem Resposta,4,2025,0.12
+1329,182,243,WhatsApp,Lembrete Parcela,2026-04-04,2026-04-04,Enviado,Pagou,4,2026,0.25
+1330,182,243,Email,CNH Pendência,2026-08-14,2026-08-14,Enviado,Sem Resposta,8,2026,0.03
+1331,182,243,WhatsApp,Oferta Cross-sell,2025-06-15,,Falhou,,6,2025,0.25
+1332,182,243,Email,Cobrança,2026-07-14,,Falhou,,7,2026,0.03
+1333,182,243,Push,Lembrete Parcela,2025-04-08,2025-04-08,Enviado,Sem Resposta,4,2025,0.01
+1334,157,211,Carta,Entrega Veículo,2025-03-20,2025-03-20,Enviado,Sem Resposta,3,2025,4.5
+1335,157,211,Push,Lembrete Parcela,2026-11-13,,Agendado,,11,2026,0.01
+1336,50,63,Push,Cobrança,2025-04-07,2025-04-07,Enviado,Sem Resposta,4,2025,0.01
+1337,50,63,WhatsApp,Entrega Veículo,2025-07-02,2025-07-02,Enviado,Pagou,7,2025,0.25
+1338,50,63,WhatsApp,Cobrança,2025-08-12,2025-08-12,Enviado,Sem Resposta,8,2025,0.25
+1339,50,63,WhatsApp,Cobrança,2026-12-13,,Agendado,,12,2026,0.25
+1340,50,63,WhatsApp,CNH Pendência,2025-02-24,2025-02-24,Enviado,Opt-out,2,2025,0.25
+1341,50,63,SMS,Cobrança,2027-01-12,,Agendado,,1,2027,0.12
+1342,50,63,Email,CNH Pendência,2026-05-21,2026-05-21,Enviado,Pagou,5,2026,0.03
+1343,50,63,SMS,Lembrete Parcela,2025-07-19,2025-07-19,Enviado,Respondido,7,2025,0.12
+1344,134,182,Email,Cobrança,2026-10-24,,Agendado,,10,2026,0.03
+1345,134,182,SMS,Cobrança,2026-10-19,,Agendado,,10,2026,0.12
+1346,134,182,WhatsApp,Lembrete Parcela,2025-06-17,2025-06-17,Enviado,Pagou,6,2025,0.25
+1347,134,182,WhatsApp,Renovação,2025-12-16,2025-12-16,Enviado,Pagou,12,2025,0.25
+1348,134,182,SMS,CNH Pendência,2026-07-16,2026-07-16,Enviado,Respondido,7,2026,0.12
+1349,134,182,SMS,Oferta Cross-sell,2027-01-02,,Agendado,,1,2027,0.12
+1350,134,182,SMS,Lembrete Parcela,2025-12-17,2025-12-17,Enviado,Pagou,12,2025,0.12
+1351,134,182,WhatsApp,Cobrança,2026-10-22,,Agendado,,10,2026,0.25
+1352,245,327,SMS,CNH Pendência,2026-10-05,,Agendado,,10,2026,0.12
+1353,245,327,Carta,CNH Pendência,2026-08-28,,Agendado,,8,2026,4.5
+1354,245,327,Push,CNH Pendência,2026-11-12,,Agendado,,11,2026,0.01
+1355,245,327,SMS,CNH Pendência,2025-08-27,2025-08-27,Enviado,Sem Resposta,8,2025,0.12
+1356,245,327,WhatsApp,Cobrança,2026-12-21,,Agendado,,12,2026,0.25
+1357,245,327,SMS,Cobrança,2025-08-11,2025-08-11,Enviado,Sem Resposta,8,2025,0.12
+1358,109,149,WhatsApp,CNH Pendência,2026-06-18,2026-06-18,Enviado,Sem Resposta,6,2026,0.25
+1359,109,149,SMS,Entrega Veículo,2025-11-10,2025-11-10,Enviado,Pagou,11,2025,0.12
+1360,228,306,WhatsApp,Renovação,2026-08-09,,Agendado,,8,2026,0.25
+1361,228,306,WhatsApp,Oferta Cross-sell,2025-06-30,2025-06-30,Enviado,Sem Resposta,6,2025,0.25
+1362,228,306,Carta,Lembrete Parcela,2025-04-06,2025-04-06,Enviado,Sem Resposta,4,2025,4.5
+1363,228,306,SMS,Cobrança,2026-11-29,,Agendado,,11,2026,0.12
+1364,228,306,Email,Cobrança,2025-05-20,2025-05-20,Enviado,Sem Resposta,5,2025,0.03
+1365,228,306,Push,Lembrete Parcela,2026-09-16,,Agendado,,9,2026,0.01
+1366,119,163,SMS,Cobrança,2025-10-04,2025-10-04,Enviado,Sem Resposta,10,2025,0.12
+1367,119,163,WhatsApp,CNH Pendência,2025-03-04,2025-03-04,Enviado,Pagou,3,2025,0.25
+1368,119,163,SMS,Cobrança,2025-01-15,2025-01-15,Enviado,Sem Resposta,1,2025,0.12
+1369,119,163,Email,Lembrete Parcela,2025-10-31,2025-10-31,Enviado,Sem Resposta,10,2025,0.03
+1370,44,53,WhatsApp,Cobrança,2026-09-10,,Agendado,,9,2026,0.25
+1371,44,53,SMS,Lembrete Parcela,2026-11-03,,Agendado,,11,2026,0.12
+1372,44,53,WhatsApp,Cobrança,2025-12-26,2025-12-26,Enviado,Opt-out,12,2025,0.25
+1373,44,53,WhatsApp,Cobrança,2025-03-08,,Cancelado,,3,2025,0.25
+1374,44,53,SMS,Renovação,2026-08-13,2026-08-13,Enviado,Sem Resposta,8,2026,0.12
+1375,44,53,WhatsApp,Renovação,2025-03-08,,Falhou,,3,2025,0.25
+1376,44,53,Email,Renovação,2026-09-04,,Agendado,,9,2026,0.03
+1377,44,53,Email,Cobrança,2025-02-27,2025-02-27,Enviado,Pagou,2,2025,0.03
+1378,196,260,WhatsApp,CNH Pendência,2026-08-19,,Agendado,,8,2026,0.25
+1379,196,260,SMS,Cobrança,2025-10-01,2025-10-01,Enviado,Sem Resposta,10,2025,0.12
+1380,196,260,SMS,Entrega Veículo,2026-10-01,,Agendado,,10,2026,0.12
+1381,196,260,WhatsApp,Oferta Cross-sell,2026-03-10,2026-03-10,Enviado,Pagou,3,2026,0.25
+1382,196,260,SMS,Oferta Cross-sell,2025-04-06,2025-04-06,Enviado,Respondido,4,2025,0.12
+1383,45,56,Email,Lembrete Parcela,2027-01-03,,Agendado,,1,2027,0.03
+1384,45,56,WhatsApp,Lembrete Parcela,2026-10-18,,Agendado,,10,2026,0.25
+1385,131,178,WhatsApp,Cobrança,2025-01-03,2025-01-03,Enviado,Sem Resposta,1,2025,0.25
+1386,131,178,SMS,Oferta Cross-sell,2025-07-26,2025-07-26,Enviado,Sem Resposta,7,2025,0.12
+1387,131,178,SMS,Oferta Cross-sell,2025-08-02,2025-08-02,Enviado,Respondido,8,2025,0.12
+1388,243,324,Email,Oferta Cross-sell,2025-02-08,2025-02-08,Enviado,Pagou,2,2025,0.03
+1389,243,324,SMS,Renovação,2026-07-30,2026-07-30,Enviado,Opt-out,7,2026,0.12
+1390,243,324,WhatsApp,Entrega Veículo,2026-04-06,2026-04-06,Enviado,Sem Resposta,4,2026,0.25
+1391,243,324,WhatsApp,CNH Pendência,2026-07-27,2026-07-27,Enviado,Opt-out,7,2026,0.25
+1392,243,324,Push,CNH Pendência,2026-05-07,2026-05-07,Enviado,Pagou,5,2026,0.01
+1393,243,324,Email,Cobrança,2026-11-17,,Agendado,,11,2026,0.03
+1394,243,324,SMS,Cobrança,2026-04-27,2026-04-27,Enviado,Respondido,4,2026,0.12
+1395,161,215,Email,Cobrança,2025-02-08,2025-02-08,Enviado,Pagou,2,2025,0.03
+1396,161,215,SMS,Cobrança,2026-04-12,2026-04-12,Enviado,Sem Resposta,4,2026,0.12
+1397,161,215,WhatsApp,Cobrança,2026-01-22,2026-01-22,Enviado,Sem Resposta,1,2026,0.25
+1398,161,215,Email,Renovação,2026-04-13,2026-04-13,Enviado,Pagou,4,2026,0.03
+1399,161,215,Carta,Renovação,2026-03-20,2026-03-20,Enviado,Respondido,3,2026,4.5
+1400,217,288,Push,Lembrete Parcela,2025-08-09,2025-08-09,Enviado,Sem Resposta,8,2025,0.01
+1401,217,288,WhatsApp,Entrega Veículo,2026-08-27,,Agendado,,8,2026,0.25
+1402,217,288,Email,Cobrança,2026-03-19,2026-03-19,Enviado,Respondido,3,2026,0.03
+1403,217,288,Email,Cobrança,2025-01-21,2025-01-21,Enviado,Sem Resposta,1,2025,0.03
+1404,9,10,WhatsApp,Cobrança,2026-09-16,,Agendado,,9,2026,0.25
+1405,9,10,WhatsApp,Cobrança,2026-11-03,,Agendado,,11,2026,0.25
+1406,9,10,WhatsApp,Oferta Cross-sell,2026-06-14,2026-06-14,Enviado,Pagou,6,2026,0.25
+1407,9,10,SMS,Entrega Veículo,2026-08-05,,Agendado,,8,2026,0.12
+1408,9,10,WhatsApp,Lembrete Parcela,2026-08-14,2026-08-14,Enviado,Respondido,8,2026,0.25
+1409,9,10,SMS,Cobrança,2026-10-07,,Agendado,,10,2026,0.12
+1410,9,10,WhatsApp,Entrega Veículo,2026-04-28,2026-04-28,Enviado,Sem Resposta,4,2026,0.25
+1411,9,11,WhatsApp,CNH Pendência,2025-02-04,2025-02-04,Enviado,Sem Resposta,2,2025,0.25
+1412,9,11,WhatsApp,Entrega Veículo,2025-11-28,,Falhou,,11,2025,0.25
+1413,9,11,Email,Entrega Veículo,2026-01-21,,Falhou,,1,2026,0.03
+1414,49,61,WhatsApp,Oferta Cross-sell,2025-09-13,2025-09-13,Enviado,Sem Resposta,9,2025,0.25
+1415,49,61,WhatsApp,Cobrança,2026-08-14,,Agendado,,8,2026,0.25
+1416,49,61,SMS,Lembrete Parcela,2025-08-15,2025-08-15,Enviado,Pagou,8,2025,0.12
+1417,49,61,SMS,Cobrança,2026-11-21,,Agendado,,11,2026,0.12
+1418,218,289,WhatsApp,Oferta Cross-sell,2025-08-02,2025-08-02,Enviado,Sem Resposta,8,2025,0.25
+1419,218,289,Carta,Entrega Veículo,2026-05-17,2026-05-17,Enviado,Sem Resposta,5,2026,4.5
+1420,218,289,SMS,Lembrete Parcela,2025-12-02,2025-12-02,Enviado,Respondido,12,2025,0.12
+1421,218,289,Email,Cobrança,2025-10-16,2025-10-16,Enviado,Sem Resposta,10,2025,0.03
+1422,218,289,WhatsApp,Renovação,2025-09-08,2025-09-08,Enviado,Sem Resposta,9,2025,0.25
+1423,218,289,SMS,Lembrete Parcela,2026-03-27,2026-03-27,Enviado,Respondido,3,2026,0.12

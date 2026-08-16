@@ -1,0 +1,333 @@
+contrato_id,cliente_id,proposta_id,grupo_consorcio,tipo_produto,modelo_veiculo,categoria_veiculo,valor_financiado,entrada_pct,prazo_meses,taxa_juros_am,status_contrato,motivo_cancelamento,data_contratacao,data_status,aprovado,sucesso
+1,1,10000,,Financiamento Veículo,Orion,SUV,132215.2,0.31,72,1.34,Inadimplente,,2020-10-28,2021-12-24,true,false
+2,2,10001,G021,Consórcio,Aurora Hatch,Passeio,114065.05,0.38,36,1.49,Quitado,,2024-05-27,2025-01-03,true,true
+3,3,10002,,CDC,Aurora Hatch,Passeio,113582.3,0.39,60,1.11,Ativo,,2020-09-11,2022-03-12,true,true
+4,4,10003,,Financiamento Veículo,Eclipse X,Passeio,334775.73,0.35,60,1.14,Cancelado,Negado crédito,2024-01-19,2024-12-13,false,false
+5,5,10004,,Financiamento Veículo,Orion,SUV,141504.34,0.24,60,1.48,Ativo,,2020-01-24,2020-11-23,true,true
+6,6,10005,,CDC,Lumen,Passeio,87467.0,0.33,60,1.48,Cancelado,Negado crédito,2022-08-08,2023-07-08,false,false
+7,6,10006,,Financiamento Veículo,Aurora,Passeio,100693.04,0.35,60,1.77,Ativo,,2022-03-04,2022-12-01,true,true
+8,7,10007,,CDC,Nimbus Sport,Passeio,398239.35,0.28,60,1.14,Ativo,,2022-11-05,2025-03-17,true,true
+9,8,10008,G020,Consórcio,Aurora,Passeio,103821.93,0.26,48,1.87,Quitado,,2022-12-13,2023-10-12,true,true
+10,9,10009,G004,Consórcio,Stratos,SUV,268984.18,0.14,60,1.82,Ativo,,2023-11-17,2024-04-24,true,true
+11,9,10010,G008,Consórcio,Vértice,SUV,177477.41,0.33,60,1.43,Ativo,,2024-04-19,2026-02-20,true,true
+12,9,10011,,Financiamento Veículo,Eclipse X,Passeio,310013.79,0.34,24,1.35,Quitado,,2024-07-16,2025-08-27,true,true
+13,10,10012,,Financiamento Veículo,Aurora Hatch,Passeio,104818.68,0.33,24,1.65,Ativo,,2024-05-22,2026-06-05,true,true
+14,11,10013,,Financiamento Veículo,Nimbus,Passeio,197740.68,0.39,36,1.44,Ativo,,2025-06-27,2026-07-07,true,true
+15,12,10014,,Financiamento Veículo,Vértice,SUV,199629.95,0.2,24,1.03,Ativo,,2022-11-04,2024-03-18,true,true
+16,13,10015,,Financiamento Veículo,Vértice,SUV,190890.02,0.39,36,1.89,Ativo,,2025-02-22,2026-01-27,true,true
+17,14,10016,G003,Consórcio,Atlas,SUV,258400.6,0.21,36,1.04,Quitado,,2020-07-16,2022-08-01,true,true
+18,15,10017,G001,Consórcio,Eclipse X,Passeio,332438.82,0.16,24,1.11,Quitado,,2021-03-07,2022-07-05,true,true
+19,15,10018,,Financiamento Veículo,Aurora,Passeio,89209.63,0.14,60,1.61,Cancelado,Troca de produto,2021-07-14,2021-11-12,true,false
+20,16,10019,,Financiamento Veículo,Nimbus,Passeio,156192.09,0.19,60,1.69,Ativo,,2024-07-17,2026-06-03,true,true
+21,17,10020,G020,Consórcio,Vértice,SUV,164788.81,0.3,60,1.31,Ativo,,2020-02-09,2020-08-12,true,true
+22,17,10021,,Financiamento Veículo,Eclipse X,Passeio,329286.08,0.17,24,1.12,Ativo,,2019-12-25,2021-02-20,true,true
+23,17,10022,,Financiamento Veículo,Lumen,Passeio,97154.72,0.14,48,1.57,Ativo,,2020-02-27,2021-12-02,true,true
+24,18,10023,G022,Consórcio,Atlas,SUV,320107.27,0.36,36,1.46,Inadimplente,,2022-02-16,2023-04-23,true,false
+25,19,10024,,CDC,Aurora,Passeio,109378.84,0.17,60,1.09,Ativo,,2023-09-08,2023-12-19,true,true
+26,20,10025,,Leasing,Aurora,Passeio,114658.95,0.14,72,1.37,Quitado,,2023-08-01,2025-10-20,true,true
+27,21,10026,G009,Consórcio,Nimbus,Passeio,151001.36,0.16,24,1.84,Ativo,,2020-09-01,2022-07-06,true,true
+28,22,10027,,Financiamento Veículo,Eclipse X,Passeio,313886.02,0.29,72,1.54,Cancelado,Desistência cliente,2021-10-19,2023-04-25,true,false
+29,23,10028,,Financiamento Veículo,Vértice,SUV,197547.31,0.29,24,1.27,Ativo,,2025-01-30,2026-07-30,true,true
+30,23,10029,,Financiamento Veículo,Orion,SUV,122316.24,0.23,60,1.54,Quitado,,2024-07-19,2026-07-30,true,true
+31,24,10030,G023,Consórcio,Vértice,SUV,168361.01,0.1,60,1.85,Quitado,,2025-02-02,2026-07-30,true,true
+32,25,10031,,CDC,Vértice,SUV,186030.86,0.36,24,1.68,Quitado,,2021-10-25,2023-02-06,true,true
+33,26,10032,,Leasing,Nimbus,Passeio,165776.98,0.29,60,1.4,Cancelado,Inadimplência antecipada,2023-01-15,2023-08-03,true,false
+34,27,10033,,CDC,Atlas,SUV,319599.61,0.3,24,1.2,Inadimplente,,2020-11-05,2020-12-17,true,false
+35,28,10034,G006,Consórcio,Aurora Hatch,Passeio,105919.29,0.38,24,1.49,Ativo,,2021-10-13,2023-01-15,true,true
+36,29,10035,G009,Consórcio,Orion,SUV,136650.26,0.35,72,1.33,Ativo,,2021-01-04,2021-03-28,true,true
+37,30,10036,,Leasing,Stratos,SUV,268698.97,0.12,60,1.77,Quitado,,2025-02-12,2026-07-30,true,true
+38,31,10037,G010,Consórcio,Lumen,Passeio,79615.44,0.32,36,1.41,Ativo,,2024-10-17,2026-07-30,true,true
+39,32,10038,,Financiamento Veículo,Stratos,SUV,253233.76,0.1,60,1.01,Inadimplente,,2023-11-30,2026-05-07,true,false
+40,32,10039,,Financiamento Veículo,Aurora,Passeio,113725.75,0.3,48,1.08,Ativo,,2023-11-24,2025-02-25,true,true
+41,33,10040,G009,Consórcio,Aurora,Passeio,114286.54,0.13,36,1.8,Ativo,,2022-07-17,2023-09-01,true,true
+42,34,10041,G021,Consórcio,Nimbus,Passeio,184846.24,0.35,24,1.52,Ativo,,2020-12-02,2021-05-14,true,true
+43,35,10042,,Leasing,Atlas,SUV,326582.23,0.22,48,1.28,Inadimplente,,2020-08-09,2021-04-03,true,false
+44,36,10043,,Financiamento Veículo,Nimbus Sport,Passeio,357628.1,0.23,48,1.36,Quitado,,2022-04-26,2024-07-22,true,true
+45,37,10044,,CDC,Atlas,SUV,291701.19,0.13,48,1.73,Ativo,,2026-01-01,2026-07-30,true,true
+46,38,10045,G012,Consórcio,Lumen,Passeio,78411.45,0.22,24,1.6,Ativo,,2024-04-01,2024-10-26,true,true
+47,38,10046,,CDC,Aurora,Passeio,113754.51,0.27,72,1.21,Inadimplente,,2024-07-13,2026-07-30,true,false
+48,39,10047,,CDC,Aurora,Passeio,90603.4,0.17,36,1.73,Ativo,,2021-09-29,2023-08-20,true,true
+49,40,10048,,CDC,Nimbus Sport,Passeio,368117.45,0.11,24,1.17,Quitado,,2025-08-09,2026-01-17,true,true
+50,41,10049,,Leasing,Lumen,Passeio,77818.14,0.12,72,1.38,Quitado,,2023-05-27,2023-07-26,true,true
+51,42,10050,,Financiamento Veículo,Eclipse X,Passeio,293824.58,0.16,48,1.39,Cancelado,Inadimplência antecipada,2024-03-05,2025-12-26,true,false
+52,43,10051,,CDC,Atlas,SUV,294900.24,0.24,24,1.24,Quitado,,2021-11-03,2023-09-22,true,true
+53,44,10052,,Leasing,Stratos,SUV,217440.34,0.26,24,1.88,Ativo,,2020-10-30,2022-06-09,true,true
+54,44,10053,G011,Consórcio,Aurora Hatch,Passeio,105321.02,0.22,36,1.01,Quitado,,2020-08-31,2023-01-08,true,true
+55,45,10054,,Financiamento Veículo,Aurora,Passeio,110025.0,0.21,72,1.89,Inadimplente,,2020-06-06,2022-05-09,true,false
+56,45,10055,,CDC,Orion,SUV,130661.08,0.38,24,1.68,Ativo,,2020-07-07,2022-10-31,true,true
+57,46,10056,G024,Consórcio,Vértice,SUV,172327.03,0.31,72,1.02,Quitado,,2021-06-28,2023-03-01,true,true
+58,47,10057,,CDC,Nimbus Sport,Passeio,416385.8,0.34,60,1.48,Ativo,,2024-04-04,2024-08-04,true,true
+59,48,10058,G001,Consórcio,Nimbus Sport,Passeio,365316.63,0.2,72,1.17,Quitado,,2021-11-16,2022-06-15,true,true
+60,49,10059,,Financiamento Veículo,Lumen,Passeio,76369.79,0.31,36,1.69,Ativo,,2022-02-24,2022-06-08,true,true
+61,49,10060,G019,Consórcio,Lumen,Passeio,91204.37,0.13,48,1.28,Ativo,,2021-08-19,2022-12-09,true,true
+62,50,10061,,Financiamento Veículo,Aurora Hatch,Passeio,114475.41,0.39,72,1.7,Ativo,,2019-07-19,2021-11-29,true,true
+63,50,10062,,CDC,Vértice,SUV,186486.89,0.19,36,1.65,Ativo,,2020-03-20,2021-05-24,true,true
+64,51,10063,G020,Consórcio,Nimbus Sport,Passeio,352266.79,0.17,72,1.08,Cancelado,Desistência cliente,2022-03-08,2022-12-06,true,false
+65,51,10064,,Financiamento Veículo,Lumen,Passeio,97594.73,0.37,24,1.73,Ativo,,2022-06-05,2023-06-13,true,true
+66,52,10065,G012,Consórcio,Atlas,SUV,268871.59,0.18,24,1.64,Quitado,,2024-04-27,2026-06-16,true,true
+67,53,10066,G013,Consórcio,Vértice,SUV,221918.64,0.21,60,1.08,Ativo,,2022-08-08,2024-04-20,true,true
+68,54,10067,,Financiamento Veículo,Orion,SUV,126506.26,0.35,48,1.01,Ativo,,2022-03-17,2022-06-30,true,true
+69,55,10068,G003,Consórcio,Eclipse X,Passeio,292872.36,0.2,72,1.79,Cancelado,Negado crédito,2020-05-07,2022-02-17,false,false
+70,56,10069,,Financiamento Veículo,Vértice,SUV,163748.9,0.39,60,1.62,Ativo,,2025-03-28,2026-07-30,true,true
+71,56,10070,,Financiamento Veículo,Atlas,SUV,309453.81,0.13,60,1.5,Inadimplente,,2024-11-30,2026-01-03,true,false
+72,57,10071,G020,Consórcio,Nimbus,Passeio,167672.97,0.24,24,1.01,Ativo,,2019-07-17,2019-11-07,true,true
+73,58,10072,,Financiamento Veículo,Nimbus,Passeio,168501.2,0.25,48,1.07,Ativo,,2022-07-01,2023-08-14,true,true
+74,59,10073,,Financiamento Veículo,Lumen,Passeio,79291.41,0.23,48,1.19,Ativo,,2023-03-20,2023-09-20,true,true
+75,59,10074,,Financiamento Veículo,Nimbus,Passeio,155142.44,0.26,72,1.19,Ativo,,2022-12-04,2025-04-20,true,true
+76,60,10075,G019,Consórcio,Stratos,SUV,248094.76,0.36,60,1.26,Ativo,,2024-06-13,2026-07-14,true,true
+77,61,10076,,CDC,Nimbus Sport,Passeio,413031.85,0.3,72,1.12,Ativo,,2021-01-16,2021-08-05,true,true
+78,62,10077,,Financiamento Veículo,Orion,SUV,125047.44,0.4,60,1.17,Cancelado,Inadimplência antecipada,2021-12-06,2022-09-26,true,false
+79,62,10078,,Leasing,Lumen,Passeio,95948.5,0.12,60,1.49,Inadimplente,,2021-10-28,2022-09-05,true,false
+80,62,10079,,CDC,Stratos,SUV,232071.0,0.34,72,1.52,Cancelado,Negado crédito,2021-08-21,2022-02-18,false,false
+81,63,10080,,Leasing,Nimbus Sport,Passeio,403086.42,0.38,72,1.69,Ativo,,2022-02-13,2023-03-02,true,true
+82,64,10081,,Financiamento Veículo,Atlas,SUV,284473.91,0.28,24,1.14,Cancelado,Inadimplência antecipada,2020-08-15,2022-08-12,true,false
+83,64,10082,,CDC,Eclipse X,Passeio,283102.6,0.2,36,1.03,Ativo,,2020-09-21,2021-11-06,true,true
+84,65,10083,G023,Consórcio,Atlas,SUV,277985.44,0.31,36,1.11,Quitado,,2024-01-01,2026-05-25,true,true
+85,66,10084,,Financiamento Veículo,Eclipse X,Passeio,328398.33,0.23,60,1.66,Ativo,,2022-02-25,2023-04-13,true,true
+86,67,10085,,Financiamento Veículo,Stratos,SUV,255404.33,0.31,60,1.11,Ativo,,2021-10-04,2021-12-02,true,true
+87,67,10086,,CDC,Vértice,SUV,173493.44,0.35,36,1.02,Ativo,,2021-02-03,2023-02-24,true,true
+88,68,10087,G021,Consórcio,Lumen,Passeio,93940.64,0.38,24,1.21,Ativo,,2025-03-15,2025-10-12,true,true
+89,69,10088,,Financiamento Veículo,Aurora Hatch,Passeio,112606.41,0.15,48,1.66,Inadimplente,,2024-06-21,2024-08-18,true,false
+90,69,10089,,CDC,Eclipse X,Passeio,283972.08,0.33,36,1.76,Quitado,,2024-05-31,2025-01-27,true,true
+91,69,10090,G025,Consórcio,Atlas,SUV,308642.86,0.39,24,1.42,Ativo,,2023-09-10,2025-06-16,true,true
+92,70,10091,G010,Consórcio,Orion,SUV,130095.62,0.31,48,1.37,Ativo,,2022-04-28,2023-09-10,true,true
+93,70,10092,G017,Consórcio,Atlas,SUV,269638.81,0.35,60,1.52,Ativo,,2021-10-21,2023-09-29,true,true
+94,71,10093,G010,Consórcio,Lumen,Passeio,87913.51,0.19,24,1.42,Ativo,,2024-04-17,2026-03-03,true,true
+95,71,10094,,Financiamento Veículo,Lumen,Passeio,94814.31,0.31,48,1.16,Ativo,,2024-07-18,2024-10-14,true,true
+96,71,10095,,Financiamento Veículo,Nimbus Sport,Passeio,378286.89,0.14,24,1.58,Inadimplente,,2024-03-27,2025-06-28,true,false
+97,72,10096,,Leasing,Aurora,Passeio,104158.62,0.34,48,1.64,Ativo,,2021-01-31,2022-12-15,true,true
+98,73,10097,,CDC,Lumen,Passeio,86668.24,0.35,72,1.15,Ativo,,2024-03-28,2026-05-25,true,true
+99,73,10098,G006,Consórcio,Atlas,SUV,315266.8,0.38,48,1.58,Quitado,,2024-05-31,2026-08-01,true,true
+100,74,10099,,Financiamento Veículo,Eclipse X,Passeio,343047.23,0.18,48,1.41,Quitado,,2020-11-06,2022-09-16,true,true
+101,74,10100,G016,Consórcio,Nimbus Sport,Passeio,390621.92,0.37,72,1.1,Inadimplente,,2021-08-21,2022-07-22,true,false
+102,75,10101,,Financiamento Veículo,Vértice,SUV,169615.57,0.22,72,1.79,Inadimplente,,2024-03-02,2026-04-03,true,false
+103,76,10102,G006,Consórcio,Nimbus,Passeio,179254.85,0.19,24,0.99,Cancelado,Negado crédito,2019-09-08,2021-05-20,false,false
+104,77,10103,,CDC,Aurora Hatch,Passeio,118556.33,0.14,60,1.56,Quitado,,2021-07-17,2022-12-17,true,true
+105,77,10104,G024,Consórcio,Eclipse X,Passeio,280373.53,0.21,24,1.79,Ativo,,2022-01-14,2022-08-27,true,true
+106,78,10105,,Financiamento Veículo,Aurora,Passeio,105293.86,0.31,48,1.27,Ativo,,2020-03-06,2021-11-28,true,true
+107,79,10106,G010,Consórcio,Nimbus,Passeio,199430.63,0.24,72,1.53,Quitado,,2019-11-24,2021-11-26,true,true
+108,80,10107,,Financiamento Veículo,Lumen,Passeio,97911.2,0.33,36,1.84,Inadimplente,,2024-10-04,2025-06-20,true,false
+109,80,10108,,Financiamento Veículo,Vértice,SUV,174783.32,0.25,24,1.32,Ativo,,2025-02-08,2026-03-29,true,true
+110,80,10109,G020,Consórcio,Atlas,SUV,319412.47,0.4,24,1.58,Inadimplente,,2024-03-22,2024-08-17,true,false
+111,81,10110,,Financiamento Veículo,Eclipse X,Passeio,289887.61,0.31,36,1.62,Cancelado,Troca de produto,2024-10-22,2026-07-30,true,false
+112,82,10111,G005,Consórcio,Stratos,SUV,218898.4,0.23,24,1.45,Cancelado,Desistência cliente,2024-06-15,2026-07-30,true,false
+113,83,10112,,CDC,Orion,SUV,144360.07,0.35,36,1.31,Quitado,,2024-03-30,2024-06-08,true,true
+114,84,10113,,Financiamento Veículo,Orion,SUV,147528.16,0.17,24,1.59,Ativo,,2020-09-12,2022-08-28,true,true
+115,85,10114,,Financiamento Veículo,Nimbus,Passeio,196771.57,0.32,48,1.57,Ativo,,2025-02-21,2026-01-20,true,true
+116,86,10115,,Financiamento Veículo,Aurora,Passeio,91595.03,0.11,48,1.31,Quitado,,2022-01-28,2024-03-24,true,true
+117,87,10116,,Financiamento Veículo,Aurora,Passeio,89251.48,0.29,48,1.31,Ativo,,2021-05-02,2022-03-02,true,true
+118,88,10117,G004,Consórcio,Nimbus,Passeio,172357.33,0.22,60,1.23,Ativo,,2024-09-04,2026-02-05,true,true
+119,88,10118,G004,Consórcio,Eclipse X,Passeio,331907.72,0.14,24,1.87,Inadimplente,,2024-05-11,2026-02-04,true,false
+120,89,10119,,Financiamento Veículo,Nimbus Sport,Passeio,397487.52,0.21,48,1.54,Ativo,,2023-08-28,2025-10-10,true,true
+121,90,10120,,Financiamento Veículo,Vértice,SUV,193815.58,0.37,60,1.03,Ativo,,2022-08-08,2022-09-19,true,true
+122,90,10121,G019,Consórcio,Stratos,SUV,253727.01,0.17,48,1.46,Ativo,,2023-03-15,2023-07-20,true,true
+123,90,10122,,Financiamento Veículo,Eclipse X,Passeio,332937.06,0.2,60,1.12,Ativo,,2023-01-07,2024-10-25,true,true
+124,91,10123,,Financiamento Veículo,Vértice,SUV,195389.73,0.25,36,1.06,Ativo,,2023-11-27,2024-11-29,true,true
+125,92,10124,G013,Consórcio,Aurora,Passeio,102180.16,0.22,36,1.06,Ativo,,2023-12-04,2025-04-05,true,true
+126,92,10125,,Financiamento Veículo,Nimbus,Passeio,201395.35,0.14,60,1.66,Cancelado,Troca de produto,2023-04-30,2023-07-05,true,false
+127,92,10126,,CDC,Stratos,SUV,238436.92,0.34,72,1.56,Ativo,,2024-01-06,2025-12-06,true,true
+128,93,10127,G008,Consórcio,Lumen,Passeio,83356.88,0.35,48,1.49,Ativo,,2023-02-09,2025-03-13,true,true
+129,94,10128,G008,Consórcio,Aurora Hatch,Passeio,98420.7,0.1,48,1.74,Ativo,,2024-07-18,2025-09-03,true,true
+130,95,10129,,Financiamento Veículo,Aurora,Passeio,112318.81,0.35,60,1.09,Inadimplente,,2024-04-22,2024-09-22,true,false
+131,96,10130,G007,Consórcio,Eclipse X,Passeio,297247.16,0.32,24,1.67,Ativo,,2021-08-28,2024-02-01,true,true
+132,96,10131,G015,Consórcio,Nimbus Sport,Passeio,358625.34,0.3,72,1.11,Cancelado,Desistência cliente,2022-04-17,2023-12-04,true,false
+133,97,10132,G006,Consórcio,Nimbus Sport,Passeio,383805.24,0.31,36,1.65,Inadimplente,,2019-08-20,2021-07-23,true,false
+134,97,10133,,Financiamento Veículo,Nimbus Sport,Passeio,392431.25,0.36,60,1.87,Ativo,,2020-06-04,2021-04-10,true,true
+135,98,10134,,Financiamento Veículo,Lumen,Passeio,97321.31,0.14,60,1.53,Ativo,,2021-07-18,2023-12-28,true,true
+136,99,10135,G021,Consórcio,Lumen,Passeio,91373.11,0.17,36,1.55,Ativo,,2022-09-23,2024-09-10,true,true
+137,100,10136,G011,Consórcio,Vértice,SUV,195272.54,0.31,48,1.5,Ativo,,2024-04-14,2026-03-28,true,true
+138,101,10137,,CDC,Stratos,SUV,220014.96,0.34,72,1.09,Cancelado,Desistência cliente,2023-09-18,2024-05-09,true,false
+139,102,10138,G005,Consórcio,Vértice,SUV,228847.27,0.35,48,1.17,Cancelado,Troca de produto,2024-12-23,2025-05-06,true,false
+140,103,10139,,CDC,Stratos,SUV,260538.9,0.27,36,1.45,Quitado,,2024-05-06,2026-04-16,true,true
+141,104,10140,,Leasing,Eclipse X,Passeio,311004.37,0.39,48,1.86,Cancelado,Documentação incompleta,2020-03-13,2020-11-05,true,false
+142,105,10141,G023,Consórcio,Aurora Hatch,Passeio,119899.5,0.31,48,1.67,Ativo,,2023-11-24,2024-07-12,true,true
+143,106,10142,G022,Consórcio,Orion,SUV,131767.11,0.12,36,1.65,Quitado,,2021-07-23,2022-11-03,true,true
+144,106,10143,G019,Consórcio,Atlas,SUV,300093.88,0.35,24,1.29,Ativo,,2022-05-21,2022-07-30,true,true
+145,107,10144,,CDC,Lumen,Passeio,88728.25,0.29,48,1.43,Ativo,,2022-03-28,2022-07-10,true,true
+146,108,10145,,Leasing,Lumen,Passeio,87084.09,0.26,72,1.13,Ativo,,2022-08-02,2022-12-04,true,true
+147,108,10146,,Financiamento Veículo,Lumen,Passeio,80087.56,0.2,48,1.25,Ativo,,2022-11-17,2024-04-16,true,true
+148,109,10147,,Financiamento Veículo,Aurora,Passeio,91982.77,0.17,72,1.82,Ativo,,2020-10-10,2022-10-08,true,true
+149,109,10148,,CDC,Lumen,Passeio,83771.57,0.13,48,1.48,Cancelado,Inadimplência antecipada,2020-10-30,2023-03-20,true,false
+150,109,10149,G016,Consórcio,Lumen,Passeio,86829.11,0.11,36,1.28,Ativo,,2020-07-20,2021-02-06,true,true
+151,110,10150,G007,Consórcio,Stratos,SUV,237324.41,0.3,36,1.77,Ativo,,2025-04-04,2025-11-30,true,true
+152,110,10151,,CDC,Stratos,SUV,258012.41,0.32,60,1.57,Ativo,,2024-10-05,2025-04-10,true,true
+153,110,10152,,Financiamento Veículo,Aurora,Passeio,100939.86,0.13,24,1.15,Ativo,,2025-01-05,2026-07-30,true,true
+154,111,10153,G013,Consórcio,Atlas,SUV,286686.95,0.23,24,1.34,Ativo,,2020-05-22,2022-04-08,true,true
+155,111,10154,G002,Consórcio,Nimbus Sport,Passeio,354426.63,0.31,24,1.31,Inadimplente,,2020-12-05,2023-03-20,true,false
+156,112,10155,,CDC,Nimbus Sport,Passeio,356055.37,0.23,60,1.73,Ativo,,2022-09-13,2024-04-11,true,true
+157,113,10156,,CDC,Eclipse X,Passeio,343741.63,0.19,36,1.26,Ativo,,2022-06-12,2022-07-23,true,true
+158,114,10157,,Financiamento Veículo,Stratos,SUV,209896.17,0.27,60,1.47,Quitado,,2021-12-28,2024-03-03,true,true
+159,115,10158,,Leasing,Lumen,Passeio,79869.95,0.36,36,1.13,Ativo,,2019-12-30,2020-10-13,true,true
+160,116,10159,G002,Consórcio,Vértice,SUV,206968.45,0.36,72,1.41,Cancelado,Desistência cliente,2020-05-11,2021-02-21,true,false
+161,117,10160,,Financiamento Veículo,Nimbus Sport,Passeio,384103.33,0.14,36,1.08,Cancelado,Negado crédito,2021-03-03,2022-02-21,false,false
+162,118,10161,,Financiamento Veículo,Lumen,Passeio,89175.88,0.28,72,1.5,Ativo,,2019-10-01,2020-04-20,true,true
+163,119,10162,G021,Consórcio,Orion,SUV,151426.4,0.23,48,1.11,Quitado,,2020-05-20,2021-10-23,true,true
+164,120,10163,,Financiamento Veículo,Lumen,Passeio,92819.64,0.13,72,1.06,Ativo,,2020-05-10,2020-10-30,true,true
+165,121,10164,,CDC,Orion,SUV,130529.39,0.12,24,1.79,Ativo,,2025-06-20,2026-07-30,true,true
+166,121,10165,,CDC,Nimbus Sport,Passeio,390523.06,0.16,24,1.49,Ativo,,2025-07-09,2026-07-30,true,true
+167,122,10166,,Financiamento Veículo,Vértice,SUV,185607.3,0.33,48,1.11,Ativo,,2020-04-30,2021-07-10,true,true
+168,123,10167,,CDC,Aurora,Passeio,106229.64,0.34,72,1.61,Ativo,,2026-01-17,2026-07-30,true,true
+169,124,10168,G005,Consórcio,Nimbus Sport,Passeio,416409.83,0.32,60,1.84,Inadimplente,,2019-12-10,2021-05-22,true,false
+170,125,10169,,Financiamento Veículo,Atlas,SUV,283249.17,0.16,48,1.34,Ativo,,2024-10-22,2024-12-31,true,true
+171,126,10170,,Leasing,Lumen,Passeio,77374.18,0.29,48,1.74,Ativo,,2022-11-10,2024-07-15,true,true
+172,126,10171,,Financiamento Veículo,Vértice,SUV,186366.17,0.28,24,1.45,Ativo,,2023-01-07,2023-09-22,true,true
+173,126,10172,,CDC,Stratos,SUV,228408.95,0.2,60,1.79,Ativo,,2022-07-02,2022-12-21,true,true
+174,127,10173,G007,Consórcio,Orion,SUV,123083.53,0.15,36,1.32,Ativo,,2021-09-03,2023-08-10,true,true
+175,128,10174,,Financiamento Veículo,Lumen,Passeio,91565.88,0.24,36,1.52,Ativo,,2025-06-17,2025-08-08,true,true
+176,129,10175,,Financiamento Veículo,Vértice,SUV,200144.06,0.29,24,1.79,Cancelado,Documentação incompleta,2024-06-23,2025-01-23,true,false
+177,130,10176,G001,Consórcio,Eclipse X,Passeio,327948.6,0.36,48,1.84,Ativo,,2023-06-14,2024-11-07,true,true
+178,131,10177,,Financiamento Veículo,Vértice,SUV,175355.47,0.14,72,1.73,Ativo,,2024-04-24,2025-10-29,true,true
+179,131,10178,G015,Consórcio,Atlas,SUV,265094.95,0.28,24,1.2,Cancelado,Desistência cliente,2024-08-06,2025-03-31,true,false
+180,132,10179,,CDC,Stratos,SUV,247905.75,0.28,36,1.42,Ativo,,2023-09-22,2026-01-01,true,true
+181,133,10180,G020,Consórcio,Nimbus,Passeio,155591.4,0.26,24,1.8,Ativo,,2023-02-19,2024-09-05,true,true
+182,134,10181,,Financiamento Veículo,Aurora,Passeio,107138.71,0.38,60,1.7,Quitado,,2023-11-19,2026-03-21,true,true
+183,135,10182,,Financiamento Veículo,Nimbus Sport,Passeio,356840.18,0.24,36,1.81,Inadimplente,,2023-07-11,2025-02-16,true,false
+184,136,10183,,CDC,Orion,SUV,120218.78,0.1,72,1.1,Inadimplente,,2024-12-04,2025-08-01,true,false
+185,137,10184,,Financiamento Veículo,Lumen,Passeio,84403.44,0.23,72,1.22,Quitado,,2021-07-02,2022-08-10,true,true
+186,138,10185,G018,Consórcio,Eclipse X,Passeio,340397.75,0.24,48,1.49,Inadimplente,,2023-06-20,2024-05-29,true,false
+187,139,10186,,CDC,Eclipse X,Passeio,338862.59,0.3,36,1.39,Ativo,,2024-08-07,2024-12-17,true,true
+188,140,10187,G020,Consórcio,Eclipse X,Passeio,342886.49,0.31,24,1.13,Cancelado,Desistência cliente,2022-01-29,2024-06-20,true,false
+189,141,10188,,Financiamento Veículo,Nimbus Sport,Passeio,380476.42,0.17,24,1.54,Quitado,,2022-10-31,2024-01-14,true,true
+190,142,10189,,Leasing,Stratos,SUV,220052.85,0.12,36,1.57,Cancelado,Inadimplência antecipada,2021-06-04,2022-04-22,true,false
+191,143,10190,G020,Consórcio,Nimbus Sport,Passeio,385738.35,0.15,24,1.31,Cancelado,Negado crédito,2024-05-17,2024-09-12,false,false
+192,144,10191,G019,Consórcio,Eclipse X,Passeio,308250.21,0.16,24,1.65,Ativo,,2022-11-14,2024-06-28,true,true
+193,144,10192,G019,Consórcio,Atlas,SUV,315352.48,0.2,48,1.19,Ativo,,2023-01-17,2024-04-04,true,true
+194,144,10193,G017,Consórcio,Nimbus Sport,Passeio,350325.6,0.13,24,1.44,Ativo,,2023-04-02,2025-08-01,true,true
+195,145,10194,,CDC,Atlas,SUV,328850.17,0.27,60,1.86,Quitado,,2022-09-03,2023-06-09,true,true
+196,146,10195,,CDC,Aurora Hatch,Passeio,115447.84,0.36,60,1.09,Quitado,,2019-08-23,2021-12-07,true,true
+197,146,10196,,Financiamento Veículo,Orion,SUV,147076.52,0.19,48,1.45,Ativo,,2019-07-24,2020-05-18,true,true
+198,147,10197,,CDC,Nimbus,Passeio,173935.84,0.2,72,1.83,Quitado,,2021-04-16,2021-12-25,true,true
+199,148,10198,,CDC,Atlas,SUV,266450.6,0.38,36,1.44,Inadimplente,,2023-05-04,2024-02-05,true,false
+200,148,10199,,Financiamento Veículo,Atlas,SUV,268610.08,0.17,72,1.31,Cancelado,Desistência cliente,2023-03-17,2025-03-08,true,false
+201,149,10200,G018,Consórcio,Aurora Hatch,Passeio,113414.81,0.39,60,1.32,Quitado,,2019-08-21,2021-04-30,true,true
+202,149,10201,G017,Consórcio,Atlas,SUV,294172.48,0.18,36,1.67,Cancelado,Troca de produto,2019-05-17,2020-10-17,true,false
+203,149,10202,G022,Consórcio,Stratos,SUV,202279.39,0.33,60,1.87,Quitado,,2020-03-04,2021-02-20,true,true
+204,150,10203,,Financiamento Veículo,Aurora,Passeio,106526.68,0.13,48,1.54,Cancelado,Documentação incompleta,2023-03-04,2023-12-01,true,false
+205,151,10204,,Financiamento Veículo,Nimbus Sport,Passeio,374016.75,0.23,60,1.62,Ativo,,2019-12-13,2021-02-25,true,true
+206,152,10205,,Leasing,Vértice,SUV,199998.68,0.31,24,1.64,Ativo,,2024-08-26,2025-10-20,true,true
+207,153,10206,,Financiamento Veículo,Vértice,SUV,193109.09,0.23,36,1.89,Ativo,,2024-05-19,2026-06-25,true,true
+208,154,10207,G019,Consórcio,Aurora Hatch,Passeio,104001.03,0.11,24,1.61,Inadimplente,,2020-01-09,2020-10-25,true,false
+209,155,10208,,Financiamento Veículo,Nimbus,Passeio,176991.29,0.21,72,1.49,Quitado,,2024-02-25,2025-05-21,true,true
+210,156,10209,G021,Consórcio,Nimbus Sport,Passeio,363927.07,0.26,48,1.31,Ativo,,2020-08-06,2022-11-07,true,true
+211,157,10210,,Financiamento Veículo,Nimbus,Passeio,172864.26,0.29,36,1.77,Ativo,,2024-01-07,2025-01-16,true,true
+212,158,10211,,CDC,Nimbus Sport,Passeio,390014.63,0.12,36,1.3,Cancelado,Documentação incompleta,2020-12-29,2023-01-25,true,false
+213,159,10212,,Financiamento Veículo,Eclipse X,Passeio,301699.85,0.36,48,1.66,Ativo,,2022-09-05,2023-12-02,true,true
+214,160,10213,,Financiamento Veículo,Aurora,Passeio,92251.04,0.18,24,1.18,Cancelado,Desistência cliente,2020-05-26,2021-10-22,true,false
+215,161,10214,G003,Consórcio,Aurora,Passeio,109044.28,0.13,72,1.13,Ativo,,2023-03-10,2024-05-12,true,true
+216,162,10215,,Financiamento Veículo,Orion,SUV,149503.73,0.14,72,1.74,Cancelado,Documentação incompleta,2020-08-10,2021-08-08,true,false
+217,163,10216,G009,Consórcio,Aurora Hatch,Passeio,124249.45,0.26,36,1.86,Ativo,,2025-05-11,2026-07-30,true,true
+218,163,10217,,CDC,Nimbus Sport,Passeio,381958.04,0.36,60,1.46,Ativo,,2025-04-11,2026-05-01,true,true
+219,164,10218,,Financiamento Veículo,Orion,SUV,152188.31,0.21,48,1.13,Inadimplente,,2024-10-30,2026-07-30,true,false
+220,165,10219,G001,Consórcio,Vértice,SUV,184071.94,0.31,60,1.84,Quitado,,2021-01-27,2023-04-21,true,true
+221,165,10220,G001,Consórcio,Eclipse X,Passeio,343837.18,0.26,36,1.36,Ativo,,2021-03-11,2021-12-21,true,true
+222,166,10221,G003,Consórcio,Eclipse X,Passeio,346274.15,0.23,36,1.45,Ativo,,2023-01-21,2025-01-21,true,true
+223,167,10222,,Financiamento Veículo,Stratos,SUV,256616.61,0.36,36,1.11,Ativo,,2020-11-23,2022-09-16,true,true
+224,168,10223,G005,Consórcio,Nimbus Sport,Passeio,384439.72,0.11,72,1.01,Inadimplente,,2019-09-01,2020-02-06,true,false
+225,169,10224,,Financiamento Veículo,Aurora,Passeio,95053.07,0.25,48,1.37,Ativo,,2025-02-16,2026-07-05,true,true
+226,170,10225,,CDC,Aurora,Passeio,97586.46,0.39,24,1.23,Inadimplente,,2021-03-04,2022-07-28,true,false
+227,171,10226,,CDC,Atlas,SUV,323552.57,0.14,36,1.34,Inadimplente,,2022-08-19,2022-10-22,true,false
+228,172,10227,,Leasing,Nimbus,Passeio,181268.35,0.24,48,1.83,Ativo,,2021-01-10,2021-03-24,true,true
+229,173,10228,,Financiamento Veículo,Stratos,SUV,236464.84,0.29,36,1.31,Ativo,,2023-06-30,2024-03-09,true,true
+230,174,10229,,Financiamento Veículo,Orion,SUV,145316.36,0.15,48,1.52,Ativo,,2024-11-04,2024-12-13,true,true
+231,174,10230,G023,Consórcio,Aurora,Passeio,104108.0,0.28,48,1.68,Quitado,,2024-08-21,2024-12-22,true,true
+232,174,10231,,Leasing,Nimbus Sport,Passeio,373689.55,0.33,24,1.04,Quitado,,2025-03-12,2026-07-30,true,true
+233,175,10232,,Financiamento Veículo,Vértice,SUV,194149.0,0.27,48,1.71,Ativo,,2021-10-23,2021-12-13,true,true
+234,175,10233,,Financiamento Veículo,Eclipse X,Passeio,308653.4,0.37,60,1.63,Quitado,,2021-12-24,2024-01-06,true,true
+235,176,10234,G024,Consórcio,Nimbus Sport,Passeio,363063.87,0.24,72,1.81,Inadimplente,,2021-02-13,2022-09-09,true,false
+236,177,10235,G015,Consórcio,Atlas,SUV,323747.67,0.1,72,1.33,Ativo,,2019-09-16,2021-07-11,true,true
+237,178,10236,,CDC,Nimbus Sport,Passeio,366715.06,0.3,72,1.73,Ativo,,2022-11-07,2024-04-29,true,true
+238,178,10237,,Financiamento Veículo,Stratos,SUV,210789.21,0.22,48,1.09,Ativo,,2023-04-26,2023-07-09,true,true
+239,179,10238,,Financiamento Veículo,Vértice,SUV,172504.72,0.13,36,1.08,Ativo,,2020-01-01,2021-03-03,true,true
+240,179,10239,G009,Consórcio,Aurora Hatch,Passeio,110774.64,0.11,36,1.54,Cancelado,Negado crédito,2019-04-20,2021-03-21,false,false
+241,180,10240,G012,Consórcio,Nimbus,Passeio,178083.55,0.27,60,1.73,Cancelado,Inadimplência antecipada,2020-04-21,2021-02-17,true,false
+242,181,10241,,Financiamento Veículo,Nimbus,Passeio,200067.39,0.16,72,1.08,Cancelado,Troca de produto,2024-04-17,2024-11-27,true,false
+243,182,10242,,Leasing,Orion,SUV,142801.11,0.27,72,1.36,Ativo,,2021-06-13,2023-02-23,true,true
+244,183,10243,,Financiamento Veículo,Aurora Hatch,Passeio,116076.51,0.13,36,1.48,Quitado,,2025-01-31,2025-08-10,true,true
+245,184,10244,,Financiamento Veículo,Nimbus Sport,Passeio,381010.85,0.19,48,1.75,Ativo,,2022-07-22,2023-11-04,true,true
+246,185,10245,G007,Consórcio,Lumen,Passeio,88993.51,0.21,72,1.82,Ativo,,2024-11-07,2026-03-15,true,true
+247,185,10246,,Financiamento Veículo,Aurora Hatch,Passeio,123794.73,0.11,48,1.53,Inadimplente,,2025-03-22,2026-02-24,true,false
+248,186,10247,,Financiamento Veículo,Orion,SUV,128592.91,0.33,48,1.82,Ativo,,2024-02-26,2025-11-02,true,true
+249,187,10248,,Financiamento Veículo,Aurora,Passeio,100969.61,0.18,72,1.21,Ativo,,2021-10-09,2022-02-10,true,true
+250,188,10249,,CDC,Nimbus Sport,Passeio,414251.73,0.32,60,1.15,Ativo,,2025-12-08,2026-07-30,true,true
+251,189,10250,,Financiamento Veículo,Nimbus Sport,Passeio,394957.82,0.34,60,1.06,Ativo,,2023-08-27,2024-09-02,true,true
+252,189,10251,,Financiamento Veículo,Lumen,Passeio,95235.23,0.38,24,1.77,Ativo,,2023-11-23,2026-05-10,true,true
+253,190,10252,G002,Consórcio,Aurora,Passeio,105481.06,0.19,24,1.28,Inadimplente,,2022-05-30,2023-11-25,true,false
+254,191,10253,,CDC,Vértice,SUV,163536.39,0.22,60,1.67,Ativo,,2023-01-24,2023-10-08,true,true
+255,192,10254,,Financiamento Veículo,Eclipse X,Passeio,291840.99,0.24,24,1.48,Cancelado,Inadimplência antecipada,2025-04-05,2026-07-23,true,false
+256,193,10255,,Financiamento Veículo,Vértice,SUV,213342.3,0.16,60,1.58,Ativo,,2023-01-25,2025-03-18,true,true
+257,193,10256,,Financiamento Veículo,Stratos,SUV,217237.21,0.33,48,1.61,Inadimplente,,2023-08-07,2025-07-24,true,false
+258,194,10257,G020,Consórcio,Lumen,Passeio,83011.08,0.3,48,1.14,Ativo,,2025-04-13,2026-07-30,true,true
+259,195,10258,,Leasing,Vértice,SUV,190832.44,0.17,48,1.13,Ativo,,2023-01-10,2023-06-04,true,true
+260,196,10259,,Leasing,Orion,SUV,157957.64,0.36,48,1.0,Ativo,,2025-03-16,2026-02-21,true,true
+261,197,10260,,CDC,Aurora,Passeio,97628.79,0.16,72,1.46,Ativo,,2024-09-26,2026-07-25,true,true
+262,198,10261,G013,Consórcio,Vértice,SUV,208654.98,0.27,72,1.03,Cancelado,Negado crédito,2021-09-13,2023-12-30,false,false
+263,199,10262,G001,Consórcio,Atlas,SUV,254777.67,0.12,48,1.59,Inadimplente,,2025-08-09,2025-12-27,true,false
+264,200,10263,,Financiamento Veículo,Eclipse X,Passeio,298493.49,0.39,24,1.8,Ativo,,2025-03-05,2026-07-30,true,true
+265,201,10264,,Financiamento Veículo,Orion,SUV,140026.03,0.38,24,1.03,Quitado,,2020-01-01,2021-06-15,true,true
+266,202,10265,G012,Consórcio,Vértice,SUV,161286.06,0.29,36,1.89,Quitado,,2020-05-22,2020-08-23,true,true
+267,203,10266,,CDC,Eclipse X,Passeio,351232.17,0.11,72,1.84,Cancelado,Troca de produto,2023-08-14,2025-07-16,true,false
+268,204,10267,G021,Consórcio,Eclipse X,Passeio,321657.43,0.31,60,1.21,Ativo,,2023-08-20,2024-08-03,true,true
+269,205,10268,,Financiamento Veículo,Lumen,Passeio,85330.89,0.3,72,1.48,Ativo,,2021-11-14,2022-10-26,true,true
+270,205,10269,,Financiamento Veículo,Stratos,SUV,263669.39,0.37,36,1.58,Ativo,,2022-05-19,2023-05-09,true,true
+271,206,10270,,Financiamento Veículo,Stratos,SUV,266402.11,0.2,36,1.64,Quitado,,2024-10-14,2026-01-10,true,true
+272,207,10271,,Leasing,Atlas,SUV,289870.4,0.37,48,1.13,Cancelado,Negado crédito,2024-03-13,2024-05-08,false,false
+273,207,10272,G020,Consórcio,Nimbus Sport,Passeio,393186.26,0.17,36,1.2,Inadimplente,,2023-12-21,2025-12-24,true,false
+274,207,10273,,CDC,Aurora Hatch,Passeio,99022.6,0.24,48,1.16,Ativo,,2024-06-23,2024-12-10,true,true
+275,208,10274,,CDC,Orion,SUV,121289.18,0.1,48,1.85,Ativo,,2022-11-25,2023-07-20,true,true
+276,209,10275,,Leasing,Nimbus,Passeio,160624.69,0.23,72,1.43,Ativo,,2021-06-07,2022-03-16,true,true
+277,209,10276,,Financiamento Veículo,Eclipse X,Passeio,312389.34,0.32,60,1.64,Ativo,,2021-07-12,2023-09-10,true,true
+278,210,10277,,CDC,Stratos,SUV,236766.14,0.34,72,1.09,Ativo,,2024-04-27,2024-07-09,true,true
+279,211,10278,,Financiamento Veículo,Orion,SUV,140748.11,0.32,72,1.34,Ativo,,2024-09-17,2024-12-06,true,true
+280,211,10279,,Financiamento Veículo,Orion,SUV,131647.17,0.19,48,1.41,Inadimplente,,2024-03-26,2024-06-19,true,false
+281,212,10280,G003,Consórcio,Vértice,SUV,192450.53,0.32,24,1.15,Ativo,,2023-12-29,2026-01-09,true,true
+282,213,10281,,Financiamento Veículo,Eclipse X,Passeio,313084.74,0.15,72,1.8,Ativo,,2021-09-23,2022-01-23,true,true
+283,214,10282,G004,Consórcio,Vértice,SUV,210286.23,0.31,48,1.07,Ativo,,2021-04-27,2023-08-15,true,true
+284,215,10283,,Financiamento Veículo,Nimbus Sport,Passeio,416482.77,0.21,36,1.81,Ativo,,2023-04-07,2023-10-07,true,true
+285,215,10284,,Financiamento Veículo,Vértice,SUV,220817.3,0.31,60,1.27,Ativo,,2023-06-30,2024-10-28,true,true
+286,215,10285,,Financiamento Veículo,Atlas,SUV,306380.76,0.14,36,0.99,Inadimplente,,2023-07-18,2024-11-28,true,false
+287,216,10286,,Financiamento Veículo,Aurora Hatch,Passeio,111305.03,0.36,36,1.19,Ativo,,2022-03-20,2023-06-12,true,true
+288,217,10287,,Financiamento Veículo,Nimbus Sport,Passeio,392007.15,0.26,72,1.56,Cancelado,Negado crédito,2021-07-03,2021-09-27,false,false
+289,218,10288,,Financiamento Veículo,Aurora,Passeio,92779.73,0.27,72,1.26,Cancelado,Troca de produto,2024-08-12,2025-03-12,true,false
+290,219,10289,G020,Consórcio,Atlas,SUV,304998.08,0.27,72,1.15,Ativo,,2020-04-23,2021-05-26,true,true
+291,220,10290,G013,Consórcio,Nimbus,Passeio,196110.72,0.35,60,1.75,Quitado,,2020-10-18,2021-04-03,true,true
+292,220,10291,G017,Consórcio,Nimbus,Passeio,191677.17,0.22,36,1.62,Cancelado,Inadimplência antecipada,2021-07-25,2023-09-10,true,false
+293,221,10292,,Financiamento Veículo,Stratos,SUV,269103.25,0.31,48,1.37,Inadimplente,,2024-01-26,2025-10-05,true,false
+294,221,10293,,Financiamento Veículo,Nimbus Sport,Passeio,374769.73,0.27,72,1.65,Quitado,,2024-04-27,2024-11-27,true,true
+295,221,10294,,Financiamento Veículo,Nimbus Sport,Passeio,366290.51,0.16,24,1.01,Ativo,,2024-07-02,2026-07-30,true,true
+296,222,10295,,Financiamento Veículo,Nimbus Sport,Passeio,419929.09,0.2,72,1.72,Cancelado,Negado crédito,2021-04-27,2023-05-03,false,false
+297,222,10296,,Financiamento Veículo,Atlas,SUV,272897.58,0.19,72,1.28,Cancelado,Documentação incompleta,2021-01-12,2022-01-26,true,false
+298,223,10297,,Financiamento Veículo,Nimbus Sport,Passeio,393119.53,0.15,48,1.74,Quitado,,2025-02-07,2026-07-07,true,true
+299,224,10298,G018,Consórcio,Vértice,SUV,193704.69,0.37,60,1.7,Ativo,,2023-11-05,2024-01-31,true,true
+300,224,10299,,CDC,Stratos,SUV,220954.06,0.19,72,1.01,Quitado,,2024-01-28,2026-05-25,true,true
+301,225,10300,,Financiamento Veículo,Lumen,Passeio,76522.9,0.35,48,1.88,Ativo,,2020-12-16,2021-07-03,true,true
+302,225,10301,,Financiamento Veículo,Nimbus Sport,Passeio,392398.24,0.14,48,1.62,Ativo,,2020-07-10,2021-05-14,true,true
+303,226,10302,,Financiamento Veículo,Aurora Hatch,Passeio,121311.46,0.35,48,1.18,Quitado,,2019-10-21,2020-12-07,true,true
+304,227,10303,,Financiamento Veículo,Orion,SUV,156534.15,0.11,60,1.8,Inadimplente,,2023-08-04,2025-01-10,true,false
+305,227,10304,,Financiamento Veículo,Stratos,SUV,221725.11,0.33,24,1.73,Ativo,,2024-02-06,2024-07-20,true,true
+306,228,10305,G017,Consórcio,Aurora,Passeio,100943.58,0.13,48,1.83,Ativo,,2023-11-08,2024-03-06,true,true
+307,229,10306,,CDC,Aurora,Passeio,91680.67,0.32,24,1.51,Ativo,,2022-07-07,2023-03-08,true,true
+308,230,10307,G025,Consórcio,Orion,SUV,131462.7,0.23,24,1.24,Quitado,,2020-03-12,2020-04-26,true,true
+309,231,10308,,Financiamento Veículo,Stratos,SUV,235984.25,0.21,48,1.23,Ativo,,2021-03-12,2022-11-19,true,true
+310,231,10309,,Financiamento Veículo,Orion,SUV,126851.0,0.37,72,1.39,Cancelado,Desistência cliente,2020-05-22,2020-10-07,true,false
+311,231,10310,,Financiamento Veículo,Eclipse X,Passeio,284303.99,0.15,72,1.79,Ativo,,2021-02-02,2023-02-18,true,true
+312,232,10311,,CDC,Lumen,Passeio,82186.13,0.31,72,1.06,Ativo,,2025-10-25,2026-07-30,true,true
+313,233,10312,,Financiamento Veículo,Aurora Hatch,Passeio,97917.89,0.29,60,1.41,Cancelado,Inadimplência antecipada,2020-04-10,2021-01-29,true,false
+314,234,10313,,Leasing,Eclipse X,Passeio,294668.25,0.2,48,1.4,Cancelado,Desistência cliente,2020-09-09,2021-10-03,true,false
+315,234,10314,,Financiamento Veículo,Aurora Hatch,Passeio,108837.25,0.33,72,1.51,Cancelado,Desistência cliente,2021-05-12,2022-05-10,true,false
+316,235,10315,G013,Consórcio,Nimbus,Passeio,197545.86,0.28,36,1.55,Quitado,,2021-12-21,2023-05-28,true,true
+317,236,10316,G014,Consórcio,Lumen,Passeio,79789.48,0.34,60,1.5,Ativo,,2023-04-01,2023-12-28,true,true
+318,237,10317,G016,Consórcio,Nimbus,Passeio,194362.02,0.13,72,1.41,Cancelado,Troca de produto,2025-04-19,2025-11-15,true,false
+319,238,10318,,Financiamento Veículo,Eclipse X,Passeio,285568.61,0.34,60,1.28,Ativo,,2021-12-07,2022-04-08,true,true
+320,239,10319,,Leasing,Vértice,SUV,222108.31,0.29,24,1.67,Quitado,,2024-07-11,2026-02-05,true,true
+321,240,10320,,Financiamento Veículo,Nimbus Sport,Passeio,390455.2,0.3,48,1.26,Ativo,,2024-12-31,2026-04-20,true,true
+322,241,10321,G020,Consórcio,Lumen,Passeio,97776.65,0.4,60,1.75,Cancelado,Inadimplência antecipada,2025-06-12,2025-09-04,true,false
+323,242,10322,,Financiamento Veículo,Stratos,SUV,257452.73,0.36,24,1.2,Ativo,,2024-06-23,2026-04-24,true,true
+324,243,10323,,Financiamento Veículo,Eclipse X,Passeio,312482.61,0.16,36,1.42,Ativo,,2023-06-22,2025-12-01,true,true
+325,244,10324,,Leasing,Eclipse X,Passeio,292341.38,0.3,36,1.0,Inadimplente,,2020-11-18,2022-12-26,true,false
+326,244,10325,,Leasing,Aurora Hatch,Passeio,114737.8,0.14,36,1.57,Ativo,,2020-07-22,2022-11-06,true,true
+327,245,10326,,Financiamento Veículo,Eclipse X,Passeio,329859.88,0.23,60,1.34,Cancelado,Inadimplência antecipada,2020-01-31,2020-03-08,true,false
+328,246,10327,,Financiamento Veículo,Orion,SUV,148485.2,0.38,72,1.32,Ativo,,2021-10-20,2023-11-10,true,true
+329,247,10328,G005,Consórcio,Nimbus Sport,Passeio,383707.3,0.32,72,1.88,Ativo,,2024-07-02,2025-11-20,true,true
+330,248,10329,,Financiamento Veículo,Stratos,SUV,262294.08,0.24,24,1.61,Ativo,,2020-06-21,2021-06-05,true,true
+331,249,10330,,Financiamento Veículo,Lumen,Passeio,87305.77,0.24,60,1.51,Ativo,,2022-12-28,2025-04-23,true,true
+332,250,10331,,Leasing,Vértice,SUV,162472.84,0.32,72,1.22,Ativo,,2023-03-26,2023-10-15,true,true
